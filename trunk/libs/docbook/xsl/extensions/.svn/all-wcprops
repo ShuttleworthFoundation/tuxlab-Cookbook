@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/extensions
+END
+saxon653.jar.ext
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/extensions/saxon653.jar.ext
+END
+xalan25.jar.ext
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/extensions/xalan25.jar.ext
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/extensions/readme.txt
+END
+resolver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/extensions/resolver.jar
+END

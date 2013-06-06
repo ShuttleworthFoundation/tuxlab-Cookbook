@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/techdocs/tuxlab/!svn/ver/103/trunk/common
+END
+productname.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/techdocs/tuxlab/!svn/ver/57/trunk/common/productname.xml
+END
+licensenotice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/techdocs/tuxlab/!svn/ver/4/trunk/common/licensenotice.xml
+END
+pubdate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/techdocs/tuxlab/!svn/ver/15/trunk/common/pubdate.xml
+END
+conventions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/techdocs/tuxlab/!svn/ver/14/trunk/common/conventions.xml
+END
+global.ent
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/techdocs/tuxlab/!svn/ver/103/trunk/common/global.ent
+END

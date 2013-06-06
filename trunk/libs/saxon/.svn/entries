@@ -1,0 +1,86 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/saxon
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+source.zip
+file
+
+
+
+
+2007-06-04T08:59:30.000000Z
+3ea56e1f42ccc1d77b644210459d400d
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+has-props
+
+saxon.jar
+file
+
+
+
+
+2007-06-04T08:59:30.000000Z
+3d91a745b31916812be974ea747d95e3
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+has-props
+
+samples
+dir
+
+doc
+dir
+
+saxon-jdom.jar
+file
+
+
+
+
+2007-06-04T08:59:30.000000Z
+092487eee7420baaee5f83ccd536f63d
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+has-props
+
+saxon-xml-apis.jar
+file
+
+
+
+
+2007-06-04T08:59:30.000000Z
+d105c81bae8ae8545689ac04acb9f9e8
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+has-props
+

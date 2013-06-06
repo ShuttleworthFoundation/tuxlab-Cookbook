@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/options
+END
+BasicFormatOptionSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/options/BasicFormatOptionSet.java
+END
+PNGOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/options/PNGOptions.java
+END
+FormatOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/options/FormatOption.java
+END
+GIFOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/options/GIFOptions.java
+END
+PSDOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/options/PSDOptions.java
+END
+SunRasterOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/options/SunRasterOptions.java
+END
+IntOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/options/IntOption.java
+END
+OptionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/options/OptionException.java
+END
+BooleanOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/options/BooleanOption.java
+END
+FormatOptionSetSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/options/FormatOptionSetSupport.java
+END
+JPGOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/options/JPGOptions.java
+END
+FormatOptionSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/options/FormatOptionSet.java
+END

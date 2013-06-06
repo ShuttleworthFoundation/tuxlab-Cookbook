@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE appendix PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+                      "http://www.docbook.org/xml/4.4/docbookx.dtd"
+[ 
+<!ENTITY % globalents SYSTEM "../common/global.ent">
+ %globalents; 
+ <!ENTITY % xinclude SYSTEM "../libs/xinclude.mod">
+%xinclude;
+ ]>
+<appendix id="apdx_awaress_questionnaire">
+	<title>School Awareness Questionnaire</title>
+	<section>
+		<title>Introduction</title>
+		<para>The Shuttleworth Foundation is committed to the improvement of education, with a specific focus on mathematics, science, entrepreneurship
+			and technology, as well as the promotion of open source software in South Africa. As a propagator of `social innovation', the main objective
+			of the Shuttleworth Foundation is to invest in projects that provide innovative solutions to educational challenges in order to unlock the
+			creative and intellectual potential of the South African youth, allowing them to live the dream that `anything is possible'. </para>
+		<para>To further encourage the uptake of technology in South Africa, the Shuttleworth Foundation supports the use of open source software. The
+			Shuttleworth Foundation strongly believes that open source software should be the preferred choice of software for schooling in South Africa.
+			Open source software provides users with freedoms not obtainable from proprietary software, this includes the freedom to obtain, use, modify
+			and distribute the software. The Shuttleworth Foundation believes that the use of open source software will provide effective and economical
+			access to information and communication technology.</para>
+		<para>In 2002 the Foundation started to actively promote the use open source software as a computer lab solution for schools. The Foundation
+			funded several projects to establish open source based computer labs in schools, as well as an internally initiating a pilot to prove the
+			effectiveness of open source software as a school computing solution. The Foundation also initiated a project to facilitate the involvement
+			of volunteers in refurbishing computers and establishing Shuttleworth tuXlabs.</para>
+		<para>Based on the success of the pilot and volunteer project, the Foundation extended the pilot and established a program with the ambitious
+			ideal of establishing a further 80 Shuttleworth tuXlabs in the Western Cape over the next two years.</para>
+		<para>The Foundation is requesting that schools fill in this questionnaire in order for them to ascertain the requirements of schools for
+			computer technology implementations. The questionnaire covers computer use and management, technology and open source knowledge and
+			recognition of the foundation within schools. This data will allow us to identify areas where our focus and resources may be required to
+			assist with ICT in Education. We appreciate your support.</para>
+		<para>If you would like assistance with the questionnaire or require any further information about this research, please contact</para>
+		<para>Hilton Theunissen</para>
+		<para>Open Source Project Manager</para>
+		<para>E-mail: hilton@shuttleworthfoundation.org</para>
+		<para>Url: www.shuttleworthfoundation.org</para>
+		<para>Tel: 021 970 1212</para>
+		<para>Fax: 021 970 1213</para>
+		<para>
+			<emphasis role="bold">Please complete and return questionnaire below to : </emphasis>
+		</para>
+		<para>Casey-Lea Olson</para>
+		<para>Open Source Project Administrator</para>
+		<para>Tel: 021 970 1232</para>
+		<para>Fax: 021 970 1233</para>
+		<para>E-mail: casey@shuttleworthfoundation.org</para>
+	</section>
+	<section>
+		<title>Questionnaire</title>
+		<table>
+			<title>Participant info:</title>
+			<tgroup cols="2" align="left">
+				<colspec colnum="1" colname="col1" colwidth="1*"/>
+				<colspec colnum="2" colname="col2" colwidth="2*"/>
+				<tbody>
+					<row>
+						<entry>School name</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Address</entry>
+						<entry morerows="1"/>
+					</row>
+					<row>
+						<entry/>
+						<entry/>
+					</row>
+					<row>
+						<entry>Tel. no</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Fax. no</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>E-mail</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Website</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Principal</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Secretary</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Computer Co-ordinator</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>No. of staff</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>No. of Learners</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>No. of Governing Body Members</entry>
+						<entry/>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		<table>
+			<title>Computers in your school:</title>
+			<tgroup cols="2" align="left">
+				<colspec colnum="1" colname="col1" colwidth="1*"/>
+				<colspec colnum="2" colname="col2" colwidth="2*"/>
+				<tbody>
+					<row>
+						<entry>How many computers are used in the school?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Where are the computers used:</entry>
+						<entry morerows="3"/>
+					</row>
+					<row>
+						<entry>Admin Block: No. of computers:</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Staff room : No. of computers:</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Computer Lab: No of computers:</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Are the computers networked?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Does the school have a computer committee?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>How many members does the committee consist of?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Who are the members?</entry>
+						<entry morerows="1"/>
+					</row>
+					<row>
+						<entry/>
+						<entry/>
+					</row>
+					<row>
+						<entry>Do the learners pay a fee for participation?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Is the focus computer literacy or curriculum delivery?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Does the school have a teacher who facilitates the classes and does he/she have any formal computer training.</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Who is responsible for daily management of the lab?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Who was responsible for cost of :</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>1. security of the lab</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>2. furniture in the lab</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>3. electrical plugs installation</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>4. computers in the lab</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>When did the school acquire the computers in the lab?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>How was the equipment obtained?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>What speed are the majority computers? e.g. Pentium 1,2,3 or higher </entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Did the school contract a service provider for installation and setup? </entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>If so, who</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Did any staff members participate in setting up the lab?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Who is responsible for software support?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Who is responsible for hardware maintenance?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>What operating and office application software is being used?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Did the school pay for this software?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>If No, how did you get the software?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Are you using educational software? If so, what?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Did the staff get literacy and technical training?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Was there any form of certification?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Is the school staff utilising this lab?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Does the school have Internet access in the lab?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Who pays for the connectivity?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>What is the monthly cost?</entry>
+						<entry/>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		<table>
+			<title>Open source:</title>
+			<tgroup cols="2" align="left">
+				<colspec colnum="1" colname="col1" colwidth="1*"/>
+				<colspec colnum="2" colname="col2" colwidth="2*"/>
+				<tbody>
+					<row>
+						<entry>Has the school heard of Open source software before?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>What does the school understand about the term?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Where did the school learn about Open source? </entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Has any staff member attended a tuXlab installation?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>What Open Source software does the school know or use ?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>How is the Open source software being used?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Has the school heard about the Shuttleworth tuXlabs program?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Would the school like to be included in our tuXlab program?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Where did you hear about them?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Has the school heard of our volunteer program?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry> If so, where?</entry>
+						<entry/>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		<table>
+			<title>The Shuttleworth Foundation</title>
+			<tgroup cols="2" align="left">
+				<colspec colnum="1" colname="col1" colwidth="1*"/>
+				<colspec colnum="2" colname="col2" colwidth="2*"/>
+				<tbody>
+					<row>
+						<entry>Has the school heard about the Shuttleworth Foundation?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Where did the school hear about the foundation?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>What does the Foundation do?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Does the school know of any of our projects?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Has school visited our website before?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Has the school seen any of our newsletters?</entry>
+						<entry/>
+					</row>
+					<row>
+						<entry>Has the school submitted a proposal previously to the Foundation?</entry>
+						<entry/>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		<para>Other comments:</para>
+		<para/>
+		<para/>
+		<para/>
+		<para/>
+		<para/>
+		<para/>
+		<para/>
+		<para/>
+		<para/>
+		<para/>
+		<para/>
+		<para>Thank you for taking the time to fill out this form as accurately as possible. We greatly appreciate your assistance.</para>
+		<para>Confidential Disclosure:</para>
+		<para>We hereby confirm that the school details and information completed will not be made available to anybody outside the Foundation unless
+			approved by the school by means of letter. The Foundation will provide the school with copy of results and the original will be stored at the
+			Foundation's offices.</para>
+	</section>
+</appendix>

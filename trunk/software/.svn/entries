@@ -1,0 +1,52 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/software
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-01-17T08:32:42.190241Z
+103
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+software.xml
+file
+
+
+
+
+2007-06-04T08:59:31.000000Z
+7bf56b5a11d913b5d19aad9866c44e92
+2007-01-17T08:32:42.190241Z
+103
+techdocs
+
+abstract-software.xml
+file
+
+
+
+
+2007-06-04T08:59:31.000000Z
+e409b251de462649c6b871993fb1992a
+2006-10-27T21:29:13.311455Z
+75
+ggoode
+

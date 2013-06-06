@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/decoder/tiff
+END
+Packbits.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/decoder/tiff/Packbits.class
+END
+TIFDecoderFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/decoder/tiff/TIFDecoderFactory.class
+END
+TIFTags.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/decoder/tiff/TIFTags.class
+END
+IFD.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/decoder/tiff/IFD.class
+END
+LZWDecomp.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/decoder/tiff/LZWDecomp.class
+END
+TiffNumberReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/decoder/tiff/TiffNumberReader.class
+END
+Decompressor.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/decoder/tiff/Decompressor.class
+END
+CCITT3d1Decomp.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/decoder/tiff/CCITT3d1Decomp.class
+END
+IFDDecode.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/decoder/tiff/IFDDecode.class
+END
+TIFField.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/decoder/tiff/TIFField.class
+END
+CCITT3d2Decomp.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/decoder/tiff/CCITT3d2Decomp.class
+END
+TIFDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/decoder/tiff/TIFDecoder.class
+END
+TIFFieldEnumerator.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/decoder/tiff/TIFFieldEnumerator.class
+END
+CCITTClassFDecomp.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/decoder/tiff/CCITTClassFDecomp.class
+END

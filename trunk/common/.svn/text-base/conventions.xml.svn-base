@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+	"http://www.docbook.org/xml/4.4/docbookx.dtd"
+[ 
+<!ENTITY % globalents SYSTEM "../common/global.ent">
+%globalents; 
+]>-->
+<sect1 id="conventions">
+    <title>Conventions</title>
+    <para>
+        <emphasis role="bold">The following admonitions will be found throughout the book:</emphasis>
+    </para>
+    <note>
+        <para>A note presents interesting, sometimes technical, pieces of information related to the
+            surrounding discussion.</para>
+    </note>
+    <tip>
+        <para>A tip offers advice or an easier way of doing something.</para>
+    </tip>
+    <caution>
+        <para>A caution advises you of potential problems and helps you to steer clear thereof.</para>
+    </caution>
+    <warning>
+        <para>A warning advises you of a hazard condition that may be created in a given scenario.</para>
+    </warning>
+    <para>
+        <emphasis role="bold">Cross reference conventions for print will be shown as follows:</emphasis>
+    </para>
+    <itemizedlist>
+        <listitem>
+            <para>Internal references will look like this: <xref linkend="introduction"/>. The
+                numeral contained by square braces is the [page number].</para>
+        </listitem>
+        <listitem>
+            <para>External reference, say to a Web Site, will look like <ulink
+            	url="http://www.inwords.co.za">this</ulink>.</para>
+        </listitem>
+    </itemizedlist>
+    <note>
+        <para>PDF, HTML or XHTML versions of this document will use hyper-links to denote cross-references.</para>
+    </note>
+    <para>
+        <emphasis role="bold">Type conventions will be shown as follows:</emphasis>
+    </para>
+    <itemizedlist>
+        <listitem>
+            <para>File names or paths to directories will be shown in <filename>monospace</filename> type.</para>
+        </listitem>
+        <listitem>
+            <para>Commands that you type at a prompt will be shown in <command> bold</command> type.</para>
+        </listitem>
+        <listitem>
+            <para>Options that you click, select or choose in the user interface will be shown in
+                <filename>monospace</filename> type.</para>
+        </listitem>
+        <listitem>
+            <para>When variables, parameters, SGML tags, etc. are contained within a paragraph of
+                text, they will be shown in <command>monospaced</command> type. Otherwise they will
+                use the normal type.</para>
+        </listitem>
+    </itemizedlist>
+    <para>
+        <emphasis role="bold">Menu selections, mouse actions, and keyboard short-cuts:</emphasis>
+    </para>
+    <itemizedlist>
+        <listitem>
+            <para>A sequence of menu selections will be shown as follows:<menuchoice>
+                    <guimenu>
+                        <accel>F</accel>ile</guimenu>
+                    <guimenuitem>
+                        <accel>O</accel>pen</guimenuitem>
+                </menuchoice>
+            </para>
+        </listitem>
+        <listitem>
+            <para>Mouse actions shall assume a right-handed mouse configuration. The terms
+                &quot;<mousebutton>click</mousebutton>&quot; and
+                &quot;<mousebutton>double-click</mousebutton>&quot; refers to using the
+                left-hand mouse button. The term
+                &quot;<mousebutton>right-click</mousebutton>&quot; refers to using the
+                right-hand button.</para>
+        </listitem>
+        <listitem>
+            <para>Keyboard short-cut combinations will be shown as follows: <keycombo>
+                    <keysym>Ctrl+N</keysym>
+                </keycombo>. Where the convention for &quot;Control&quot;,
+                &quot;Shift&quot;, and &quot;Alternate&quot; keys will be
+                <keysym>Ctrl</keysym>, <keysym>Shift</keysym>, <keysym>Alt</keysym>, respectively,
+                and shall mean to hold down the first key while pressing the second key.</para>
+        </listitem>
+    </itemizedlist>
+    <para>
+        <emphasis role="bold">Code conventions:</emphasis>
+    </para>
+    <itemizedlist>
+        <listitem>
+            <para>Code and mark-up samples will be formatted in a grey block.</para>
+        </listitem>
+        <listitem>
+            <para>Sometimes lines of code or mark-up examples will be longer than the page width. To
+                avoid their running off the page, the slash character &quot;\&quot; is used
+                to denote a soft line break. This means that the line of code is in reality meant to
+                be on one line, but for print formatting it has been broken into two lines.</para>
+        </listitem>
+    </itemizedlist>
+</sect1>

@@ -1,0 +1,79 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/jai
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-02-07T06:11:25.034226Z
+122
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+LICENSE-jai.txt
+file
+
+
+
+
+2007-06-04T08:52:16.000000Z
+1ddeba988760a93c1294d45cfda71b7e
+2007-01-17T13:14:03.824940Z
+119
+techdocs
+
+lib
+dir
+
+COPYRIGHT-jai.txt
+file
+
+
+
+
+2007-06-04T08:52:16.000000Z
+cb8e546cf86c2b1bfcb0d0c9a1882ede
+2007-01-17T13:14:03.824940Z
+119
+techdocs
+
+THIRDPARTYLICENSEREADME-jai.txt
+file
+
+
+
+
+2007-06-04T08:52:16.000000Z
+ebc91d0efae6b8074dfd7cfe38e6b5cf
+2007-01-17T13:14:03.824940Z
+119
+techdocs
+
+DISTRIBUTIONREADME-jai.txt
+file
+
+
+
+
+2007-06-04T08:52:16.000000Z
+888931a794fbb73aa0a2b686e16dc186
+2007-01-17T13:14:03.824940Z
+119
+techdocs
+

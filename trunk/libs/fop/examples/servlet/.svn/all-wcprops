@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/techdocs/tuxlab/!svn/ver/114/trunk/libs/fop/examples/servlet
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/techdocs/tuxlab/!svn/ver/114/trunk/libs/fop/examples/servlet/build.bat
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/techdocs/tuxlab/!svn/ver/114/trunk/libs/fop/examples/servlet/build.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/techdocs/tuxlab/!svn/ver/114/trunk/libs/fop/examples/servlet/README
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/techdocs/tuxlab/!svn/ver/114/trunk/libs/fop/examples/servlet/build.xml
+END

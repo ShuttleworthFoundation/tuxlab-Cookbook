@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/encoder/sunraster
+END
+SunRasterEncoderFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/encoder/sunraster/SunRasterEncoderFactory.class
+END
+RLEOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/encoder/sunraster/RLEOutputStream.class
+END
+SunRasterHeader.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/encoder/sunraster/SunRasterHeader.class
+END
+RGBSunRasterEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/encoder/sunraster/RGBSunRasterEncoder.class
+END
+PaletteSunRasterEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/encoder/sunraster/PaletteSunRasterEncoder.class
+END
+SpecificEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/encoder/sunraster/SpecificEncoder.class
+END
+SunRasterEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/encoder/sunraster/SunRasterEncoder.class
+END

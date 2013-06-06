@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/lib
+END
+lib.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/lib/lib.xml
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/lib/ChangeLog
+END
+lib.xweb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/lib/lib.xweb
+END
+lib.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/lib/lib.xsl
+END

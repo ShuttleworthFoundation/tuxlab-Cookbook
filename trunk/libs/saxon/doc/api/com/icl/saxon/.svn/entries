@@ -1,0 +1,511 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/saxon/doc/api/com/icl/saxon
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+PreparedStyleSheet.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+8aded350d4e7c964d07151be6573c41f
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+PreviewManager.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+603fe93140bab8b9452d42508f45a2ab
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+TemplatesHandlerImpl.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+b645e0f253d3d2d0b4e29e474f95f784
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+StandardErrorListener.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+315fdfaf7ba31364e73599e4bf07e610
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+KeyManager.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+3b9654a7b586cda11ab40ec6e4bb8b4c
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+NodeHandler.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+916edbd532ac5047c410d3fdf08094c2
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+Mode.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+474df3ff400556bbb5c1cfd4746308e9
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+Filter.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+cd3ab3a03fb11496677bd632245ae85d
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+Version.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+a427374c0ca859fb11675c28f53751cd
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+number
+dir
+
+jdom
+dir
+
+FeatureKeys.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+4c887d0a7c9300d8986b4f4335fc1415
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+package-tree.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+d369555ea905f58fdef50553d91e0f78
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+StyleSheet.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+89560a7d5e95015c37d87af1d413bf28
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+Bindery.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+81a4339a6b435e98e18b04477c7bd66e
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+tree
+dir
+
+PIGrabber.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+0a53c2a9725fbfde39c4761a7a0ec0df
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+handlers
+dir
+
+aelfred
+dir
+
+InternalSaxonError.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+7aca7ee2c6c5f09d0c0939442628e07f
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+tinytree
+dir
+
+ExtendedInputSource.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+d3cd01fed0742cb72b2ea816df1a234e
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+RuleManager.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+e8e5d536cb615c8c2bd64b30d8ee86d8
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+DecimalFormatManager.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+73b0245fd44171942cbc55c1f84966f2
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+IDFilter.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+6b1cd463134958efbc243c9fac05a789
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+ContentEmitter.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+5650dca8c7a14aecdf549d051bc0d716
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+charcode
+dir
+
+WinStyleSheet.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+ad30d22865b0ce8535fb4df5fe09783e
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+pattern
+dir
+
+expr
+dir
+
+TreeDriver.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+b1eb7709ad8cafb8419aecaf4c480e4a
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+TransformerFactoryImpl.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+53b4d2c69dc7610d61ad5c3e72c58f04
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+TransformerHandlerImpl.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+e955dc26e01cd1c98bafd9b7286faec4
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+StylesheetStripper.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+5b18319129b43af2c9709082792710d6
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+Controller.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+653b76f731b47e0ed4d69d37bdf85a20
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+package-frame.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+5f6b7c7cbc7dff02c5b39532a57ca3d4
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+sort
+dir
+
+Context.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+fc2c07c6738673cd66ef94f1f62d2dc8
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+package-summary.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+903eb90b598dcc8c514175e5f9a2ab9e
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+trace
+dir
+
+DOMDriver.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+7208c23eb2b36bafd3cd2baa5f6da519
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+exslt
+dir
+
+sql
+dir
+
+ParameterSet.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+18ceeecc54e7d33876e68e116c72b88a
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+output
+dir
+
+style
+dir
+
+KeyDefinition.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+d2b6519e6a60cdd85147629d6a028341
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+StandardURIResolver.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+7d63513523b66464108aac6e474886a4
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+functions
+dir
+
+Loader.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+b7cbb020ec5f459429857f874386cac7
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+om
+dir
+
+Binding.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+bd6c4bbaf6abd56c230d4e7e54ef7113
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+IdentityTransformerHandler.html
+file
+
+
+
+
+2007-06-04T08:59:26.000000Z
+05d3754ef214309a930949b1ebfe7f02
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+

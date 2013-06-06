@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core
+END
+MemoryJimiImageFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/MemoryJimiImageFactory.html
+END
+JimiDecoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiDecoder.html
+END
+FormatFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/FormatFactory.html
+END
+UnsupportedFormatException.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/UnsupportedFormatException.html
+END
+JimiEncoderFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiEncoderFactory.html
+END
+OptionsObject.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/OptionsObject.html
+END
+OneshotJimiImageFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/OneshotJimiImageFactory.html
+END
+StorageException.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/StorageException.html
+END
+JimiWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiWriter.html
+END
+ConfigurationException.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/ConfigurationException.html
+END
+JimiMultiImageRasterEncoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiMultiImageRasterEncoder.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/package-tree.html
+END
+Jimi.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/Jimi.html
+END
+JimiDecodingController.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiDecodingController.html
+END
+InvalidOptionException.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/InvalidOptionException.html
+END
+ImageSeriesDecodingController.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/ImageSeriesDecodingController.html
+END
+VMMControl.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/VMMControl.html
+END
+JimiLicenseInformation.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiLicenseInformation.html
+END
+JimiImageEnumeration.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiImageEnumeration.html
+END
+JimiDecoderFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiDecoderFactory.html
+END
+JimiRasterEncoderSupport.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiRasterEncoderSupport.html
+END
+VMemJimiImageFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/VMemJimiImageFactory.html
+END
+JimiLicenseFlags.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiLicenseFlags.html
+END
+JimiUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiUtils.html
+END
+NoImageAvailException.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/NoImageAvailException.html
+END
+JimiMultiImageRasterDecoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiMultiImageRasterDecoder.html
+END
+JimiEncoderFactorySupport.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiEncoderFactorySupport.html
+END
+JimiSingleImageRasterEncoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiSingleImageRasterEncoder.html
+END
+JimiImageFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiImageFactory.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/package-frame.html
+END
+ImageAccessException.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/ImageAccessException.html
+END
+VMemException.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/VMemException.html
+END
+JimiRasterImageEnumeration.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiRasterImageEnumeration.html
+END
+JimiExtension.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiExtension.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/package-summary.html
+END
+JimiEncoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiEncoder.html
+END
+JimiControl.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiControl.html
+END
+JimiImage.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiImage.html
+END
+JimiRasterDecoderSupport.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiRasterDecoderSupport.html
+END
+StorageFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/StorageFactory.html
+END
+JimiMultiImageDecoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiMultiImageDecoder.html
+END
+JimiSingleImageEncoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiSingleImageEncoder.html
+END
+JimiRasterDecoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiRasterDecoder.html
+END
+JimiDecoderFactorySupport.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiDecoderFactorySupport.html
+END
+JimiSingleImageRasterDecoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiSingleImageRasterDecoder.html
+END
+JimiMultiDecodingController.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiMultiDecodingController.html
+END
+MutableJimiImage.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/MutableJimiImage.html
+END
+JimiStorageFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiStorageFactory.html
+END
+JimiProExtension.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiProExtension.html
+END
+JimiImageSeries.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiImageSeries.html
+END
+JimiImageHandle.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiImageHandle.html
+END
+JimiException.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiException.html
+END
+JimiSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiSource.html
+END
+JimiFactoryManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiFactoryManager.html
+END
+JimiReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/JimiReader.html
+END

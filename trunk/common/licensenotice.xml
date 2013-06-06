@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<!DOCTYPE legalnotice PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+                      "http://www.docbook.org/xml/4.4/docbookx.dtd" [
+<!ENTITY % globalent SYSTEM "../common/global.ent">
+%globalent;
+]>-->
+<legalnotice>
+    <para>Unless otherwise expressly stated, all original material of whatever nature created by the
+        contributors of the community, is licensed under the <ulink
+            url="http://creativecommons.org/">Creative Commons</ulink> license <ulink
+            url="http://creativecommons.org/licenses/by-sa/2.5/">Share-Alike</ulink>.</para>
+    <para>What follows is a copy of the &quot;human-readable summary&quot; of this document.
+        The Legal Code (full license) may be read <ulink
+            url="http://creativecommons.org/licenses/by-sa/2.5/legalcode">here</ulink>.</para>
+    <para>
+        <emphasis role="bold">You are free:</emphasis>
+    </para>
+    <itemizedlist spacing="compact">
+        <listitem>
+            <para>to copy, distribute, display, and perform the work</para>
+        </listitem>
+        <listitem>
+            <para>to make derivative works</para>
+        </listitem>
+        <listitem>
+            <para>to make commercial use of the work</para>
+        </listitem>
+    </itemizedlist>
+    <para>
+        <emphasis role="bold">Under the following conditions:</emphasis>
+    </para>
+    <para>
+        <inlinemediaobject>
+            <imageobject>
+                <!-- Do not change the value of @fileref -->
+                <imagedata align="left" fileref="../images/ccdeed2.gif" format="GIF"/>
+            </imageobject>
+        </inlinemediaobject>
+        <emphasis role="bold">Attribution.</emphasis> You must give the original author credit. </para>
+    <para>
+        <inlinemediaobject>
+            <imageobject>
+                <!-- Do not change the value of @fileref -->
+                <imagedata align="left" fileref="../images/standard.gif" format="GIF"/>
+            </imageobject>
+        </inlinemediaobject>
+        <emphasis role="bold">Share Alike.</emphasis> If you alter, transform, or build upon this
+        work, you may distribute the resulting work only under a license identical to this one. </para>
+    <itemizedlist spacing="compact">
+        <listitem>
+            <para>For any reuse or distribution, you must make clear to others the license terms of
+                this work.</para>
+        </listitem>
+        <listitem>
+            <para>Any of these conditions can be waived if you get permission from the copyright
+                holder.</para>
+        </listitem>
+    </itemizedlist>
+    <para>
+        <emphasis role="bold">Your fair use and other rights are in no way affected by the
+        above.</emphasis>
+    </para>
+    <para>This is a human-readable summary of the <ulink
+            url="http://creativecommons.org/licenses/by-sa/2.5/legalcode">Legal Code (the full
+            license)</ulink>.</para>
+</legalnotice>

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/pattern
+END
+Pattern.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/pattern/Pattern.html
+END
+NameTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/pattern/NameTest.html
+END
+NoNodeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/pattern/NoNodeTest.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/pattern/package-frame.html
+END
+LocationPathPattern.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/pattern/LocationPathPattern.html
+END
+NodeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/pattern/NodeTest.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/pattern/package-summary.html
+END
+UnionPattern.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/pattern/UnionPattern.html
+END
+KeyPattern.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/pattern/KeyPattern.html
+END
+NodeTypeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/pattern/NodeTypeTest.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/pattern/package-tree.html
+END
+IDPattern.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/pattern/IDPattern.html
+END
+NamespaceTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/pattern/NamespaceTest.html
+END
+AnyNodeTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/pattern/AnyNodeTest.html
+END
+AnyChildNodePattern.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/pattern/AnyChildNodePattern.html
+END

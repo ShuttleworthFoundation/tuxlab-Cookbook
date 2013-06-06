@@ -1,0 +1,44 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/fop/build
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-01-17T09:28:41.311560Z
+111
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+fop.jar
+file
+
+
+
+
+2007-06-04T08:53:15.000000Z
+df8a4379606d17b7c671b0364b76882c
+2007-01-17T09:28:41.311560Z
+111
+techdocs
+has-props
+
+site
+dir
+

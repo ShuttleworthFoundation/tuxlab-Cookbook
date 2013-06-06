@@ -1,0 +1,165 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/fop
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-01-17T09:55:37.371937Z
+114
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+LICENSE
+file
+
+
+
+
+2007-06-04T08:55:04.000000Z
+beebc2a003a66e1706477f2fbc375423
+2007-01-17T09:15:52.308312Z
+109
+techdocs
+
+STATUS
+file
+
+
+
+
+2007-06-04T08:55:04.000000Z
+3ef03dd8d04b22ee81a45648cd02f164
+2007-01-17T09:15:52.308312Z
+109
+techdocs
+
+conf
+dir
+
+docs
+dir
+
+fop.bat
+file
+
+
+
+
+2007-06-04T08:55:04.000000Z
+f9994fc21538e646df44c48514393fb3
+2007-01-17T09:15:52.308312Z
+109
+techdocs
+
+ReleaseNotes.html
+file
+
+
+
+
+2007-06-04T08:55:04.000000Z
+2053b3a36e14218e5c28f2cf6cb68cb5
+2007-01-17T09:15:52.308312Z
+109
+techdocs
+
+fop.sh
+file
+
+
+
+
+2007-06-04T08:55:04.000000Z
+edce3b33dcd9b90853d2c4192faccb6b
+2007-01-17T09:15:52.308312Z
+109
+techdocs
+has-props
+
+README
+file
+
+
+
+
+2007-06-04T08:55:04.000000Z
+237fd9dad31ffc90b394465fd550ae1c
+2007-01-17T09:15:52.308312Z
+109
+techdocs
+
+build
+dir
+
+lib
+dir
+
+xalan.bat
+file
+
+
+
+
+2007-06-04T08:55:04.000000Z
+3302ac5c613ac5d086bef3ee5fea79ec
+2007-01-17T09:15:52.308312Z
+109
+techdocs
+
+CHANGES
+file
+
+
+
+
+2007-06-04T08:55:04.000000Z
+2992376c9349b52349ee955ffbfdc4c5
+2007-01-17T09:15:52.308312Z
+109
+techdocs
+
+KEYS
+file
+
+
+
+
+2007-06-04T08:55:04.000000Z
+2c0e767329deda89169a9191d0a9cadb
+2007-01-17T09:15:52.308312Z
+109
+techdocs
+
+xalan.sh
+file
+
+
+
+
+2007-06-04T08:55:04.000000Z
+4f385bbfe4b6439a3a6b728f841e6777
+2007-01-17T09:15:52.308312Z
+109
+techdocs
+has-props
+
+examples
+dir
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/decoder/pcx
+END
+PCXDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/decoder/pcx/PCXDecoder.java
+END
+PCXHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/decoder/pcx/PCXHeader.java
+END
+DCXDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/decoder/pcx/DCXDecoder.java
+END
+DCXHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/decoder/pcx/DCXHeader.java
+END
+PCXColorMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/decoder/pcx/PCXColorMap.java
+END
+PCXDecoderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/decoder/pcx/PCXDecoderFactory.java
+END
+PCXImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/decoder/pcx/PCXImage.java
+END

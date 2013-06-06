@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/decoder/ico
+END
+ICODecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/decoder/ico/ICODecoder.java
+END
+BitmapInfoHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/decoder/ico/BitmapInfoHeader.java
+END
+RGBQuad.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/decoder/ico/RGBQuad.java
+END
+IconDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/decoder/ico/IconDir.java
+END
+ICODecoderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/decoder/ico/ICODecoderFactory.java
+END
+IconDirEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/decoder/ico/IconDirEntry.java
+END
+IconImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/decoder/ico/IconImage.java
+END

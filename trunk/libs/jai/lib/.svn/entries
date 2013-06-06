@@ -1,0 +1,54 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/jai/lib
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-02-07T06:11:25.034226Z
+122
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+jai_core.jar
+file
+
+
+
+
+2007-06-04T08:52:16.000000Z
+f398bc038307ee434bac1b93ba3ab02d
+2007-02-07T06:11:25.034226Z
+122
+techdocs
+has-props
+
+jai_codec.jar
+file
+
+
+
+
+2007-06-04T08:52:16.000000Z
+1b0f328c9eda0992167ce503b0a5afcc
+2007-02-07T06:11:25.034226Z
+122
+techdocs
+has-props
+

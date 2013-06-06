@@ -1,0 +1,52 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/fop/examples/fo/footnotes
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-01-17T09:55:37.371937Z
+114
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+columns.fo
+file
+
+
+
+
+2007-06-04T08:54:54.000000Z
+89da7610cf964144b0bafd1e092e9f6e
+2007-01-17T09:55:37.371937Z
+114
+techdocs
+
+simple.fo
+file
+
+
+
+
+2007-06-04T08:54:54.000000Z
+6d73ad4e180127fe8eda11624694b8b8
+2007-01-17T09:55:37.371937Z
+114
+techdocs
+

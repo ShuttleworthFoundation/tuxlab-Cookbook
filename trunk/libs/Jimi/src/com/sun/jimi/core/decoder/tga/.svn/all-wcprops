@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/decoder/tga
+END
+TGADecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/decoder/tga/TGADecoder.java
+END
+TGAFileHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/decoder/tga/TGAFileHeader.java
+END
+TGAColorMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/decoder/tga/TGAColorMap.java
+END
+TGADecoderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/decoder/tga/TGADecoderFactory.java
+END

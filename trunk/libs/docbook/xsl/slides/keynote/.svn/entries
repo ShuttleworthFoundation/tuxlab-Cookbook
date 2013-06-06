@@ -1,0 +1,55 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/docbook/xsl/slides/keynote
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-01-17T08:51:17.692369Z
+106
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+ChangeLog
+file
+
+
+
+
+2007-06-04T08:50:25.000000Z
+66aae4a14fe9ea0b5a2faf9fed8e7ed4
+2007-01-17T08:51:17.692369Z
+106
+techdocs
+
+xsltsl
+dir
+
+default.xsl
+file
+
+
+
+
+2007-06-04T08:50:25.000000Z
+e508f341c22c997165b485c2aaeb086a
+2007-01-17T08:51:17.692369Z
+106
+techdocs
+

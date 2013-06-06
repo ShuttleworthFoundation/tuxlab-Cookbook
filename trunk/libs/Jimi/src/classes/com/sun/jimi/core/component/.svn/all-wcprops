@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component
+END
+JimiScrollPane.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component/JimiScrollPane.class
+END
+FitWidthRenderer$ResizeWatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component/FitWidthRenderer$ResizeWatcher.class
+END
+ScaleRenderer.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component/ScaleRenderer.class
+END
+JimiImageRenderer.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component/JimiImageRenderer.class
+END
+JimiCanvas.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component/JimiCanvas.class
+END
+ScrollRenderer.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component/ScrollRenderer.class
+END
+SmartScrollingRenderer$ResizeListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component/SmartScrollingRenderer$ResizeListener.class
+END
+BestFitRenderer.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component/BestFitRenderer.class
+END
+JimiCanvasLW.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component/JimiCanvasLW.class
+END
+SmartScrollingRenderer.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component/SmartScrollingRenderer.class
+END
+AbstractRenderer.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component/AbstractRenderer.class
+END
+CropRenderer.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component/CropRenderer.class
+END
+CroppedPreviewCanvas.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component/CroppedPreviewCanvas.class
+END
+SmartScrollingRenderer$ResizeWatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component/SmartScrollingRenderer$ResizeWatcher.class
+END
+AbstractRenderer$ResizeWatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component/AbstractRenderer$ResizeWatcher.class
+END
+AreaRenderer.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component/AreaRenderer.class
+END
+ScrollPaneLayout.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component/ScrollPaneLayout.class
+END
+FitWidthRenderer$ResizeListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component/FitWidthRenderer$ResizeListener.class
+END
+FitToWidthPanel.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component/FitToWidthPanel.class
+END
+ImageCache.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component/ImageCache.class
+END
+SmartCroppingPanel.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component/SmartCroppingPanel.class
+END
+FitWidthRenderer.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component/FitWidthRenderer.class
+END
+AspectScaler.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/component/AspectScaler.class
+END

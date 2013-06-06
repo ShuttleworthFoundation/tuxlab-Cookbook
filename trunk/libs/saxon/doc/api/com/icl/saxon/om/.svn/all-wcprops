@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om
+END
+ProcInstParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/ProcInstParser.html
+END
+Name.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/Name.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/package-summary.html
+END
+Builder.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/Builder.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/package-tree.html
+END
+DocumentInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/DocumentInfo.html
+END
+Navigator.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/Navigator.html
+END
+Namespace.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/Namespace.html
+END
+NodeEnumeration.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/NodeEnumeration.html
+END
+XMLChar.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/XMLChar.html
+END
+DocumentBuilderFactoryImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/DocumentBuilderFactoryImpl.html
+END
+NodeInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/NodeInfo.html
+END
+Axis.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/Axis.html
+END
+EmptyEnumeration.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/EmptyEnumeration.html
+END
+DocumentBuilderImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/DocumentBuilderImpl.html
+END
+PrependIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/PrependIterator.html
+END
+DocumentPool.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/DocumentPool.html
+END
+Stripper.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/Stripper.html
+END
+AbstractNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/AbstractNode.html
+END
+SingletonEnumeration.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/SingletonEnumeration.html
+END
+NamePool.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/NamePool.html
+END
+NamespaceException.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/NamespaceException.html
+END
+AxisEnumeration.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/om/AxisEnumeration.html
+END

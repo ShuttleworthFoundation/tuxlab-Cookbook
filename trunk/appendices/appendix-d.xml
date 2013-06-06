@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE appendix PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+                      "http://www.docbook.org/xml/4.4/docbookx.dtd"
+[ 
+<!ENTITY % globalents SYSTEM "../common/global.ent">
+ %globalents; 
+ <!ENTITY % xinclude SYSTEM "../libs/xinclude.mod">
+%xinclude;
+ ]>
+<appendix id="apdx_code_of_conduct">
+	<title>Code of Conduct</title>
+	<section>
+		<title>Shuttleworth TuXlab Code of Conduct</title>
+		<section>
+			<title>Introduction</title>
+			<para>It is necessary to maintain a reasonable code of conduct in the workplace. The
+				Shuttleworth Linux Computer Bank (LCB) project takes working condition issues seriously
+				and that is why we have worked pro actively to develop and implement a Workplace Code of
+				Conduct that is lawful, safe and ethical and which sets forth in detail our firm
+				commitment to professional and ethical business conduct. The Code describes the
+				behaviour that the LCB expects from it's volunteers.</para>
+		</section>
+		<section>
+			<title>Code of Conduct</title>
+			<para><emphasis>Harassment or abuse</emphasis>. No volunteer shall be subject to any
+				physical, sexual, psychological or verbal harassment or abuse. Every volunteer shall be
+				treated and is expected to treat others with respect and dignity.</para>
+			<para><emphasis>Non-discrimination</emphasis>. The LCB workplace must be free of all forms
+				of illegal discrimination and accepting of a diverse volunteer base. The LCB complies
+				with the laws governing child labour. No person shall be subject to any discrimination
+				in volunteering, on the basis of gender, race, religion, age, disability, sexual
+				orientation, nationality, political opinion, or social or ethnic origin.</para>
+			<para><emphasis>Health and Safety</emphasis>. Each volunteer has active responsibility for
+				maintaining a safe and healthy workplace for all volunteers. Violence will not be
+				tolerated. Volunteers are prohibited from bringing any firearm and weapon to LCB
+				gatherings or functions, including regular LCB activities. Any form of substance abuse
+				by a volunteer whilst participating in an LCB activity will be deemed grounds for
+				project exclusion.</para>
+			<para><emphasis>Proper Use of Property</emphasis>. The property of the LCB and associated
+				companies must not be misused or used for the personal benefit of an volunteer. For
+				example, it is improper to make or install unlicensed copies of proprietary computer
+				software.</para>
+			<para><emphasis>Media Relations</emphasis>. Enquiries from the media, such as newspaper
+				reporters, should be responded to only by the LCB member designated to handle such
+				matters. </para>
+		</section>
+		<section>
+			<title>Discipline</title>
+			<para><emphasis>Discipline</emphasis>. Volunteers engaging in improper workplace conduct
+				will be subject to exclusion from the LCB project. The following acts have been
+				identified as examples of unreasonable conduct which justify exclusion The list is not
+				intended to be exhaustive and any other act not mentioned hereunder may warrant
+				disciplinary action if the circumstances justify such action.</para>
+			<itemizedlist>
+				<listitem>
+					<para>Assault</para>
+				</listitem>
+				<listitem>
+					<para>The carrying of dangerous weapons at LCB gatherings or functions, including
+						regular LCB activities.</para>
+				</listitem>
+				<listitem>
+					<para>Violence</para>
+				</listitem>
+				<listitem>
+					<para> Alcohol abuse</para>
+				</listitem>
+				<listitem>
+					<para> Drug abuse or the abuse of illegal drugs</para>
+				</listitem>
+				<listitem>
+					<para>Fraud</para>
+				</listitem>
+				<listitem>
+					<para>Grossly offensive behaviour</para>
+				</listitem>
+				<listitem>
+					<para>Retaliation</para>
+				</listitem>
+				<listitem>
+					<para>Dishonesty</para>
+				</listitem>
+				<listitem>
+					<para>Theft</para>
+				</listitem>
+			</itemizedlist>
+		</section>
+		<section>
+			<title>Summary</title>
+			<para>
+				<emphasis role="bold">In summary, the LCB expects all volunteers to conduct their
+					business dealings in accordance with the letter and spirit of all laws and LCB
+					policies and to refrain from any form of illegal or unethical conduct or conduct that
+					may harm good relations within the LCB.</emphasis>
+			</para>
+		</section>
+	</section>
+</appendix>

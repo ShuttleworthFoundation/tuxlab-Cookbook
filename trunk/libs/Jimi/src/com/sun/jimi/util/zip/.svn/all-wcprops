@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/util/zip
+END
+InflaterInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/util/zip/InflaterInputStream.java
+END
+DataFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/util/zip/DataFormatException.java
+END
+Checksum.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/util/zip/Checksum.java
+END
+Inflater.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/util/zip/Inflater.java
+END
+Adler32.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/util/zip/Adler32.java
+END

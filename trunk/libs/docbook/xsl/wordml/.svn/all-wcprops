@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/wordml
+END
+docbook-pages.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/wordml/docbook-pages.xsl
+END
+supported.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/wordml/supported.xml
+END
+wordml-blocks.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/wordml/wordml-blocks.xsl
+END
+docbook.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/wordml/docbook.xsl
+END
+param.ent
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/wordml/param.ent
+END
+pages-normalise.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/wordml/pages-normalise.xsl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/wordml/README
+END
+wordml-sections.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/wordml/wordml-sections.xsl
+END
+param.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/wordml/param.xml
+END
+wordml-normalise.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/wordml/wordml-normalise.xsl
+END
+wordml-final.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/wordml/wordml-final.xsl
+END
+template.dot
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/wordml/template.dot
+END
+specifications.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/wordml/specifications.xml
+END
+blocks-spec.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/wordml/blocks-spec.xml
+END
+param.xweb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/wordml/param.xweb
+END
+param.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/wordml/param.xsl
+END
+template-pages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/wordml/template-pages.xml
+END
+wordml.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/wordml/wordml.xsl
+END
+template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/wordml/template.xml
+END
+sections-spec.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/wordml/sections-spec.xml
+END

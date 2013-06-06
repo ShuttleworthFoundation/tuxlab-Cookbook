@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/util/zip
+END
+Adler32.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/util/zip/Adler32.html
+END
+InflaterInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/util/zip/InflaterInputStream.html
+END
+DataFormatException.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/util/zip/DataFormatException.html
+END
+Checksum.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/util/zip/Checksum.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/util/zip/package-frame.html
+END
+Inflater.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/util/zip/Inflater.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/util/zip/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/util/zip/package-tree.html
+END

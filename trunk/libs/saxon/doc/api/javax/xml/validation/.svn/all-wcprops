@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/validation
+END
+SchemaFactoryLoader.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/validation/SchemaFactoryLoader.html
+END
+Schema.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/validation/Schema.html
+END
+ValidatorHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/validation/ValidatorHandler.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/validation/package-frame.html
+END
+Validator.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/validation/Validator.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/validation/package-summary.html
+END
+SchemaFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/validation/SchemaFactory.html
+END
+TypeInfoProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/validation/TypeInfoProvider.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/validation/package-tree.html
+END

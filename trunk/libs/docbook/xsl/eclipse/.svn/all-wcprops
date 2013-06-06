@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/eclipse
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/eclipse/ChangeLog
+END
+eclipse.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/eclipse/eclipse.xsl
+END

@@ -1,0 +1,94 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/saxon/doc/api/javax/xml
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+parsers
+dir
+
+XMLConstants.html
+file
+
+
+
+
+2007-06-04T08:58:45.000000Z
+2cd33a4940f7daf65298096e2b12ba9e
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+xpath
+dir
+
+package-frame.html
+file
+
+
+
+
+2007-06-04T08:58:45.000000Z
+dc8d80e884bb69be28820b52f493c52e
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+package-summary.html
+file
+
+
+
+
+2007-06-04T08:58:45.000000Z
+55dd696298cf7dc6b02edcb209bbe87c
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+validation
+dir
+
+datatype
+dir
+
+transform
+dir
+
+package-tree.html
+file
+
+
+
+
+2007-06-04T08:58:45.000000Z
+0b9cad37fdfac3e0e8692250de90348b
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+namespace
+dir
+

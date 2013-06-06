@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bibliography PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+                      "http://www.docbook.org/xml/4.4/docbookx.dtd"
+[ 
+<!ENTITY % globalents SYSTEM "../common/global.ent">
+ %globalents; 
+ <!ENTITY % xinclude SYSTEM "../libs/xinclude.mod">
+%xinclude;
+ ]>
+<bibliography>
+	<title>Bibliography</title>
+	<bibliodiv>
+		<title>Books</title>
+		<biblioentry>
+			<authorgroup>
+				<author>
+					<firstname>...</firstname>
+					<surname>...</surname>
+				</author>
+			</authorgroup>
+			<copyright>
+				<year>...</year>
+				<holder>...</holder>
+			</copyright>
+			<isbn>...</isbn>
+			<publisher>
+				<publishername>...</publishername>
+			</publisher>
+			<title>...</title>
+		</biblioentry>
+	</bibliodiv>
+	<bibliodiv>
+		<title>Web Resources</title>
+		<biblioentry>
+			<biblioset relation="website">
+				<title>...</title>
+				<publisher>
+					<publishername>...</publishername>
+				</publisher>
+				<address>URL Here</address>
+			</biblioset>
+			<biblioset relation="article">
+				<title>...</title>
+				<author>
+					<surname>...</surname>
+					<firstname>...</firstname>
+				</author>
+				<copyright>
+					<year>...</year>
+					<holder>...</holder>
+				</copyright>
+				<address>URL</address>
+			</biblioset>
+		</biblioentry>
+	</bibliodiv>
+</bibliography>

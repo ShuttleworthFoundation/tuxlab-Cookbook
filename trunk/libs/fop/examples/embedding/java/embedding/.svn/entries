@@ -1,0 +1,106 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/fop/examples/embedding/java/embedding
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-01-17T09:55:37.371937Z
+114
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+model
+dir
+
+tools
+dir
+
+ExampleObj2PDF.java
+file
+
+
+
+
+2007-06-04T08:55:04.000000Z
+5082d3cbaef65043702a0951e5181776
+2007-01-17T09:55:37.371937Z
+114
+techdocs
+
+ExampleXML2FO.java
+file
+
+
+
+
+2007-06-04T08:55:04.000000Z
+e5a11767ff9d478cf5e3c7b85083314f
+2007-01-17T09:55:37.371937Z
+114
+techdocs
+
+ExampleXML2PDF.java
+file
+
+
+
+
+2007-06-04T08:55:04.000000Z
+3d6c0638b8e874d8de3572881071d7e7
+2007-01-17T09:55:37.371937Z
+114
+techdocs
+
+ExampleAWTViewer.java
+file
+
+
+
+
+2007-06-04T08:55:04.000000Z
+7fe0c4600f9ae72c612c308a375ce041
+2007-01-17T09:55:37.371937Z
+114
+techdocs
+
+ExampleObj2XML.java
+file
+
+
+
+
+2007-06-04T08:55:04.000000Z
+b3ad313f6776e7d0dda45323db33401e
+2007-01-17T09:55:37.371937Z
+114
+techdocs
+
+ExampleFO2PDF.java
+file
+
+
+
+
+2007-06-04T08:55:04.000000Z
+672d3df1da8d8e232e5a783750bd7853
+2007-01-17T09:55:37.371937Z
+114
+techdocs
+

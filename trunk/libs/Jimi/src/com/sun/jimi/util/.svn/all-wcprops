@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/util
+END
+PropertyOwner.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/util/PropertyOwner.java
+END
+MemoryRandomAccessStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/util/MemoryRandomAccessStorage.java
+END
+ExpandableArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/util/ExpandableArray.java
+END
+ArrayEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/util/ArrayEnumeration.java
+END
+ObjectInputToStreamAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/util/ObjectInputToStreamAdapter.java
+END
+FileRandomAccessStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/util/FileRandomAccessStorage.java
+END
+ObjectOutputToStreamAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/util/ObjectOutputToStreamAdapter.java
+END
+RandomAccessStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/util/RandomAccessStorage.java
+END
+ByteCountInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/util/ByteCountInputStream.java
+END
+FullyBufferedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/util/FullyBufferedInputStream.java
+END
+IntegerRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/util/IntegerRange.java
+END
+PropertyOwnerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/util/PropertyOwnerBase.java
+END
+DataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/util/DataType.java
+END
+Range.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/util/Range.java
+END

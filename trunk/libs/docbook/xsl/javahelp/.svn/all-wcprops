@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/javahelp
+END
+javahelp.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/javahelp/javahelp.xsl
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/javahelp/ChangeLog
+END
+profile-javahelp.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/javahelp/profile-javahelp.xsl
+END

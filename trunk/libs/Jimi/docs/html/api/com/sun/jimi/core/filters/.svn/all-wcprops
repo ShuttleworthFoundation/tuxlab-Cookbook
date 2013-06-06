@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters
+END
+Enlarge.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/Enlarge.html
+END
+Margin.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/Margin.html
+END
+ReplicatingScaleFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/ReplicatingScaleFilter.html
+END
+AreaAverageScaleFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/AreaAverageScaleFilter.html
+END
+ScaleCopy.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/ScaleCopy.html
+END
+Gamma.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/Gamma.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/package-frame.html
+END
+Oil.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/Oil.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/package-summary.html
+END
+AspectReplicateScaleFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/AspectReplicateScaleFilter.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/package-tree.html
+END
+Flip.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/Flip.html
+END
+RGBBlockFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/RGBBlockFilter.html
+END
+ImageFilterPlus.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/ImageFilterPlus.html
+END
+Tile.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/Tile.html
+END
+EdgeDetect.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/EdgeDetect.html
+END
+Rotate.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/Rotate.html
+END
+Shrink.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/Shrink.html
+END
+AspectAdjustReplicateScaleFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/AspectAdjustReplicateScaleFilter.html
+END
+Gray.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/Gray.html
+END
+EnhancedCropImageFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/EnhancedCropImageFilter.html
+END
+Shear.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/Shear.html
+END
+Invert.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/Invert.html
+END
+CompositeFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/CompositeFilter.html
+END
+RGBAllFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/RGBAllFilter.html
+END
+Smooth.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/filters/Smooth.html
+END

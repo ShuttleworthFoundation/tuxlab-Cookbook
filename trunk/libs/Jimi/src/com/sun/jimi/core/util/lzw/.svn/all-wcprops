@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/lzw
+END
+LZWDecompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/lzw/LZWDecompressor.java
+END
+LZWDecompressionStringTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/lzw/LZWDecompressionStringTable.java
+END
+BitInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/lzw/BitInput.java
+END

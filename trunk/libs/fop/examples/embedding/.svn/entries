@@ -1,0 +1,83 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/fop/examples/embedding
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-01-17T09:55:37.371937Z
+114
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+xml
+dir
+
+java
+dir
+
+build.bat
+file
+
+
+
+
+2007-06-04T08:55:04.000000Z
+1d64597c4d27ae94c6f465bec216e21b
+2007-01-17T09:55:37.371937Z
+114
+techdocs
+
+build.sh
+file
+
+
+
+
+2007-06-04T08:55:04.000000Z
+f35780dbf266b7945270c31f17ef68b4
+2007-01-17T09:55:37.371937Z
+114
+techdocs
+has-props
+
+README
+file
+
+
+
+
+2007-06-04T08:55:04.000000Z
+650f9a765e232b1dc796ccbfcb3b08a1
+2007-01-17T09:55:37.371937Z
+114
+techdocs
+
+build.xml
+file
+
+
+
+
+2007-06-04T08:55:04.000000Z
+1bb96e2894247935cc76aeaa4468fa15
+2007-01-17T09:55:37.371937Z
+114
+techdocs
+

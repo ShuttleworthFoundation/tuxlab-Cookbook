@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster
+END
+BitRasterImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/BitRasterImage.java
+END
+VMemIntRasterImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/VMemIntRasterImage.java
+END
+VMemChanneledIntRasterImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/VMemChanneledIntRasterImage.java
+END
+MemoryIntRasterImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/MemoryIntRasterImage.java
+END
+JimiRasterImageSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/JimiRasterImageSupport.java
+END
+MemoryChanneledIntRasterImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/MemoryChanneledIntRasterImage.java
+END
+JimiRasterImageCategorizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/JimiRasterImageCategorizer.java
+END
+VMemByteRasterImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/VMemByteRasterImage.java
+END
+MemoryLongRasterImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/MemoryLongRasterImage.java
+END
+JimiRasterImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/JimiRasterImage.java
+END
+OneshotIntRasterImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/OneshotIntRasterImage.java
+END
+IntRasterImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/IntRasterImage.java
+END
+ChanneledIntRasterImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/ChanneledIntRasterImage.java
+END
+MemoryByteRasterImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/MemoryByteRasterImage.java
+END
+LongRasterImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/LongRasterImage.java
+END
+CroppedRasterImageProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/CroppedRasterImageProducer.java
+END
+MemoryRasterImageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/MemoryRasterImageFactory.java
+END
+ImportConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/ImportConsumer.java
+END
+MutableJimiRasterImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/MutableJimiRasterImage.java
+END
+ByteRasterImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/ByteRasterImage.java
+END
+OneshotByteRasterImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/OneshotByteRasterImage.java
+END
+JimiRasterImageHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/JimiRasterImageHandle.java
+END
+MemoryBitRasterImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/MemoryBitRasterImage.java
+END
+RasterImageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/RasterImageFactory.java
+END
+JimiRasterImageImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/raster/JimiRasterImageImporter.java
+END

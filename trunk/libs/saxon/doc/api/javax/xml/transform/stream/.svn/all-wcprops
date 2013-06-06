@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/transform/stream
+END
+StreamSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/transform/stream/StreamSource.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/transform/stream/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/transform/stream/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/transform/stream/package-tree.html
+END
+StreamResult.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/transform/stream/StreamResult.html
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/sql
+END
+SQLColumn.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/sql/SQLColumn.html
+END
+SQLElementFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/sql/SQLElementFactory.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/sql/package-frame.html
+END
+SQLInsert.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/sql/SQLInsert.html
+END
+SQLClose.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/sql/SQLClose.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/sql/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/sql/package-tree.html
+END
+SQLConnect.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/com/icl/saxon/sql/SQLConnect.html
+END

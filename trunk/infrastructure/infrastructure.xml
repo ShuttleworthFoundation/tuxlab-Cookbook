@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+                      "http://www.docbook.org/xml/4.4/docbookx.dtd"
+[ 
+<!ENTITY % globalents SYSTEM "../common/global.ent">
+ %globalents; 
+ <!ENTITY % xinclude SYSTEM "../libs/xinclude.mod">
+%xinclude;
+ ]>
+<chapter>
+          
+                    <title>Infrastructure Model</title>
+                    <abstract>&abstract-infrastructure;</abstract>
+          
+                    <section id="infra_intro">
+                              <title>Introduction</title>
+                              <para>Whenever people think of a computer lab, it is usually the computers that they think of first. They do not think
+                                        of the room itself, or the construction of the chairs, the desks, the electrical cabling, and the security
+                                        measures that need to be in place for the computer lab to work properly. A &productname; cannot just go
+                                        anywhere. It requires a specific place with specific things in place in order to function.</para>
+                              <para>The <emphasis>where</emphasis> and <emphasis>in what</emphasis> questions need to be asked when planning a
+                                        &productname;. The infrastructure surrounding the &productname; is just as important as the computer
+                                        hardware and software used. In this part of the &productname; Cookbook we provide an overview of the
+                                        environment that the &productname; needs to operate in; the type of room, the security features, the
+                                        cabling requirements, and the little details of what and where that make a computer lab function.</para>
+                    </section>
+                    <section id="infra_infrastructure">
+                              <title>Security Infrastructure</title>
+                              <para>The situation in South Africa may differ from other parts of the world, but these basic guidelines have arisen out
+                                        of our needs and conditions. If you are building a &productname; outside of South Africa you may need to
+                                        use other security measures or methods of construction that allow your &productname; to be usable and
+                                        safe.</para>
+                              <section>
+                                        <title>Window Security</title>
+                                        <para>The windows of the &productname; need to be secured so that no one can break into the lab and steal
+                                                  the computers, printers, or other lab items. These are the typical requirements for securing the
+                                                  windows:</para>
+                                        <itemizedlist>
+                                                  <listitem>
+                                                            <para>Frame: 25mm square metal tubing, bolted to the wall.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Vertical Bars: 16mm round – 120mm c/c.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Centre Horizontal Bar: 30mm x 5mm flat bar.</para>
+                                                  </listitem>
+                                        </itemizedlist>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/infra_window_security.jpg"/>
+                                                  </imageobject>
+                                                  <caption>Window Security</caption>
+                                        </mediaobject>
+                                        <para>While the above may be used as a guide, the diameter and the finish of the bars can be further
+                                                  determined by the relevant school authorities and the Project Manager as is deemed necessary
+                                                  according to the known risk in the area.</para>
+                              </section>
+                              <section>
+                                        <title>Stone Guards</title>
+                                        <para>Galvanised metal mesh must be fitted on all outside windows.</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/infra_stone-guards.jpg"/>
+                                                  </imageobject>
+                                                  <caption>Shows Fitted Stone Guards</caption>
+                                        </mediaobject>
+                                        <para>The sides of the frame must be closed. Fasteners: Use tamper proof – Coach screws with turn off
+                                        heads.</para>
+                              </section>
+                              <section>
+                                        <title>Non Concrete Ceiling Security</title>
+                                        <para>Wherever possible the room identified for the lab should have a concrete floor above it. This means that
+                                                  in schools with two levels it is preferable to select a room on the lower level. Where this is not
+                                                  possible for various reasons and the ceiling is of a hardboard nature, wire mesh or razor wire needs
+                                                  to be laid on top of the ceiling.</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/infra_ceiling_security.jpg"/>
+                                                  </imageobject>
+                                                  <caption>Ceiling Security</caption>
+                                        </mediaobject>
+                                        <para>As with the other security measures, whatever is implemented must be determined by the relevant school
+                                                  authorities and the Project Manager as is deemed necessary according to the known risk in the
+                                        area.</para>
+                              </section>
+                              <section>
+                                        <title>Door Security</title>
+                                        <para>Remember that steel frame gates are only as strong as the thickness of metal used. The door is the key
+                                                  security feature that prevents easy access to the &productname;. In some cases an internal
+                                                  security steel cage with steel gate or double steel gates are advised, depending on finances and
+                                                  risks. Methods of securing and fitment of locks should be strategic to make breaking in as difficult
+                                                  as possible to deter theft.</para>
+                                        <para>Typical Specifications:</para>
+                                        <itemizedlist>
+                                                  <listitem>
+                                                            <para>Frame: 50mm x 50mm x 5mm Angle Iron bolted to the wall on 3 sides.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Bolts are welded so that they cannot be undone, or they must be tamper proof.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>The fitting of two barrel type locks, and covered with metal plates is
+                                                            advised.</para>
+                                                  </listitem>
+                                        </itemizedlist>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/infra_internal_cage.jpg"/>
+                                                  </imageobject>
+                                                  <caption>Internal Cage</caption>
+                                        </mediaobject>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/infra_double_steel_gates.jpg"/>
+                                                  </imageobject>
+                                                  <caption>Double Steel Gates</caption>
+                                        </mediaobject>
+                                        <para>While the above may be used as a guide, the diameter and the finish of the bars can be further
+                                                  determined by the school authorities as is deemed necessary according to the known risk in the
+                                        area.</para>
+                              </section>
+                              <section>
+                                        <title>Alarm System</title>
+                                        <para>A digital security alarm system with at least two sensors in the room is required. If the lab has a
+                                                  ceiling, with access from above (single storey building) or access from adjacent rooms (double story
+                                                  building), a sensor in the ceiling is advised. The alarm must be 24 hourly monitored with armed
+                                                  response.</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/infra_alarm_sensor01.jpg"/>
+                                                  </imageobject>
+                                        </mediaobject>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/infra_alarm_sensor02.jpg"/>
+                                                  </imageobject>
+                                        </mediaobject>
+                                        <note>
+                                                  <para>Number and location of sensors should further be determined with input from security companies.</para>
+                                        </note>
+                              </section>
+                    </section>
+          <section>
+                              <title>Internal Lab Infrastructure</title>
+                              <section>
+                                        <title>Specifications for Desktops</title>
+                                        <para>The design and length of desktops in most cases are determined by the number of computers, learners and
+                                                  size of the room. It is advisable to install desktops for future expansion of computer network,
+                                                  depending on finances available.</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/infra_desktop.jpg"/>
+                                                  </imageobject>
+                                                  <caption>Building the Desktops</caption>
+                                        </mediaobject>
+                                        <para>New desktops should be postform, minimum 28 mm thick or similar stock, with a melamine/formica/varnished
+                                                  finish. They must be 900mm wide. Depending on the chair heights and the age of the learners, the top
+                                                  of the desktops should be 700 to 720mm from the floor.</para>
+                              </section>
+                              <section>
+                                        <title>Wall Brackets and Centre Isle Framework</title>
+                                        <para>Desktops should be mounted on 40mm x 40mm x 5mm angle iron brackets (on legs only if brackets not a
+                                                  option). Each bracket must be a minimum of 750mm x 650mm long. The brackets must be no less than
+                                                  1000mm apart and each must be fixed with at least two heavy duty rawl bolts, one of which must be as
+                                                  high up as possible.</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/infra_brackets01.jpg"/>
+                                                  </imageobject>
+                                        </mediaobject>
+                                        <para>Where appropriate, provision must be made for ducting for electrical wiring and top for network cabling
+                                                  to run underneath the work surfaces, with holes in the desktops for the cabling to the computers and
+                                                  peripherals. The design of the framework will differ according to the makeup of the walls to which the
+                                                  brackets can (or cannot) be attached. The same design could apply to a centre isle when fitted. Where
+                                                  possible the length of the desk will allow for each computer to be spaced at 1.2m.</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/infra_brackets02.jpg"/>
+                                                  </imageobject>
+                                        </mediaobject>
+                                        <note>
+                                                  <para>Modifications to bracket: 30mm hole to be drilled in angle iron so that the Electrician can
+                                                            install a conduit pipe along the wall. Hole should be 90mm from the top of the bracket.
+                                                            Fasteners: Brackets must have 3 x 10mm holes for fastening to the wall. Use coach screws
+                                                            10mm x 75mm, with Fischer Plug. Brackets to be finished with black matt corrosion
+                                                            resistant paint. The length of the desktops is calculated according to two learners per PC
+                                                            giving a space of 1200mm per PC. Please see attached diagram of computer room layout, as
+                                                            this calculation has been made.</para>
+                                        </note>
+                              </section>
+                              <section>
+                                        <title>Specification for Server Cabinet</title>
+                                        <para>A well ventilated lockup cabinet will be built in conjunction with the desktops in labs that does not
+                                                  have an additional room for the server. Interior Requirements: 900mm of the cabinet must be empty,
+                                                  as it will house a Server, the Internet gateway with a modem. The cabinet must have no backing to
+                                                  allow for ventilation of the equipment and wiring. The cabinet will be set away from the wall to
+                                                  allow for ventilation.</para>
+                                        <para>A wall mounted steel mesh cabinet can also be installed. Dimensions for steel mesh cage:L x D x H -
+                                                  1200mm x 750mm x 720mm. Height: 720mm Includes a 32mm x 900mm Postform Top. Doors: 2 doors 450mm
+                                                  wide is required on the 900mm section. Suitable locks must be fitted so that the doors cannot be
+                                                  easily opened.</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/infra_server_cabinet.jpg"/>
+                                                  </imageobject>
+                                        </mediaobject>
+                              </section>
+                              <section>
+                                        <title>Electrical Requirements</title>
+                                        <para>These electrical requirements are very important for the continued operation of the &productname;.
+                                                  If the wiring is installed incorrectly, or is not installed in compliance with the local building
+                                                  codes, then the &productname; is in danger of becoming unsafe and hazardous the all the users.</para>
+                                        <section>
+                                                  <title>Specification of Electrical Wall Points</title>
+                                                  <para>All electrical work must be done by a qualified technician as well as an electrical
+                                                            certificate of compliance should be issued to the school on completion of the work.</para>
+                                                  <mediaobject>
+                                                            <imageobject>
+                                                                      <imagedata fileref="../images/infra_electrician.jpg"/>
+                                                            </imageobject>
+                                                  </mediaobject>
+                                                  <para>There must be enough (240volt) 15Amp 3-point plugs to accommodate each computer on a separate
+                                                            plug as well as enough for peripherals. A good rule of thumb is to have a double plug for
+                                                            each computer point. For safety reasons electrical wiring must be in conduit piping below
+                                                            the work surfaces, but Surfix-type cable and wall mounted sockets are also acceptable and
+                                                            should be installed below desktops.</para>
+                                                  <para>To avoid power spikes and dips, the computer lab <emphasis role="bold">must</emphasis> be on
+                                                            its own electrical circuit and must be broken into segments each adequate to accommodate
+                                                            the computers and peripherals on that segment. Air conditioners in the computer lab
+                                                                      <emphasis role="bold">must not</emphasis> share the circuit with the computers.</para>
+                                                  <para>Electrical wires to an island worktop in the middle of the room must preferably be under the
+                                                            floor or must have suitable ducting that will ensure the safety of pupils who have to walk
+                                                            over these cables.</para>
+                                        </section>
+                                        <section>
+                                                  <title>Sub-Distribution Electrical Board</title>
+                                                  <para>The sub distribution board could be fitted with earth leakage protection, if required. A
+                                                            maximum of five wall plug sockets shall be connected to one circuit. Each circuit shall be
+                                                            protected by a 20 amp circuit breaker.</para>
+                                                  <mediaobject>
+                                                            <imageobject>
+                                                                      <imagedata fileref="../images/infra_sub_distribution_board.jpg"/>
+                                                            </imageobject>
+                                                  </mediaobject>
+                                        </section>
+                              </section>
+                              <section>
+                                        <title>Network Infrastructure</title>
+                                        <para>As seen in the introduction to the &productname; Cookbook, the network is the backbone of the
+                                                  &productname;. There are some specific infrastructure requirements that come directly from the
+                                                  installation of the network.</para>
+                                        <section>
+                                                  <title>Switch Cabinet</title>
+                                                  <para>Where required a 4U Cabinet will be installed to house a minimum of 2 x 24 port switches unit.
+                                                            The positioning should decided based on lab layout and lengths of cables. If installed in
+                                                            the lab, the switch cabinet should be installed 1metre above desktops or below.</para>
+                                                  <mediaobject>
+                                                            <imageobject>
+                                                                      <imagedata fileref="../images/infra_switch_cabinet.jpg"/>
+                                                            </imageobject>
+                                                  </mediaobject>
+                                        </section>
+                                        <section>
+                                                  <title>Network Cable Trunking</title>
+                                                  <para>Network cabling must run in 40mm x 40mm square trunking above the desktops. Ensure10mm holes
+                                                            are made in trunking for networking cables ends, allow 500mm to the individual computers.
+                                                            Cabling to an island desktop must preferably be under the floor or must have suitable
+                                                            ducting that will ensure the safety of pupils who have to walk over these cables.</para>
+                                                  <mediaobject>
+                                                            <imageobject>
+                                                                      <imagedata fileref="../images/infra_cable_trunking.jpg"/>
+                                                            </imageobject>
+                                                  </mediaobject>
+                                        </section>
+                              </section>
+                    </section>     
+</chapter>

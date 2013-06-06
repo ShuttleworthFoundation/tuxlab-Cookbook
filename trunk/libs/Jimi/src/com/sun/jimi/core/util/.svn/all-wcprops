@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util
+END
+Packbits.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/Packbits.java
+END
+NewDirectColorModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/NewDirectColorModel.java
+END
+PixelGrabber.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/PixelGrabber.java
+END
+ProgressListenerSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/ProgressListenerSupport.java
+END
+FSDither.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/FSDither.java
+END
+ImageDump.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/ImageDump.java
+END
+ProgressMonitorSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/ProgressMonitorSupport.java
+END
+Java2DCompat.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/Java2DCompat.java
+END
+StdoutProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/StdoutProgressListener.java
+END
+ColorOctree.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/ColorOctree.java
+END
+GraphicsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/GraphicsUtils.java
+END
+MulticastImageConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/MulticastImageConsumer.java
+END
+AreaCoverage.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/AreaCoverage.java
+END
+JimiImageFactoryProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/JimiImageFactoryProxy.java
+END
+JimiImageSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/JimiImageSerializer.java
+END
+LEDataOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/LEDataOutputStream.java
+END
+GrayscaleColorModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/GrayscaleColorModel.java
+END
+FreeFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/FreeFormat.java
+END
+OctreeCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/OctreeCallback.java
+END
+P.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/P.java
+END
+ErrorImageProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/ErrorImageProducer.java
+END
+QueuedImageProducerProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/QueuedImageProducerProxy.java
+END
+JimiImageColorReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/JimiImageColorReducer.java
+END
+ErrorJimiImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/ErrorJimiImage.java
+END
+InverseColorMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/InverseColorMap.java
+END
+ProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/ProgressListener.java
+END
+LongColorModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/LongColorModel.java
+END
+SeekInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/SeekInputStream.java
+END
+JimiUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/JimiUtil.java
+END
+LEDataInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/LEDataInputStream.java
+END
+StampImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/StampImage.java
+END
+OctreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/OctreeNode.java
+END
+ColorReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/ColorReducer.java
+END
+StaticPalettes.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/StaticPalettes.java
+END
+BinOps.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/BinOps.java
+END
+StampImageFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/com/sun/jimi/core/util/StampImageFilter.java
+END

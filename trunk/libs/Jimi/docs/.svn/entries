@@ -1,0 +1,87 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/Jimi/docs
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-01-17T10:19:28.770871Z
+116
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+JIMI_overview_files
+dir
+
+JIMI_overview.html
+file
+
+
+
+
+2007-06-04T08:56:37.000000Z
+a80039464ff9c77ef72a0fd2c33d0569
+2007-01-17T10:19:28.770871Z
+116
+techdocs
+
+JIMI_overview.doc
+file
+
+
+
+
+2007-06-04T08:56:37.000000Z
+97a06cf8e8c6bc53a8d6e2691f3bc7ed
+2007-01-17T10:19:28.770871Z
+116
+techdocs
+has-props
+
+JIMI_technical_files
+dir
+
+html
+dir
+
+JIMI_technical.html
+file
+
+
+
+
+2007-06-04T08:56:37.000000Z
+01ebec4209939f4ecba116fbe80b9c6d
+2007-01-17T10:19:28.770871Z
+116
+techdocs
+
+JIMI_technical.doc
+file
+
+
+
+
+2007-06-04T08:56:37.000000Z
+9e608465c3f168c0b157875b612257db
+2007-01-17T10:19:28.770871Z
+116
+techdocs
+has-props
+

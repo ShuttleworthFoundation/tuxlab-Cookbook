@@ -1,0 +1,41 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/Jimi/src/classes/com/sun/jimi/core/decoder/builtin
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-01-17T10:19:28.770871Z
+116
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+BuiltinDecoderFactory.class
+file
+
+
+
+
+2007-06-04T08:55:24.000000Z
+f9f0e028ab30cb00ad1fb9cc468ea780
+2007-01-17T10:19:28.770871Z
+116
+techdocs
+has-props
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ENTITY productname "tuXlab" >
+
+<!ENTITY introduction SYSTEM "../introduction/introduction.xml" >
+<!ENTITY abstract-introduction SYSTEM "../introduction/abstract-introduction.xml" >
+
+<!ENTITY infrastructure SYSTEM "../infrastructure/infrastructure.xml" >
+<!ENTITY abstract-infrastructure SYSTEM "../infrastructure/abstract-infrastructure.xml" >
+
+<!ENTITY hardware SYSTEM "../hardware/hardware.xml" >
+<!ENTITY abstract-hardware SYSTEM "../hardware/abstract-hardware.xml" >
+
+<!ENTITY management SYSTEM "../management/management.xml" >
+<!ENTITY abstract-management SYSTEM "../management/abstract-management.xml" >
+
+<!ENTITY software SYSTEM "../software/software.xml" >
+<!ENTITY abstract-software SYSTEM "../software/abstract-software.xml" >
+
+<!ENTITY support SYSTEM "../support/support.xml" >
+<!ENTITY abstract-support SYSTEM "../support/abstract-support.xml" >
+
+<!ENTITY sustainability SYSTEM "../sustainability/sustainability.xml" >
+<!ENTITY abstract-sustainability SYSTEM "../sustainability/abstract-sustainability.xml" >
+
+<!ENTITY training SYSTEM "../training/training.xml" >
+<!ENTITY abstract-training SYSTEM "../training/abstract-training.xml" >
+
+<!ENTITY volunteer SYSTEM "../volunteer/volunteer.xml" >
+<!ENTITY abstract-volunteer SYSTEM "../volunteer/abstract-volunteer.xml" >
+
+<!ENTITY bibliography SYSTEM "../biblio/bibliography.xml" >
+<!ENTITY appendix SYSTEM "../appendices/appendix.xml" >
+
+<!ENTITY pubdate SYSTEM "../common/pubdate.xml" >
+<!ENTITY licensenotice SYSTEM "../common/licensenotice.xml" >
+<!ENTITY conventions SYSTEM "../common/conventions.xml" >

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters
+END
+Enlarge.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters/Enlarge.class
+END
+Margin.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters/Margin.class
+END
+ReplicatingScaleFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters/ReplicatingScaleFilter.class
+END
+AreaAverageScaleFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters/AreaAverageScaleFilter.class
+END
+ScaleCopy.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters/ScaleCopy.class
+END
+Gamma.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters/Gamma.class
+END
+Oil.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters/Oil.class
+END
+AspectReplicateScaleFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters/AspectReplicateScaleFilter.class
+END
+Flip.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters/Flip.class
+END
+RGBBlockFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters/RGBBlockFilter.class
+END
+ImageFilterPlus.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters/ImageFilterPlus.class
+END
+Tile.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters/Tile.class
+END
+EdgeDetect.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters/EdgeDetect.class
+END
+Shrink.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters/Shrink.class
+END
+Rotate.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters/Rotate.class
+END
+AspectAdjustReplicateScaleFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters/AspectAdjustReplicateScaleFilter.class
+END
+Gray.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters/Gray.class
+END
+EnhancedCropImageFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters/EnhancedCropImageFilter.class
+END
+Shear.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters/Shear.class
+END
+Invert.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters/Invert.class
+END
+CompositeFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters/CompositeFilter.class
+END
+RGBAllFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters/RGBAllFilter.class
+END
+Smooth.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/src/classes/com/sun/jimi/core/filters/Smooth.class
+END

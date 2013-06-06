@@ -1,0 +1,52 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/Jimi/src/com/sun/jimi/core/encoder/xpm
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-01-17T10:19:28.770871Z
+116
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+XPMEncoder.java
+file
+
+
+
+
+2007-06-04T08:55:39.000000Z
+848bf2393f4fad4288c04c9ee844316a
+2007-01-17T10:19:28.770871Z
+116
+techdocs
+
+XPMEncoderFactory.java
+file
+
+
+
+
+2007-06-04T08:55:39.000000Z
+2fe418b45f015b9b109d27317e099dfb
+2007-01-17T10:19:28.770871Z
+116
+techdocs
+

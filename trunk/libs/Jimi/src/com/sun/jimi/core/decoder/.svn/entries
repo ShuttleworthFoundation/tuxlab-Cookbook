@@ -1,0 +1,73 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/Jimi/src/com/sun/jimi/core/decoder
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-01-17T10:19:28.770871Z
+116
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+png
+dir
+
+xbm
+dir
+
+sunraster
+dir
+
+psd
+dir
+
+tiff
+dir
+
+cur
+dir
+
+pcx
+dir
+
+pict
+dir
+
+xpm
+dir
+
+gif
+dir
+
+builtin
+dir
+
+apf
+dir
+
+ico
+dir
+
+tga
+dir
+
+bmp
+dir
+

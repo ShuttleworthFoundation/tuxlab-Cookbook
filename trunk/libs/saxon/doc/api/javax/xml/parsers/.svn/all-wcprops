@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/parsers
+END
+DocumentBuilderFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/parsers/DocumentBuilderFactory.html
+END
+SAXParserFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/parsers/SAXParserFactory.html
+END
+ParserConfigurationException.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/parsers/ParserConfigurationException.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/parsers/package-frame.html
+END
+DocumentBuilder.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/parsers/DocumentBuilder.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/parsers/package-summary.html
+END
+SAXParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/parsers/SAXParser.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/parsers/package-tree.html
+END
+FactoryConfigurationError.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/parsers/FactoryConfigurationError.html
+END

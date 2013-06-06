@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/decoder/psd
+END
+PSDDecoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/decoder/psd/PSDDecoder.html
+END
+PSDFileHeader.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/decoder/psd/PSDFileHeader.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/decoder/psd/package-frame.html
+END
+PSDDecoderFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/decoder/psd/PSDDecoderFactory.html
+END
+PSDImageResources.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/decoder/psd/PSDImageResources.html
+END
+PSDLayersMasks.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/decoder/psd/PSDLayersMasks.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/decoder/psd/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/decoder/psd/package-tree.html
+END
+PSDColorMode.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/decoder/psd/PSDColorMode.html
+END

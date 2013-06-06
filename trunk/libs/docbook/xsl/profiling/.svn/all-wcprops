@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/profiling
+END
+profile.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/profiling/profile.xsl
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/profiling/ChangeLog
+END
+profile-mode.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/profiling/profile-mode.xsl
+END
+strip-attributes.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/profiling/strip-attributes.xsl
+END
+xsl2profile.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/profiling/xsl2profile.xsl
+END

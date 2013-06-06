@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/samples/trax/xsl
+END
+baz.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/samples/trax/xsl/baz.xsl
+END
+preamble.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/samples/trax/xsl/preamble.txt
+END
+foo.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/samples/trax/xsl/foo.xsl
+END
+text.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/samples/trax/xsl/text.xsl
+END
+foo2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/samples/trax/xsl/foo2.xsl
+END
+foo3.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/samples/trax/xsl/foo3.xsl
+END

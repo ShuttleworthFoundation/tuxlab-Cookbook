@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/install.sh
+END
+BUGS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/BUGS
+END
+uninstall.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/uninstall.sh
+END
+RELEASE-NOTES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/RELEASE-NOTES.txt
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/VERSION
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/INSTALL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/COPYING
+END
+.CatalogManager.properties.example
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/.CatalogManager.properties.example
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/README
+END

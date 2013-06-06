@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+                      "http://www.docbook.org/xml/4.4/docbookx.dtd"
+[ 
+<!ENTITY % globalents SYSTEM "../common/global.ent">
+ %globalents; 
+ <!ENTITY % xinclude SYSTEM "../libs/xinclude.mod">
+%xinclude;
+ ]>
+<chapter>
+         
+         
+                    <title>Management Model</title>
+         
+                    <abstract>&abstract-management;</abstract>
+
+          <section id="mng_setup_process">
+                    <title>Setup Process</title>
+                    <para>The management of any project begins with the process of setting up that particular project. With this in mind, we start the
+                              &productname;. Cookbook Management Module with the procedures outlining how to begin the application process. The rest
+                              of this section will describe the process of how a school goes about applying for a &productname;.</para>                    
+                    <section id="mng_info">
+                              <title>Obtaining Information About the Programme</title>
+                              <para>There are many ways to obtain information about the &productname; project. The following list presents the main
+                                        was of doing so:</para>
+                              <orderedlist>
+                                        <listitem>
+                                                  <para>
+                                                            <emphasis role="bold">Word-of-Mouth</emphasis>
+                                                  </para>
+                                                  <para>Traditionally, word-of-mouth has been the chief mechanism behind &productname;s'
+                                                            popularity. Schools in similar districts are in contact with each other, principals create
+                                                            forums, parents have communal relationships outside of their schools and the learners
+                                                            themselves have informal friendship circles. A school with a computer centre, especially
+                                                            if it is still quite new, is quick to advertise their ownership.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>
+                                                            <emphasis role="bold">The Press</emphasis>
+                                                  </para>
+                                                  <para>The Shuttleworth Foundation makes periodic press releases advertising their projects and
+                                                            programmes to the community at large. &productname;s often advertise large install
+                                                            events or sponsored schools in the programme.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>
+                                                            <emphasis role="bold">The &productname; Website</emphasis>
+                                                  </para>
+                                                  <para>The web portal <ulink url="http://www.tuxlab.org.za">www.tuxlab.org.za</ulink> is the primary
+                                                            source of information for the programme and is the home of all current information that is
+                                                            &productname; related.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>
+                                                            <emphasis role="bold">Help-Desk</emphasis>
+                                                  </para>
+                                                  <para>The &productname; help-desk offers telephonic and e-mail support and can answer, or
+                                                            redirect, all queries for the &productname; programme. Additionally, the project
+                                                            administrator can be contacted telephonically or via e-mail.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>
+                                                            <emphasis role="bold">Mailing List</emphasis>
+                                                  </para>
+                                                  <para>The creation of a Linux User Group (LUG) centred around the activities in schools can host
+                                                            various mailing lists pertaining to &productname;s, e.g. announce and chat. Interested
+                                                            parties can register on these lists and receive information from volunteers and
+                                                            &productname; team members directly.</para>
+                                        </listitem>
+                              </orderedlist>
+                    </section>
+                    <section id="mng_applying">
+                              <title>Applying for a &productname;</title>
+                              <para>When applying for your &productname; you will need to follow these steps:</para>
+                              <procedure>
+                                        <step>
+                                                  <title>Read Documentation</title>
+                                                  <para>As a starting point, you need to read the Introduction section of the &productname;
+                                                            Cookbook. If possible please read through the rest of the Cookbook and the documents
+                                                            contained in the Appendix.</para>
+                                        </step>
+                                        <step>
+                                                  <title>Return the Questionnaire</title>
+                                                  <para>The “School Awareness Questionnaire” (see Appendix E) needs to be filled out and returned to the
+                                                            &productname; project coordinator. This is used for the &productname; team to
+                                                            perform an initial assessment on the applicant and to gain various details on the school,
+                                                            e.g. contacts, size &amp; demographics.</para>
+                                        </step>
+                                        <step>
+                                                  <title>Complete the Business Plan</title>
+                                                  <para>The Business Plan needs to be completed and returned to the &productname; project
+                                                            coordinator. There is a “Business Plan Guidelines” in Appendix A to use as a
+                                                            starting point for you to understand what is needed in the business plan.</para>
+                                        </step>
+                                        <step>
+                                                  <title>Attend an Installation</title>
+                                                  <para>It is ordinarily required that the applying school sends a representative to a
+                                                            &productname; install at another school. The obvious exception being if
+                                                            &productname;s enters into a new geographic area. The representative must sign the
+                                                            attendance register which will be sent back to the &productname; office by the
+                                                            installing school.</para>
+                                        </step>
+                                        <step>
+                                                  <title>School Visit</title>
+                                                  <para>The &productname; team will physically visit the school at this stage. The reason for this
+                                                            is to:</para>
+                                                  <itemizedlist>
+                                                            <listitem>
+                                                                      <para>initiate personal contact</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>visually assess the school</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>check that the requirements have been met</para>
+                                                            </listitem>
+                                                  </itemizedlist>
+                                        </step>
+                                        <step>
+                                                  <title>Attend Another Installation</title>
+                                                  <para>The &productname; team will notify the applicant that they are being processed further and
+                                                            that should attend another installation. If the school has already attended other
+                                                            installations then this step is waived, as is often the case.</para>
+                                        </step>
+                                        <step>
+                                                  <title>Confirm</title>
+                                                  <para>The &productname; team will then send a letter of confirmation to the school and will set
+                                                            up a date for the &productname; installation.</para>
+                                        </step>
+                                        <step>
+                                                  <title>School Infrastructure</title>
+                                                  <para>On confirmation, the school must prepare their proposed venue before the installation date.
+                                                            The <emphasis>Infrastructure</emphasis>, <emphasis>Hardware</emphasis>, and
+                                                                      <emphasis>Software</emphasis> modules of the &productname; are available to
+                                                            assist you in this preparation.</para>
+                                        </step>
+                                        <step>
+                                                  <title>Second School Visit</title>
+                                                  <para>The &productname; team will visit the school again before installation to ensure that the
+                                                            room is ready and meets the requirements.</para>
+                                        </step>
+                              </procedure>
+                    </section>
+                    <section id="mng_selection">
+                              <title>Selection Process</title>
+                              <para>The selection process describes the criteria that the &productname; team considers when choosing schools for
+                                        installation. It can be considered subjective in some areas, however, there is often no substitute for
+                                        experience.</para>
+                              <para>Core information about the school is obtained from the questionnaire, the business plan and any interview
+                                        conducted during a school visit. If the schools is part of a programme run by another organisation then they
+                                        will be consulted as well.</para>
+                              <para>Schools are assessed not only on enthusiasm and commitment to the programme but also on their willingness and
+                                        ability to contribute to its objectives.</para>
+                              <section id="mng_questionnaire">
+                                        <title>Questionnaire</title>
+                                        <para>The information that the questionnaire should yield includes the following:</para>
+                                        <itemizedlist>
+                                                  <listitem>
+                                                            <para>Does the school already have a computer lab?</para>
+                                                            <itemizedlist>
+                                                                      <listitem>
+                                                                           <para>If so, then details on its size, usage and how it was obtained
+                                                                           are important</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>How it is managed and incorporated is also important</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>What existing software is available and used</para>
+                                                                      </listitem>
+                                                            </itemizedlist>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>The same above applies to computers in the school that are not part of a computer
+                                                                      lab, e.g. the secretary's workstation</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>What is the perceived level of computer literacy in the school</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>What is the Open Source level of awareness and literacy</para>
+                                                  </listitem>
+                                        </itemizedlist>
+                              </section>
+                              <section id="mng_business_plan">
+                                        <title>Business Plan</title>
+                                        <para>The business plan should give an indication of:</para>
+                                        <itemizedlist>
+                                                  <listitem>
+                                                            <para>How the school intends to use the lab and who it will be for</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>How ready the school is for the physical infrastructure</para>
+                                                            <orderedlist>
+                                                                      <listitem>
+                                                                           <para>In terms of location and budget</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>In terms of how the staff could be managed into a committee with
+                                                                           a facilitator</para>
+                                                                      </listitem>
+                                                            </orderedlist>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>If the school is aware of the risks and opportunities associated with having a
+                                                                      computer lab</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>How the school intends to take ownership of the lab</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>The schools' management level and history of success</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>The schools' plan and vision for sustainability</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>The schools' operational plan which should include a budget outlay for
+                                                            maintenance</para>
+                                                  </listitem>
+                                        </itemizedlist>
+                                        <para>In general though, the schools often don't have any frame of reference regarding computer centres to be
+                                                  able to supply completely relevant information. The questionnaire and business plan should highlight
+                                                  this.</para>
+                              </section>
+                              <section id="mng_school_visit">
+                                        <title>School Visit</title>
+                                        <para>The school visit can be a very subjective process. A well run school is often characterised by clean
+                                                  grounds, disciplined children and a visible level of respect. It is also possible to get a sense of
+                                                  the principals' motivations behind applying for a &productname; at this stage by analysing the
+                                                  type of queries they make. Occasionally it is very self evident that the prime motivation behind the
+                                                  application is to obtain the infrastructure only. The visit will then largely centre around the
+                                                  type, cost and power of the donated computer lab with very little attention drawn to any of the
+                                                  softer issues.</para>
+                                        <para>Visiting the school also affords the chance to verify the information submitted in the questionnaire and
+                                                  the business plan. It has happened that a school has stored their existing equipment in a store-room
+                                                  before applying for a &productname;.</para>
+                              </section>
+                              <section id="mng_selection_criteria">
+                                        <title>Selection Criteria</title>
+                                        <para>Choosing an appropriate schools is difficult at best if there are a lot of applicants. Generally though,
+                                                  schools are chosen to build clusters geographically.</para>
+                                        <section>
+                                                  <title>Geographic Clustering</title>
+                                                  <para>Each cluster contains a minimum of three schools.</para>
+                                                  <para>The cluster model behind &productname;s is a very powerful way of fusing communities
+                                                            together and encouraging support and collaboration. Strong clusters are thus desirable and
+                                                            it is important to ensure that schools are clustered geographically close to each other to
+                                                            reduce the transport burden on the facilitators for attending meetings and training
+                                                            sessions.</para>
+                                                  <para>Often, an installation cycle is centred around building up clusters that show promise and
+                                                            enthusiasm but have large distances to cover for events.</para>
+                                        </section>
+                                        <section>
+                                                  <title>Commitment</title>
+                                                  <para>The application process requires that the applying school attend at least two installations at
+                                                            other school. This is done in attempt to asses their “buy-in” to the programme.
+                                                            Additionally, a school that attends installations, workshops, training and cluster
+                                                            meetings, even when they do not have a computer centre, will definitely be considered with
+                                                            more sincerity than those that have not shown a similar level of enthusiasm and commitment
+                                                            to the programme.</para>
+                                        </section>
+                                        <section>
+                                                  <title>Budget and Financial Backing</title>
+                                                  <para>The selected school is expected to provide the physical infrastructure required for housing
+                                                            the &productname;. The Letter of Intent and Criteria dictates what the school is
+                                                            responsible for supplying and includes:</para>
+                                                  <itemizedlist>
+                                                            <listitem>
+                                                                      <para>All electrical work</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>Network trunking</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>Desks, chairs and storage space</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>Adequate security</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>Insurance</para>
+                                                            </listitem>
+                                                  </itemizedlist>
+                                                  <para>This implies an initial capital outlay from the school. The school must also be able to
+                                                            support its' computer lab. Hardware has a limited warranty period and the Shuttleworth
+                                                            Foundation only guarantees the refurbished computer equipment for a period of 3 months
+                                                            after installation. The school therefore needs to be prepared for maintenance expenses
+                                                            and, possibly in the future, upgrade expenses.</para>
+                                        </section>
+                                        <section>
+                                                  <title>Resourced vs. Non-Resourced Schools</title>
+                                                  <para>Schools in South Africa are often described as being resourced or non-resourced.
+                                                            Alternatively, non-resourced schools are also referred to as disadvantaged and resourced
+                                                            schools as ex-Model C schools.</para>
+                                                  <para>Whatever the terminology, the Shuttleworth Foundation &productname; programme has focused
+                                                            on schools that do not have the resources or the capacity to facilitate the creation of
+                                                            their own computer lab. Although this is the focus, there have been exceptions where an
+                                                            advantaged school has been provided with a &productname; because its' business plan
+                                                            reflected its' plan to extend the &productname;'s influence and accessibility to the
+                                                            greater community. Somerset College is such an example of a resourced school whose plans
+                                                            where to help fund a &productname; for a neighbouring school, Macassar Primary, as
+                                                            well as servicing their community. </para>
+                                                  <para>Such variety is believed to be important as different perspectives and competence levels
+                                                            within a cluster can prove to be constructive.</para>
+                                        </section>
+                                        <section>
+                                                  <title>Primary vs. Secondary Institutions</title>
+                                                  <para>The demographics of the &productname; programme have so far favoured primary schools for
+                                                            the following reasons:</para>
+                                                  <itemizedlist>
+                                                            <listitem>
+                                                                      <para>Primary schools are easier to provide for in terms of content and
+                                                                           curriculum software</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>Consequently the demands on the power of the computing environment are
+                                                                           less</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>The Khanya project in the Western Cape has focused more on providing
+                                                                           computer centres in secondary schools. Primary schools did not have a
+                                                                           similar project focused on their needs.</para>
+                                                            </listitem>
+                                                  </itemizedlist>
+                                                  <para>The &productname; programme does include secondary schools though for the following
+                                                            reasons:</para>
+                                                  <orderedlist>
+                                                            <listitem>
+                                                                      <para>To provide a platform for developing a model that encompasses all aspects
+                                                                           of basic education.</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>To provide a platform for piloting other Shuttleworth Foundation projects
+                                                                           that require a computer facility</para>
+                                                            </listitem>
+                                                  </orderedlist>
+                                        </section>
+                                        <section>
+                                                  <title>Exclusion</title>
+                                                  <para>In light of the above, a school will only be denied it's application under the following
+                                                            conditions:</para>
+                                                  <itemizedlist>
+                                                            <listitem>
+                                                                      <para>It is guilty of misrepresentation in its application questionnaire and
+                                                                           business plan</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>The facilitators do not attend other installations</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>The schools does not supply the required infrastructure</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>The school does not supply the required paperwork</para>
+                                                            </listitem>
+                                                  </itemizedlist>
+                                                  <para>Generally though, the applicant will not be denied, as such, but rather not accepted. The
+                                                            difference being that the applicant is not formally disqualified but rather given time to
+                                                            qualify completely in the future.</para>
+                                        </section>
+                              </section>
+                    </section>
+                    <section id="mng_install_process">
+                              <title>Installation Process</title>
+                              <para>This installation process describes the events that happen on the day.</para>
+                              <para>In the past, the installation process has evolved from performing as many activities as possible with all the
+                                        roll-players to performing only relevant activities. An example would be that the server is no longer
+                                        installed on-site at the school on installation day. The reason for this change is that the server
+                                        installation is largely automatic and quite uninteresting for the participants.</para>
+                              <para>The current &productname; install process involves the following activities:</para>
+                              <itemizedlist>
+                                        <listitem>
+                                                  <para>The workstations are refurbished before the time and delivered on to the school on the
+                                                            Thursday prior to a Saturday install.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>The installation date would have been announced to the volunteers on the mailing lists.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>On the install Saturday, the volunteers are rounded up and assigned rolls and responsibilities
+                                                            for the day.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>On arrival at the school, the participants are given a crash course in networking. The network
+                                                            cables are cut, crimped and laid in conduits by the school staff, learners and
+                                                  volunteers.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>If necessary, the network cards will be installed into the workstations on the day.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>The switch and server are installed and connected to the workstations.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Monitors are adjusted and networks tested.</para>
+                                        </listitem>
+                              </itemizedlist>
+                              <para>If time and resources allow, the following activities on the day can add value to the whole process and event:</para>
+                              <itemizedlist>
+                                        <listitem>
+                                                  <para>Some kind of software installation process can be shown to the participants.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Allow the participants to get inside a computer, either by opening some up or by letting them
+                                                            install the network cards.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>A basic tutorial session on system administration and what the capabilities of the computer
+                                                            lab are.</para>
+                                        </listitem>
+                              </itemizedlist>
+                              <para>Basically, the more interactive and hands-on the event is, the more the participants gain from the experience.</para>
+                              <para>The school is expected to have at least a 50% staff attendance at the installation. This is important as it helps
+                                        to build ownership of the &productname; from within.</para>
+                              <para>Finally, the attendance register is collected and the Memorandum of Understanding (MoU)(see Appendix F) is signed
+                                        with the Principal. The MoU outlines the purpose of the donation and the expectations from all of the parties
+                                        involved. It essentially covers the criteria laid down in the Letter of Intent and the various support
+                                        documentation. The attendance register is used for the obvious purposes of tracking installation attendance
+                                        for the application process.</para>
+                    </section>
+          </section>
+          <section id="mng_change_management">
+                    <title>Change Management</title>
+                    <para>For a school with no previous exposure to ICTs, there are a few changes within the school management that might need to be
+                              addressed. There are some preconditions that need to be established with the school as part of the application process.</para>
+                    <section id="mng_buy_in">
+                              <title>Executive Buy-In</title>
+                              <para>The principal and the school governing body (SGB) needs to be aware of the issues obtaining a &productname;.
+                                        An initial capital expenditure will be required from the school to build infrastructure. This will normally
+                                        have to be authorised by the SGB. This executive also needs to be aware that funds need to be allocated for
+                                        insurance of the lab and possible future upgrades or maintenance.</para>
+                              <para>Support from the principal and SGB is very important to the ongoing success of the school's &productname;.
+                                        Teachers will be more motivated knowing that a level of accountability is in place. Certain &productname;
+                                        activities, like open-days, involve the outside community and it is essential that the school executive are
+                                        involved in taking ownership of such events.</para>
+                              <para>The principal is also ultimately responsible for assigning rolls and responsibilities within their staff around
+                                        the management of the &productname;. &productname; facilitators and the computer committee need to be
+                                        held accountable by the principal.</para>
+                    </section>
+                    <section id="mng_computer_committee">
+                              <title>Computer Committee</title>
+                              <para>Each school is required to form a computer committee consisting of at least three members of staff. This committee
+                                        will manage the day-to-day running of the laboratory as well as provide feedback reports to the Foundation.
+                                        The committee is also expected to formalise new strategies for integrating the laboratory usage into the
+                                        educational curriculum, create internal support and maintenance resources as well as employ or appoint a
+                                        facilitator to provide training during school hours. The computer committee is also expected to promote open
+                                        source software awareness to the entire school community and allow access to the centre after normal school
+                                        hours. </para>
+                              <para>The computer committee is ultimately the group that is responsible for the running of the &productname; and
+                                        its inclusion into the schools operations. They are required to submit a timetable to the &productname;
+                                        coordinator outlining how the &productname; is to be included in class times.</para>
+                    </section>
+                    <section id="mng_clustering">
+                              <title>Clustering</title>
+                              <para>The schools are built into clusters during the selection process.</para>
+                              <para>The support process hinges on the schools collaborating within their clusters to try and solve technical problems
+                                        as well as share best practises around the use and integration of the &productname;s.</para>
+                              <para>To ensure that there is communication between clustered schools, the representatives of the schools in each
+                                        cluster are required to form a committee which includes at least two representatives from each school. These
+                                        cluster committees meet at least once a quarter to share ideas, and experiences and discuss approaches to
+                                        managing and utilising the &productname;.</para>
+                              <para>In many cases the first level of support is best provided by a peer group member who has faced similar problems.
+                                        Not only does this build a co-operation between schools but it also fosters the sharing of skills between
+                                        administrators and learners. It also serves to remove (or break) the perceived barrier to technology skills:
+                                        by helping one another, learners and teachers are not merely passive recipients of technology services but are
+                                        playing an involved role in the process.</para>
+                    </section>
+                    <section id="mng_servicing_community">
+                              <title>Servicing the Community</title>
+                              <para>The &productname;, although it belongs to the school, is intended to service the local community around the
+                                        school as well. The school is encouraged to activate the parents, learners and community at large to engage in
+                                        the use and future of the &productname; through participation, support and training.</para>
+                              <para>Some specific activities include the following:</para>
+                              <orderedlist>
+                                        <listitem>
+                                                  <para>
+                                                            <emphasis role="bold">Open Days</emphasis>
+                                                  </para>
+                                                  <para>The schools are encouraged (and incentivised) to hold community Open Days at least once a
+                                                            month. The objective is to open the &productname; up to the greater community and help
+                                                            to increase exposure to its capabilities and opportunities. Activities could include
+                                                            holding short courses (e.g. basic word-processing etc.)</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>
+                                                            <emphasis role="bold">Adult Literacy</emphasis>
+                                                  </para>
+                                                  <para>Each school is urged to implement a programme that will allow community members to receive
+                                                            computer training courses after normal school hours. This program can be implemented to
+                                                            create funds for the salary of a facilitator or to cover the cost of maintenance of the
+                                                            lab or further expansion the lab.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>
+                                                            <emphasis role="bold">Open ICDL Training and Testing Centres</emphasis>
+                                                  </para>
+                                                  <para>The Open ICDL is the official open source version of the internationally renowned
+                                                            International Computers Driving Licence. It is a certification that covers computer use
+                                                            centred around OpenOffice.org and connectivity.</para>
+                                                  <para>To date, the &productname; programme has helped to established Windermere Primary as an
+                                                            official testing and training centre for the OpenICDL. Schools are able to generate
+                                                            funding through the offering of ICDL training courses to the community.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>
+                                                            <emphasis role="bold">Internet Café</emphasis>
+                                                  </para>
+                                                  <para>Those schools that have an internet connection to the &productname; are presented with an
+                                                            opportunity to open a community internet café. The lab could be used after school hours
+                                                            and the school could raise funds towards paying for the connection fee and for maintaining
+                                                            the &productname;.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>
+                                                            <emphasis role="bold">Computer Clubs</emphasis>
+                                                  </para>
+                                                  <para>Computer clubs within the schools offer a platform for learners, educators and the community
+                                                            to share expertise, experiences and activities around the use of computers. Such clubs
+                                                            should be the hub of the &productname; where members take ownership of the lab and its
+                                                            future.</para>
+                                        </listitem>
+                              </orderedlist>
+                    </section>
+          </section>
+          <section>
+                    <title>Post Install Management</title>
+                    <section id="mng_reporting">
+                              <title>Reporting</title>
+                              <para>To ensure the successful development and growth of the &productname; model, accurate and relevant feedback
+                                        from the schools is essential. The schools are encouraged (and incentivised) to produce reports on its
+                                        activities including:</para>
+                              <itemizedlist>
+                                        <listitem>
+                                                  <para>Quarterly reports on the general use of the &productname; within the school including:</para>
+                                                  <itemizedlist>
+                                                            <listitem>
+                                                                      <para>how it has been incorporated into the school's timetable</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>what training is provided</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>what activities have been scheduled and held</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>a guideline for the report is available (see Appendix B)</para>
+                                                            </listitem>
+                                                  </itemizedlist>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Curriculum aligned lesson plans, if available, should be submitted to the &productname;
+                                                            coordinator</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Evaluation forms on training provided to the school should be returned to the
+                                                            &productname; coordinator</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Activity reports on Open Days, after school training programmes and any event that utilises
+                                                            the &productname; in a constructive way</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Attendance registers for meetings and workshops.</para>
+                                        </listitem>
+                              </itemizedlist>
+                              <para>In essence, these reports help the &productname; coordinator to track the usage of the &productname;s in
+                                        the schools.</para>
+                              <para>The MoU actually makes such reporting a requirement. The guidelines are there for schools that are not sure how to
+                                        construct the reports. The schools are welcome to submit them in whatever format they desire as long as the
+                                        criteria are met for required information.</para>
+                    </section>
+                    <section id="mng_training_management">
+                              <title>Training</title>
+                              <para>As part of the installation process, the &productname; team schedules initial whole school training shortly
+                                        after the hardware is set up. This forms a total of 6 hours on-site training that covers some of the basic
+                                        skills around using a &productname; workstation, from logging in to writing simple documents and
+                                        spreadsheets.</para>
+                              <para>Additional training needs to be managed by the training providers (usually partners to the &productname;
+                                        programme, e.g. Computers 4 Kids), the school principal and the &productname; facilitator.</para>
+                    </section>
+                    <section id="mng_incentive">
+                              <title>Incentive Scheme</title>
+                              <para>The incentive scheme is designed to encourage and reward the use of the correct (and required) procedures behind
+                                        running a tuXlab. Points are assigned to a school for correct usage of the support process, regular reporting
+                                        and hosting events and meetings. These points accumulate and can eventually be cashed in for printers, extra
+                                        workstation or a host of other items. The scheme is outlined in the “tuXlab Incentive Scheme” document found
+                                        both in the Appendix E and online at the <ulink url="http://www.tuxlab.org.za/files/incentives.pdf">TuXlab
+                                                  Webportal</ulink>.</para>
+                              <para>The incentive scheme servers two main purposes:</para>
+                              <itemizedlist>
+                                        <listitem>
+                                                  <para>on the one hand it encourages schools to engage in the &productname; activities,
+                                                  and</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>on the other hand it provides a mechanism and a framework for tracking of events and reports
+                                                            from the schools.</para>
+                                        </listitem>
+                              </itemizedlist>
+                              <para>The various rewards available are all chosen for relevance to a computer centre, e.g. printers, extra workstations
+                                        and additional training.</para>
+                    </section>
+                    <section id="mng_budget">
+                              <title>Budget</title>
+                              <para>As with every education and business project there has to be a <emphasis role="bold">budget</emphasis>. This makes
+                                        sense when you think of what installing and running a &productname; entails.</para>
+                              <section>
+                                        <title>Capital Expenditure</title>
+                                        <para>The &productname; model works on the thin-client model using refurbished computers and open source
+                                                  software. As such it is an extremely cost effective solution.</para>
+                                        <para>Traditionally, the school has been responsible for providing the physical infrastructure for the venue.
+                                                  This includes, as mentioned above, the security, desktops and electrical work.</para>
+                                        <para>The actual computer hardware is then paid for by a donor. The server and switch are procured new so that
+                                                  a decent hardware warranty is in place. The workstations are refurbished machines and are easy to
+                                                  replace should they fail.</para>
+                                        <para>Currently, at the middle of 2006, the cost breakdown for a &productname; is as follows:</para>
+                                        <itemizedlist>
+                                                  <listitem>
+                                                            <para>Xeon Server: R14200</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>24 Port Switch: R950</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Power Cables x 20: R500</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Network Cards/Boot PROMs x 20: R1700</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Network cabling, boots and jacks: R500</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>tuXlab Starter Kit: R200</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>
+                                                                      <emphasis role="bold">Total: R18050</emphasis>
+                                                            </para>
+                                                  </listitem>
+                                        </itemizedlist>
+                                        <para>The initial training that the school receives can be broken into 6 hours at R50/hour yielding R300 per
+                                                  school. Additional costs contributing to the total cost of a tuXlab would include staff costs of the
+                                                  tuXlab team, the running of a support desk and other external activities.</para>
+                              </section>
+                              <section id="mng_lab_sustainability">
+                                        <title>Sustainability</title>
+                                        <para>The SGB needs to be aware that there are running costs with regards to maintaining a working computer
+                                                  lab. Some of the items include:</para>
+                                        <orderedlist>
+                                                  <listitem>
+                                                            <para>making provision for a computer facilitator</para>
+                                                            <itemizedlist>
+                                                                      <listitem>
+                                                                           <para>can be a staff member</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>or external to the school</para>
+                                                                      </listitem>
+                                                            </itemizedlist>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>hardware maintenance</para>
+                                                            <itemizedlist>
+                                                                      <listitem>
+                                                                           <para>the school needs to ensure that maintenance options are
+                                                                           available for the</para>
+                                                                           <para>server and switch past their distributor warranty</para>
+                                                                           <para>workstations past their 3 month tuXlab warranty</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>maintenance options including:</para>
+                                                                           <itemizedlist>
+                                                                           <listitem>
+                                                                           <para>employing a service provider to maintain the
+                                                                           equipment</para>
+                                                                           </listitem>
+                                                                           <listitem>
+                                                                           <para>entering a lease agreement with a computer
+                                                                           financial services organisation (e.g.
+                                                                           RentWorks)</para>
+                                                                           </listitem>
+                                                                           <listitem>
+                                                                           <para>sourcing maintenance or refurbished
+                                                                           workstations through a local
+                                                                           refurbishment house (e.g.
+                                                                           FreeCom)</para>
+                                                                           </listitem>
+                                                                           </itemizedlist>
+                                                                      </listitem>
+                                                            </itemizedlist>
+                                                  </listitem>
+                                        </orderedlist>
+                                        <para>Further budgetary considerations include additional training for the staff, sending facilitators on
+                                                  workshops or courses and purchasing peripheral equipment to help in class delivery (e.g. data
+                                                  projectors).</para>
+                                        <para>Hidden costs could include electricity, transport to training sessions, paper and printer toner.
+                                                  Internet connectivity is another area that a school should consider in its budget.</para>
+                                        <para>Please read the Sustainability Module that is also part of the &productname; Cookbook.</para>
+                              </section>
+                    </section>
+                    <section id="mng_project_support">
+                              <title>Programme Support</title>
+                              <para>You do not need to be alone when considering or utilising a &productname;. Support for you and for your
+                                        &productname; programme is available from various sources. We discuss two of these sources here:</para>
+                              <section>
+                                        <title>Department of Education</title>
+                                        <para>The educational sector is a difficult ground to operate in. The level of ICT competence in
+                                                  under-privileged communities is quite low and educators are challenged enough with current tasks to
+                                                  engage in furthering their computer skills.</para>
+                                        <para>The support of the Department of Education (DoE) is thus essential. A well placed letter can literally
+                                                  make a world of difference. For example, if attendance for a workshop at a school is critical to the
+                                                  success of a certain programme, then a letter of support from a DoE head can ensure that full
+                                                  attendance is attained. DoE buy-in to the programme lends it credibility.</para>
+                                        <para>Similarly, software, content and applications that carry a stamp of approval from the curriculum
+                                                  development department are more likely to be engaged by the teachers than those that aren't. If a
+                                                  software programme targets specific learning areas and outcomes that the DoE has identified, then
+                                                  the educators' task becomes a lot clearer.</para>
+                              </section>
+                              <section id="mng_partnerships">
+                                        <title>Partnerships</title>
+                                        <para>Partnerships can include content providers, trainers, donors, sponsors or even various levels of
+                                                  consulting. The &productname; definition of a partners is one in which a 3rd party supports the
+                                                  &productname; programme to the extent that products or services are granted either for free or
+                                                  for a reduced cost to the beneficiaries.</para>
+                                        <itemizedlist>
+                                                  <listitem>
+                                                            <para>An example would be Edupac whose school management application is to released under
+                                                                      an open source licence and made freely available. Additionally, Edupac agreed to
+                                                                      install, train and support their product in as many &productname; schools as
+                                                                      existed at no cost. The sustainable future would see a basic reduced support
+                                                                      cost model for the schools.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Another example is Computers 4 Kids. Their DoE approved software was ported to the
+                                                                      linux operating system and provided free of charge to all &productname;s.
+                                                                      Although not technically an open source product, the partnership is a good
+                                                                      example of a collaborative relationship with a proprietary software provider
+                                                                      that makes their product available at no cost for the programme. Additionally
+                                                                      they provide training and support to the schools at no cost.</para>
+                                                  </listitem>
+                                        </itemizedlist>
+                                        <para>Other examples include:</para>
+                                        <itemizedlist>
+                                                  <listitem>
+                                                            <para>telecommunications service providers reducing their rates for public schools</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>content developers releasing their material under an open licence</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>large corporation donating equipment and providing media exposure</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>the media themselves keeping track of the programme</para>
+                                                  </listitem>
+                                        </itemizedlist>
+                                        <para>All these examples are partnerships that aid the beneficiaries of &productname;s directly.</para>
+                                        <para>Some guidelines should be kept in mind when dealing with social enterprises though:</para>
+                                        <itemizedlist>
+                                                  <listitem>
+                                                            <para>There are organisations looking only for mileage out of the t&productname;
+                                                                      programme and not fronting anything tangible. They generally are aiming for a
+                                                                      “&productname; Partner” logo by providing a product or service that does not
+                                                                      honour the open spirit of the community or the programme. Generally such
+                                                                      organisations are looking for the &productname; team to coordinate a
+                                                                      targeted marketing strategy for them. Such organisations are generally dealt
+                                                                      with by explaining that they are welcome to approach schools directly.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Other partner organisations might not have the capacity to provide a social
+                                                                      enterprise offering. The expectation is often there for the &productname;
+                                                                      team to produce the service for them in, for example, installing their software
+                                                                      or supporting their product. This is not always feasible and the caveat should
+                                                                      be there when drafting a partnership agreement.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>In drafting a partnership agreement, it should be kept clear and concise what roles,
+                                                                      responsibilities and activities lie with which parties. In light of the above,
+                                                                      partner organisations can have a tendency to expect the &productname; team
+                                                                      to manage and operationalise their activities for them because of the cost
+                                                                      sacrifice they might be making.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Accurate reporting from partners should be maintained. It is important to receive
+                                                                      feedback from all aspects of the programme, especially around areas of support.
+                                                                      A partners support desk should integrate into the &productname; support
+                                                                      desk, at the very least on a communicative level.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>With respect to reporting, where applicable the &productname;s support desk
+                                                                      should be preserved. In other words, a partner organisation should preferably
+                                                                      integrate their help desk with &productname;s in such a manner that both
+                                                                      operations know where to dispatch support tickets and can track problems
+                                                                      accordingly.</para>
+                                                  </listitem>
+                                        </itemizedlist>
+                              </section>
+                    </section>
+          </section>
+</chapter>

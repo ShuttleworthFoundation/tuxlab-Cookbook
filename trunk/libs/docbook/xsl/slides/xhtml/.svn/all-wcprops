@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/xhtml
+END
+tables.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/xhtml/tables.xsl
+END
+w3c.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/xhtml/w3c.xsl
+END
+frames.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/xhtml/frames.xsl
+END
+jscript.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/xhtml/jscript.xsl
+END
+graphics.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/xhtml/graphics.xsl
+END
+param.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/xhtml/param.xsl
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/xhtml/ChangeLog
+END
+html2xhtml.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/xhtml/html2xhtml.xsl
+END
+plain.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/xhtml/plain.xsl
+END
+default.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/xhtml/default.xsl
+END
+flat.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/xhtml/flat.xsl
+END
+css.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/xhtml/css.xsl
+END
+slides-common.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/xhtml/slides-common.xsl
+END
+vslides.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/xhtml/vslides.xsl
+END

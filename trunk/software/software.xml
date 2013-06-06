@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+                      "http://www.docbook.org/xml/4.4/docbookx.dtd"
+[ 
+<!ENTITY % globalents SYSTEM "../common/global.ent">
+ %globalents; 
+ <!ENTITY % xinclude SYSTEM "../libs/xinclude.mod">
+%xinclude;
+ ]>
+<chapter>
+                    <title>Software Module</title>
+                    
+                    <abstract>&abstract-software;</abstract>
+
+                    <section id="sw_software_intro">
+                              <title>Software Introduction</title>
+                              <para>As mentioned in the Introductory book to the &productname; Cookbook, the &productname; project uses Open
+                                        Source software wherever possible. The exceptions are only where no suitable Open Source alternative could be
+                                        found. Currently, the only proprietary software content used in &productname;s is that which is added on
+                                        in specific projects, allowing for localised content or specific school management software. All the software
+                                        that is part of the &productname; falls under Open Source licenses, and the software itself will always be
+                                        100% free.</para>
+                              <para>We have also already seen that Open Source software is used in the &productname; project because it overcomes
+                                        some of the barriers caused by proprietary (also often referred to as “closed source”) software. These
+                                        barriers included:</para>
+                              <itemizedlist>
+                                        <listitem>
+                                                  <para>Limitations on the distribution of the software</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Prohibitively expensive licensing fees</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Limitations on customising and localising the software</para>
+                                        </listitem>
+                              </itemizedlist>
+                              <para>The &productname; project would simply not be possible without the use of Open Source software. We believe
+                                        that Open Source software will continue to mature at an ever increasing rate, and that more and more people
+                                        will find using this liberating form of technology more pleasant than the traditional, proprietary licensed
+                                        counterparts.</para>
+                    </section>
+                    <section>
+                              <title>Software components</title>
+                              <para>A &productname; includes both open source software as well as office tools and web browsers (see <xref
+                                                  linkend="sw_applications"/>). At its core, however, it consists of the server software that runs the
+                                        classroom server and the Wizzy internet proxy server.</para>
+                              <section id="sw_ltsp-classroom-server">
+                                        <title>LTSP classroom server</title>
+                                        <para>A &productname; classroom server requires a Linux distribution with the option to install the LTSP
+                                                  packages.</para>
+                              </section>
+                              <section id="sw_wizzy-server">
+                                        <title>Wizzy server</title>
+                                        <para>A Wizzy server can be used to provide a managed internet access solution for a &productname;, also
+                                                  known as a <emphasis>gateway</emphasis> server. Currently, a Wizzy server is an extra to a
+                                                  &productname; install. The Shuttleworth Foundation may award a Wizzy server computer to a school
+                                                  with a &productname; if the school demonstrates that it is making good use of the lab. Wizzy is
+                                                  a project of Andy Rabagliati, a techno-philanthropist who has been wiring rural schools for cheap
+                                                  internet connectivity for many years now.</para>
+                                        <para>The software is based on RedHat Linux, currently version 8.0, whereas K12LTSP is based on RedHat Fedora.
+                                                  Wizzy uses an adapted version of <ulink url="http://www.whiteboxlinux.org/"> Whitebox Linux</ulink>,
+                                                  itself a straight recompile from source RPMs of <ulink url="http://www.redhat.com/software/rhel/">
+                                                            RedHat Enterprise Linux</ulink>. Many extra packages have been added, all under the GPL
+                                                  license.</para>
+                                        <para>It performs the duties of dialup manager, firewall, mailserver , web cache, and authentication server.
+                                                  The Wizzy server does normal dialup via a telephone line, but it can also do <acronym>ADSL</acronym>
+                                                  and wireless connections. It would be possible to do all these things on the classroom
+                                                  <acronym>LTSP</acronym> server as well, but a custom mail arrangement would still be necessary:
+                                                  while the &productname; is not connected to the internet, mail needs to be delivered to a remote
+                                                  server. Another reason to separate the internet gateway from the classroom server is that it is not
+                                                  a good idea for a classroom server to have a public-facing IP address. All machines exposed to the
+                                                  internet are vulnerable to hackers and new virus codes, and the classroom server contains all the
+                                                  user data that could be lost if it were compromised.</para>
+                                        <para>The way in which the Wizzy server sends and receives email is customised to work with an intermittent
+                                                  internet connection. It utilises a protocol that was more commonly used in the days before permanent
+                                                  internet connections became common, namely UUCP (the Unix-to-Unix Copy Protocol). UUCP is suited to
+                                                  queueing data to be copied to remote hosts for delivery when a network connection is established.</para>
+                                        <para>Wizzy has the goal of providing all its services via UUCP in order to accommodate high latency
+                                                  connections where there may be long disconnected periods. This type of connection includes
+                                                  situations where a connection is established by dialling up at night when phone rates are low, as
+                                                  well as situations without any dialup access at all.</para>
+                                        <para>In cases without dialup access, the connection can be made by carrying the data across by hand! <footnote>
+                                                            <para>See <ulink url="http://wizzy.org.za/article/articleview/18/1/3"/></para>
+                                                  </footnote> The transfer medium may be, for example, a USB memory stick, a mobile wireless-enabled
+                                                  laptop, or a USB hard drive. The transfer medium will contain newly fetched data and the queued
+                                                  requests for new web pages, as well as mail waiting to be sent. This is not a stated goal of the
+                                                  &productname;s project, so if your school wishes to pursue this route, you may have to contact
+                                                  Wizzy to work out the details.</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/usbenabling.png"/>
+                                                  </imageobject>
+                                                  <caption>A wireless antenna that plugs into a USB plug on a laptop or a PC.</caption>
+                                        </mediaobject>
+                                        <para>If you do have access to a telephone line for the &productname;, the internet is dialled up only at
+                                                  night when the rates are low (Telkom South Africa provides a particular phone account that allows a
+                                                  single 12 hour phone call for R7). In this period, approximately 250MB of email and web material can
+                                                  be downloaded onto the Wizzy server in the classroom. In the morning, after the phone has been hung
+                                                  up, the learners can access the downloaded material as though they had a direct web connection.
+                                                  Their experience of email and web during the school day is almost identical to a very fast online
+                                                  web experience, with the exception that newly requested pages will only be available by the next morning.<footnote>
+                                                            <para>See <ulink url="http://wizzy.org.za/article/articleview/4/1/3"/></para>
+                                                  </footnote></para>
+                                        <para>Normally, if you want to connect to the internet, you need a telephone line and a modem, a satellite
+                                                  uplink, or some other means of tapping into 'the Net'. Unfortunately, in South Africa, the necessary
+                                                  telecommunications infrastructure is not always there to tap into. Around a third of South Africans
+                                                  don't have a phone line, and most schools do not have internet access (e.g roughly 88% of schools in
+                                                  the Northern Province lack an internet connection). <footnote>
+                                                            <para>See <ulink url="http://wizzy.org.za/article/articleview/18/1/3"/></para>
+                                                  </footnote></para>
+                                        <section id="sw_benefits-of-a-wizzy-server">
+                                                  <title>Benefits of a Wizzy server</title>
+                                                  <para>Every student can have email and web access without the cost of being online. This is true
+                                                            even for schools that don't have a telephone.</para>
+                                                  <para>While the delay in retrieving web pages is a necessary consequence of the Wizzy solution, it
+                                                            has a desirable side effect in that it helps educators to manage web access. Since anybody
+                                                            with an internet connection can publish on the Web, there is an absolute ocean of complete
+                                                            trash that threatens to engulf the unwary browser. Groping through this mess just wastes
+                                                            school resources. Automated solutions to this issue have been proposed, often by companies
+                                                            that market filtering products. Apart from the fact that these products suffer from both
+                                                            false positives and negatives, blocking material unnecessarily and letting undesirable
+                                                            material through, it shifts responsibility from the teacher to a software product.</para>
+                                                  <para>The Wizzy solution believes that it's better to let the teacher decide what is appropriate.
+                                                            This also allows the teacher to stay in touch with the material accessed by the learners
+                                                            he or she is teaching. Teachers can explicitly choose the web material that learners can
+                                                            access and definitively reject web material that is not appropriate. They can also set the
+                                                            Wizzy server to monitor websites, retrieving new versions as they become available.</para>
+                                                  <para>Because the school is never in direct connection with the internet, but rather has its web
+                                                            content delivered upon request, students cannot "surf" the internet. However, since all
+                                                            the web sites that have been requested by the IT administrator of the school are delivered
+                                                            and stored on the school's server, the students can "surf" this local web cache as though
+                                                            it were a miniature internet.</para>
+                                                  <para>These specially chosen web sites can easily number in the hundreds. They can be updated daily;
+                                                            and should a new site be desired on a regular basis, the school would have to wait only
+                                                            one day for the delivery to begin. The "surfing" of this miniature internet within the
+                                                            &productname; costs nothing, and is fast enough to give you whiplash, since all
+                                                            communication takes place within the &productname;, between the server and the client
+                                                            computers. <footnote>
+                                                                      <para>See <ulink url="http://wizzy.org.za/article/articlestatic/19/1/2/"
+                                                                      /></para>
+                                                            </footnote></para>
+                                                  <para>&productname;s aims to give educators the tools to help learners explore computers and the
+                                                            Wizzy server allows them to put reasonable limits on learners' access, guiding them
+                                                            towards independent use of the computer as they mature. &productname;s does not make
+                                                            any judgement regarding what content is regarded as appropriate, but is there to help
+                                                            provide the tools and documentation to help educators with these decisions. The focus is
+                                                            more on the "guidance" aspect, rather than restriction, as the former is a positive
+                                                            activity while the latter is negative.</para>
+                                                  <para>The Wizzy solution integrates seamlessly with existing labs. Normally, no additional equipment
+                                                            is required to have this kind of internet access.</para>
+                                        </section>
+                                        <section id="sw_batch-mail-delivery-solutions">
+                                                  <title>Batch mail delivery solutions</title>
+                                                  <para>First, a recap of the basics. <footnote>
+                                                                      <para>See <ulink url="http://wizzy.com/wizzy/mail.html"/></para>
+                                                            </footnote> How does mail from far away get to your account, say:
+                                                                      <literal>somebody@myschool.wizzy.org.za</literal>?</para>
+                                                  <itemizedlist>
+                                                            <listitem>
+                                                                      <para>The remote mail client probably punts the mail to a smarter host - the
+                                                                           <acronym>SMTP</acronym> (Simple Mail Transfer Protocol)
+                                                                           server of their <acronym>ISP</acronym> (Internet Service Provider).
+                                                                           This will have been configured by the sender when first setting up
+                                                                           their mail client.</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>Their <acronym>ISP</acronym> mail server will ask a local nameserver (i.e.
+                                                                           <acronym>DNS</acronym> server) for the <acronym>MX</acronym>
+                                                                           (Mail Exchange) records of <literal>myschool.wizzy.org.za</literal>.
+                                                                           These are the IP addresses of machines listed as handling mail for
+                                                                           this domain. The <acronym>ISP</acronym> will try to deliver directly
+                                                                           to the lowest-numbered <acronym>MX</acronym> record in the list, via
+                                                                           <acronym>SMTP</acronym>. If it cannot connect, it will try
+                                                                           other <acronym>MX</acronym> hosts, usually in ascending order.</para>
+                                                                      <para>The <acronym>DNS</acronym> service for the &productname; and Wizzy
+                                                                           networks is provided by <ulink url="http://www.schoolnet.org.za/">
+                                                                           SchoolNet</ulink></para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>With this step, or via intermediate <acronym>MX</acronym> hosts, the mail
+                                                                           will eventually land on the target host - the lowest-numbered
+                                                                           <acronym>MX</acronym>, often your local
+                                                                           <acronym>ISP</acronym>. Most of the time, your <acronym>ISP</acronym>
+                                                                           will deliver all the mail for that domain into a single mailbox, and
+                                                                           leave you to figure out the rest.</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>The reason why the <acronym>ISP</acronym> can't easily do more is due to
+                                                                           the fact that <acronym>SMTP</acronym> is not authenticated to specific
+                                                                           users, and therefore relies on name services (fixed IP addresses) to
+                                                                           route messages to their destination. This makes it impractical for
+                                                                           intermittently connected machines, that dial up nightly and are
+                                                                           dynamically assigned an IP address by the <acronym>ISP</acronym>, to
+                                                                           function as mail exchangers.</para>
+                                                                      <para>One way to preserve the <acronym>SMTP</acronym> protocol across dynamic IP
+                                                                           addresses is to batch <acronym>SMTP</acronym> commands in a file, and
+                                                                           pass the file over a separate transport. <footnote>
+                                                                           <para>See <ulink url="http://wizzy.com/wizzy/batch.html"
+                                                                           /></para>
+                                                                           </footnote> Batched <acronym>SMTP</acronym> is similar to normal
+                                                                           <acronym>SMTP</acronym>, but, because it is being written to
+                                                                           a file, all responses are ignored. (Normally, an
+                                                                           <acronym>SMTP</acronym> connection is a conversation of commands and
+                                                                           responses between the sending and the receiving servers, so that the
+                                                                           sender may probe for the capabilities of the receiver, confirm
+                                                                           successful delivery, etc.) Fortunately, this is not critical: as long
+                                                                           as all the responses are known to be <literal>OK</literal>, everything
+                                                                           works.</para>
+                                                                      <para>The Wizzy solution is to write messages to a file, use UUCP over
+                                                                           <acronym>TCP/IP</acronym> as an authenticated transport from
+                                                                           the <acronym>SMTP</acronym> server of the <acronym>ISP</acronym> (in
+                                                                           this situation, Andy's Cape Town Wizzy server will be the
+                                                                           <acronym>SMTP</acronym>), and unpack the batch at the final
+                                                                           destination (the &productname;). The batched
+                                                                           <acronym>SMTP</acronym> format is described in <ulink
+                                                                           url="http://www.faqs.org/rfcs/rfc2442.html"> RFC 2442 ---
+                                                                           The Batch <acronym>SMTP</acronym> Media Type</ulink></para>
+                                                                      <para>Wizzy uses <command>exim</command> as the <acronym>SMTP</acronym> agent at
+                                                                           both ends, and Taylor (GNU) UUCP as the middle transport.</para>
+                                                            </listitem>
+                                                  </itemizedlist>
+                                        </section>
+                              </section>
+                              <section id="sw_applications">
+                                        <title>Applications</title>
+                                        <section id="sw_openoffice-org">
+                                                  <title>OpenOffice.org</title>
+                                                  <para>OpenOffice is a full office suite, intended to measure up to and surpass Microsoft Office.
+                                                            This is what its original author, Marco B&#195;&#182;rries, intended when he
+                                                            started StarDivision to create the software that would eventually become OpenOffice in
+                                                            1984, when he was just sixteen. He called it StarOffice. By the time Sun Microsystems
+                                                            bought Marco's company in 1999, over 25 million copies of Star Office had been sold to
+                                                            customers who needed platform independence and an alternative to Microsoft.</para>
+                                                  <para>In July 2000, Sun released most of the Star Office source code (about 7.5 million lines of
+                                                            C++) to the stewardship of the open source community, under the <ulink
+                                                                      url="http://www.fsf.org"> Free Software Foundation</ulink>'s LGPL license. The
+                                                            community project has as its goal: "To create, as a community, the leading international
+                                                            office suite that will run on all major platforms and provide access to all functionality
+                                                            and data through open-component based APIs and an XML-based file format." The open APIs
+                                                            and file formats are turning OpenOffice into a platform in its own right, supporting
+                                                            projects such as <ulink url="http://opengroupware.org/"> OpenGroupware</ulink>, which aims
+                                                            to provide an open alternative to Microsoft's Exchange and SharePoint products.</para>
+                                                  <para>OpenOffice includes a word processor, spreadsheet, interfaces to many databases, a
+                                                            presentation builder, and a diagramming tool. It is now able to decode most variants of
+                                                            Microsoft Office document formats, but although it's StarBasic macro language is
+                                                            syntactically identical to Visual Basic, OpenOffice cannot execute Visual Basic scripts.
+                                                            Although these are preserved upon conversion, the scripts need to be adjusted to use the
+                                                            OpenOffice API before they can be used.</para>
+                                                  <para>OpenOffice can be used to teach all the basic computer skills required to enter the job
+                                                            market, and as the design paradigms of the software is very close to Microsoft Office, the
+                                                            skills learnt are readily transferable.</para>
+                                        </section>
+                                        <section id="sw_mozilla">
+                                                  <title>Mozilla</title>
+                                                  <para>In 1998, Netscape Communications <ulink
+                                                                      url="http://www.catb.org/%7Eesr/writings/cathedral-bazaar/cathedral-bazaar/ar01s13.html"
+                                                                      > released the source code of its Navigator web browser software as open
+                                                            source</ulink>, and the Mozilla project was born. Netscape released their software as open
+                                                            source in order to compete with Microsoft, who were bundling Internet Explorer with every
+                                                            copy of Windows sold. Netscape hoped that the cooperation of thousands of developers
+                                                            around the world would create a better product than Internet Explorer. It did, but it took
+                                                            years, and Netscape fell by the wayside. The code lived on, though.</para>
+                                                  <para>In 2004, six years after the start of the project, the non-profit Mozilla Foundation that was
+                                                            created to coordinate the project finally released version 1.0 of the Firefox browser.
+                                                            Earlier versions of the software had been in use for years, but at last it was deemed
+                                                            ready for a high-profile release to the general public.</para>
+                                                  <para>The full Mozilla suite includes far more than the web browser. It includes Thunderbird, a mail
+                                                            client with address books and calendaring support, and Composer, a web page editor. For
+                                                            developers, it includes Venkman, a Javascript debugger, and the <acronym>DOM</acronym>
+                                                            Inspector, a wonderful tool for interactively exploring the enormous, intricate internal
+                                                            structure of complicated web pages.</para>
+                                                  <para>The code base has been painstakingly restructured to get as much use out of it as possible.
+                                                            So, for instance, all the Mozilla applications use the same rendering engine, called
+                                                            Gecko, to layout and display HTML pages on screen. This is critical, since it is extremely
+                                                            hard work to implement the standards that govern web page structure and display correctly.
+                                                            Mozilla has the best support for the HTML and CSS standards of any browser out there. In
+                                                            the past, Microsoft has used Internet Explorer's idiosyncratic and incomplete
+                                                            implementation of web standards to coerce people to craft their web pages to look good in
+                                                            Internet Explorer at the expense of other browsers. For the web to become a dependable
+                                                            platform, however, developers have to be able to build on solid public standards that
+                                                            don't leave them at the mercy of any company's prosperity.</para>
+                                                  <para>As with OpenOffice, the Mozilla project is becoming a platform for <ulink
+                                                                      url="https://addons.update.mozilla.org/extensions/"> extensions</ulink> from the
+                                                            community.</para>
+                                                  <section id="sw_id30">
+                                                            <title>Security</title>
+                                                            <para>As the internet has become more popular, viruses, spam, spyware and trojans have
+                                                                      grown to be an enormous problem. These are all caused by programs that are
+                                                                      received and executed on computers without the knowledge or consent of their
+                                                                      users. How can this happen?</para>
+                                                            <para>In general, there are two ways for this to happen:</para>
+                                                            <itemizedlist>
+                                                                      <listitem>
+                                                                           <para>You may have given implicit permission without intending to do
+                                                                           so;</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>The unwanted program may be exploiting errors or bugs in some
+                                                                           program in order to insinuate themselves into it, so that it
+                                                                           can execute with the permissions of the original
+                                                                           program.</para>
+                                                                      </listitem>
+                                                            </itemizedlist>
+                                                            <para>Firefox and Thunderbird try to protect you as far as possible by setting up
+                                                                      reasonable defaults. Nothing in an email message is executed unless you
+                                                                      explicitly run it yourself. And execution of Javascript in web pages can be
+                                                                      switched off at any point. Firefox also allows you to grant or revoke specific
+                                                                      permissions (e.g. opening popups, hiding the status bar, or changing images) to
+                                                                      Javascript.</para>
+                                                            <para>The Mozilla suite also affords you a measure of protection from the second case.
+                                                                      While Internet Explorer has access to practically the entire running system of a
+                                                                      Windows PC via a powerful integration technology called ActiveX, Firefox and
+                                                                      Thunderbird are far more restricted. It also helps to be running on Linux, where
+                                                                      the user of the web browser will generally not be able to damage the operating
+                                                                      system, and the system administration account is never used to run user
+                                                                      applications.</para>
+                                                  </section>
+                                        </section>
+                                        <section id="sw_educational">
+                                                  <title>Educational Software</title>
+                                                  <para>There are many educational products and applications available for use on computers. The
+                                                            &productname; project utilises the most comprehensive Open Source applications and
+                                                            specific locally produced software. This section will present an overview of this
+                                                            software:</para>
+                                                  <section id="sw_computers4kids">
+                                                            <title>Computers 4 Kids</title>
+                                                            <para>The Shuttleworth Foundation and Computers 4 Kids entered into a partnership in 2004,
+                                                                      with an agreement that C4K would supply 500 &productname; schools with
+                                                                      materials and software at no cost to the Foundation and schools, excluding the
+                                                                      printing costs of such materials. Training and support is available and provided
+                                                                      in all major areas, with support and assistance from the Computers for Kids
+                                                                      franchisees within these areas. The Computers 4 Kids curriculum has been
+                                                                      approved in three major regions by the Department of Education. Computers 4 kids
+                                                                      have not applied for approval in other regions as yet. Although Computers 4 Kids
+                                                                      curriculum can run on a linux platform, and it is included in the installation
+                                                                      at each school, it is not truly open source, this is accepted because there are
+                                                                      no open source equivalents at the moment. Relationships such as these need to be
+                                                                      built and maintained, they are not guaranteed within the replication model, this
+                                                                      is something that needs to be done by replicator. Partnerships such as these add
+                                                                      a lot of value to the &productname; model and assist in the and usability of
+                                                                      the lab within the day to day use of the lab.</para>
+                                                            <para>With the advancements in information technology, many schools are struggling to meet
+                                                                      their own ICT needs, let alone equip their students with the critical computer
+                                                                      skills that they will need in a work environment. Computers 4 Kids, specialise
+                                                                      in providing a unique Integrated OBE ICT Curriculum, educational software as
+                                                                      well as all the backup, support and in-service training to ensure your ICT
+                                                                      centre works for you! Their integrated ICT curiculum works on both Microsoft as
+                                                                      well as Open Source platforms.</para>
+                                                            <section>
+                                                                      <title>About Computers 4 Kids</title>
+                                                                      <para>Computers 4 Kids is a Southern African computer education company run by a
+                                                                           team of fully qualified educators. It was established in 1995 in order
+                                                                           to address the critical need for Information and Communication
+                                                                           Technology (ICT) training at school level. Computers 4 Kids is
+                                                                           committed to the development and use of South African activities in
+                                                                           Information and Communications Centres and we are able to offer both
+                                                                           the expertise and the equipment needed in the most cost effective
+                                                                           possible manner.</para>
+                                                                      <para>Computers 4 Kids establish and administer new and existing Computer
+                                                                           Centres at schools by supplying Information and Communication
+                                                                           Technology educational software, a relevant and integrated OBE
+                                                                           curriculum and the necessary backup and support.</para>
+                                                                      <para>All curriculum materials can be used in a Microsoft as well as Linux
+                                                                           environment.</para>
+                                                                      <para>By staying at the cutting edge of technological and educational trends,
+                                                                           Computers 4 Kids will remain the leading supplier of integrated ICT
+                                                                           solutions to the educational institutions of Southern Africa,
+                                                                           empowering learners and staff with the most appropriate hardware,
+                                                                           software, service and skills.</para>
+                                                                      <para>With information technology moving faster and faster, and becoming more
+                                                                           and more important, many schools find it difficult to meet their own
+                                                                           ICT needs, let alone fulfill their obligation towards equipping
+                                                                           learners with the computer skills they will need in almost any career.
+                                                                           Learning focuses, themes and topics have been selected from what is
+                                                                           currently being studied in Southern African schools.</para>
+                                                                      <para>Computers 4 Kids has a strong curriculum development team which consists
+                                                                           of experienced educators in both the educational and ICT fields. All
+                                                                           developers have had extensive experience in teaching ICT skills using
+                                                                           an integrated approach. We have used this experience in the field of
+                                                                           ICT education to develop a dynamic and relevant integrated ICT
+                                                                           curriculum which is user friendly and easy to implement.</para>
+                                                                      <para>The curriculum was also designed for use by class educators who teach ICT
+                                                                           to their own classes. The Computers 4 Kids Integrated ICT Curriculum
+                                                                           will ease the task of educators by providing relevant integrated ICT
+                                                                           lessons which develop cognitive as well as ICT skills with the
+                                                                           emphasis on using the computer to learn.</para>
+                                                            </section>
+                                                  </section>
+                                                  <section>
+                                                            <title>&productname; Curriculum</title>
+                                                            <para>The &productname; curriculum consists of 160 Integrated ICT Learning Units for
+                                                                      children aged 4 - 16. There are 20 learning units in each of the Volumes from R
+                                                                      – 8. &productname; is used on a Linux platform and makes use of open source
+                                                                      software, namely: OpenOffice.org (Writer, Calc, Impress and Draw), Tux Paint and
+                                                                      FreeMind. Some of the templates utilise Flash for which you will need a Flash
+                                                                      player or the Flash plug-in for your browser.</para>
+                                                            <para>The &productname; curriculum consists of many resources for both learner and
+                                                                      educator.</para>
+                                                            <para>Learner resources include:</para>
+                                                            <itemizedlist>
+                                                                      <listitem>
+                                                                           <para>Educational Games</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>Keyboard and Mouse Skills (younger learners)</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>Touch Typing Skills (older learners)</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>Templates (partially completed documents which the learners
+                                                                           modify and complete)</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>Pix Linx (a library of relevant pictures where
+                                                                           applicable)</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>Resource Linx (any additional supporting information used for
+                                                                           the Integrated Activity)</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>Tech Talk Dictionary (a quick and easy reference to computer
+                                                                           terminology)</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>Website Links (saved web pages and online links to relevant
+                                                                           websites)</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>Self Assessment form (for learners to evaluate their own
+                                                                           progress)</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>Peer Assessment form (for learners to evaluate their peer's
+                                                                           progress)</para>
+                                                                      </listitem>
+                                                            </itemizedlist>
+                                                            <para>Educator resources include</para>
+                                                            <itemizedlist>
+                                                                      <listitem>
+                                                                           <para>Assessments and Feedback forms</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>Classroom Posters</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>Planning and Organising resources</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>Reference Documents</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>Useful Software</para>
+                                                                      </listitem>
+                                                            </itemizedlist>
+                                                  </section>
+                                        </section>
+                                        <section id="sw_wikipedia">
+                                                  <title>Wikipedia</title>
+                                                  <itemizedlist>
+                                                            <listitem>
+                                                                      <para>At present, Wikipedia is included in the installation phase of a
+                                                                           &productname;, it is downloaded and placed into the cache on the
+                                                                           &productname; server. It has been necessary to do this in schools
+                                                                           who do not have Internet connectivity.</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>Wikipedia adds educational value to the &productname; model, and
+                                                                           especially valuable within a lab that does not have connectivity as
+                                                                           learners and educators have access to a resources other wise not
+                                                                           available.</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>Downloading and storing on the server means the school can track and
+                                                                           monitor what information is available to learners, and remove any
+                                                                           inappropriate materials. </para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>We do a server upgrade once a year, at the same time we do updates to
+                                                                           wikipedia if the school has Internet connectivity, Wikipedia can still
+                                                                           be cached, and upgrades done on more regular basis</para>
+                                                            </listitem>
+                                                  </itemizedlist>
+                                                  <para>Wikipedia (pronounced as either [ˌwiˑkiˈpidi.ə] or [ˌwɪki-], also [-ɐ]) is a multilingual
+                                                            Web-based free-content encyclopedia. It is written collaboratively by volunteers with wiki
+                                                            software, which allows articles to be added or changed by nearly anyone. The project began
+                                                            on January 15, 2001 as a complement to the expert-written Nupedia, and is now operated by
+                                                            the non-profit Wikimedia Foundation. The English-language version of Wikipedia currently
+                                                            has more than 810,000 articles. Wikipedia has steadily risen in popularity, and has
+                                                            spawned several sister projects, such as Wiktionary, Wikibooks, and Wikinews.</para>
+                                                  <para>Articles in Wikipedia are regularly cited by the mass media and academia, who praise it for
+                                                            its free distribution, editing, and diverse range of coverage. Editors are encouraged to
+                                                            uphold a policy of "neutral point of view" under which notable perspectives are summarized
+                                                            without an attempt to determine an objective truth. But Wikipedia's status as a reference
+                                                            work has been controversial. Its open nature allows vandalism, inaccuracy, and opinion. It
+                                                            has also been criticised for systemic bias, preference of consensus to credentials, and a
+                                                            perceived lack of accountability and authority when compared with traditional
+                                                            encyclopedias.</para>
+                                                  <para>There are about 200 language editions of Wikipedia (about 100 of which are active). Ten
+                                                            editions have more than 50,000 articles each: English, German, French, Japanese, Polish,
+                                                            Italian, Swedish, Dutch, Portuguese, and Spanish. Its German-language edition has been
+                                                            distributed on compact discs, and many of its other editions are mirrored or have been
+                                                            forked by websites.</para>
+                                                  <section id="sw_free_content">
+                                                            <title>Free Content</title>
+                                                            <para>The GNU Free Documentation License (GFDL), the license under which Wikipedia's
+                                                                      articles are made available, is one of many "copyleft" copyright licenses that
+                                                                      permit the redistribution, creation of derivative works, and commercial use of
+                                                                      content provided its authors are attributed and this content remains available
+                                                                      under the GFDL. When an author contributes original material to the project, the
+                                                                      copyright over it is retained with them, but they agree to make the work
+                                                                      available under the GFDL. Material on Wikipedia may thus be distributed to, or
+                                                                      incorporated from, resources which also use this license. </para>
+                                                  </section>
+                                        </section>
+                                        <section id="sw_edutainment">
+                                                  <title>Edutainment</title>
+                                                  <para>For the purposes of this document, we have only included what is on Edubuntu (distro installed
+                                                            in &productname;s), there are more available and we will be adding these on in the
+                                                            future.</para>
+                                                  <section>
+                                                            <title>Kalzium</title>
+                                                            <mediaobject>
+                                                                      <imageobject>
+                                                                                <imagedata fileref="../images/kalzium.png"/>
+                                                                      </imageobject>
+                                                                      <caption>Kalzium</caption>
+                                                            </mediaobject>
+                                                            <para>
+                                                                      <emphasis role="bold">Version 1.4-pre3</emphasis>
+                                                            </para>
+                                                            <para>
+                                                                      <emphasis role="bold">© 2001-2005 by the Kalzium Team</emphasis>
+                                                            </para>
+                                                            <para>Kalzium is an application which will show you some information about the periodic
+                                                                      system of the elements. Therefore you could use it as an information database. </para>
+                                                            <para>
+                                                                      <ulink url="http://edu.kde.org/kalzium/">Kalzium Web Site</ulink>
+                                                            </para>
+                                                  </section>
+                                                  <section>
+                                                            <title>KBruch</title>
+                                                            <mediaobject>
+                                                                      <imageobject>
+                                                                                <imagedata fileref="../images/kbruch.png"/>
+                                                                      </imageobject>
+                                                                      <caption>KBruch</caption>
+                                                            </mediaobject>
+                                                            <para>
+                                                                      <emphasis role="bold">Version 3.4</emphasis>
+                                                            </para>
+                                                            <para>
+                                                                      <emphasis role="bold">© 2002-2005 Sebastian Stein</emphasis>
+                                                            </para>
+                                                            <para>KBruch is a small program to practice calculating with fractions. There are four
+                                                                      different exercises offered.</para>
+                                                            <orderedlist>
+                                                                      <listitem>
+                                                                           <para>Exercise Fraction Task - in this exercise you have to solve a
+                                                                           given fraction task. You have to enter numerator and
+                                                                           denominator. This is the main exercise. The difficulty of
+                                                                           this task can be influenced by the user. The user can decide
+                                                                           if he wants to solve tasks with addition/subtraction and/or
+                                                                           multiplication/division. Also he can set the number of
+                                                                           fractions and the maximum size of the main
+                                                                           denominator.</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>Exercise Comparison - in this exercise you have to compare the
+                                                                           size of 2 given fractions. </para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>Exercise Conversion - in this exercise you have to convert a
+                                                                           given number into a fraction.</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>Exercise Factorization - in this exercise you have to factorize
+                                                                           a given number into its prime factors. Factorization is
+                                                                           important while finding the main denominator of 2
+                                                                           fractions.</para>
+                                                                      </listitem>
+                                                            </orderedlist>
+                                                            <para>KBruch provides a handbook describing the different exercises and the general usage.</para>
+                                                            <para>
+                                                                      <ulink url="http://edu.kde.org/kbruch/">KBruch Web Site</ulink>
+                                                            </para>
+                                                  </section>
+                                                  <section>
+                                                            <title>KHangMan</title>
+                                                            <mediaobject>
+                                                                      <imageobject>
+                                                                                <imagedata fileref="../images/khangman.png"/>
+                                                                      </imageobject>
+                                                                      <caption>KHangMan</caption>
+                                                            </mediaobject>
+                                                            <para>
+                                                                      <emphasis role="bold">Version 1.5</emphasis>
+                                                            </para>
+                                                            <para>
+                                                                      <emphasis role="bold">© 2001-2005 Anne-Marie Mahfouf</emphasis>
+                                                            </para>
+                                                            <para>KHangman is the classical hangman game. The child should guess a word letter by
+                                                                      letter. At each miss, the picture of a hangman appears. After 10 tries, if the
+                                                                      word is not guessed, the game is over and the answer is displayed.</para>
+                                                            <para>he words are nouns and available in <emphasis role="bold">twenty-four
+                                                                      languages</emphasis> at the moment: Czech, Brazilian Portuguese, Bulgarian,
+                                                                      Catalan, Danish, Dutch, English, Finnish, French, German, Hungarian, Irish
+                                                                      (Gaelic), Italian, Norwegian (Bokmål), Norwegian (Nynorsk), Polish, Portuguese,
+                                                                      Spanish , Slovenian, Serbian Latin , Serbian Cyrillic, Slovak, Swedish, Tajik
+                                                                      and Turkish. The program will detect which languages are present and enable
+                                                                      them. In KDE 3.2 you have all the languages but in KDE 3.3.x and in the next KDE
+                                                                      3.4, you will get only English plus the data in the language you use in kde
+                                                                      provided it exists. You will also be able to easily download other languages via
+                                                                      the Get New Stuff dialog (3 clicks and your data will be installed).</para>
+                                                            <para>There are 4 levels per language: easy, medium, hard and animals which contains only
+                                                                      animals nouns.</para>
+                                                            <para>
+                                                                      <ulink url="http://edu.kde.org/khangman/">KHangMan Web Site</ulink>
+                                                            </para>
+                                                  </section>
+                                                  <section>
+                                                            <title>KLettres</title>
+                                                            <mediaobject>
+                                                                      <imageobject>
+                                                                                <imagedata fileref="../images/klettres.png"/>
+                                                                      </imageobject>
+                                                                      <caption>KLettres</caption>
+                                                            </mediaobject>
+                                                            <para>
+                                                                      <emphasis role="bold">Version 1.3</emphasis>
+                                                            </para>
+                                                            <para>
+                                                                      <emphasis role="bold">© 2001-2005 Anne-Marie Mahfouf</emphasis>
+                                                            </para>
+                                                            <para>KLettres aims to help to learn the alphabet and then to read some syllables in
+                                                                      different languages. It is meant to help learning the very first sounds of a new
+                                                                      language, for children or for adults.</para>
+                                                            <para>Currently available are: Czech, Danish, Dutch, English, French, Italian, Luganda,
+                                                                      Romanized Hindi, Spanish and Slovak, you can choose using the Languages menu.</para>
+                                                            <para>KLettres has four levels which can be changed via a Levels drop down box or the
+                                                                      Level menu: </para>
+                                                            <itemizedlist>
+                                                                      <listitem>
+                                                                           <para><emphasis role="bold">Level 1:</emphasis> the letter is
+                                                                           displayed and the user hears it.</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para><emphasis role="bold">Level 2:</emphasis> the letter is not
+                                                                           displayed, the user only hears it.</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para><emphasis role="bold">Level 3:</emphasis> the syllable is
+                                                                           displayed and the user hears it.</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para><emphasis role="bold">Level 4:</emphasis> the syllable is not
+                                                                           displayed, the user only hears it.</para>
+                                                                      </listitem>
+                                                            </itemizedlist>
+                                                            <para>You can also choose the mode(kid or grown-up) via the colored buttons on the toolbar
+                                                                      and KLettres will keep your settings and restore them the next time you play.</para>
+                                                            <para>
+                                                                      <ulink url="http://edu.kde.org/klettres/">KLettres Web Site</ulink>
+                                                            </para>
+                                                  </section>
+                                                  <section>
+                                                            <title>KmPlot</title>
+                                                            <mediaobject>
+                                                                      <imageobject>
+                                                                                <imagedata fileref="../images/kmplot.png"/>
+                                                                      </imageobject>
+                                                                      <caption>KmPlot</caption>
+                                                            </mediaobject>
+                                                            <para>
+                                                                      <emphasis role="bold">Version 1.2.0</emphasis>
+                                                            </para>
+                                                            <para>
+                                                                      <emphasis role="bold">© 2001-2005 Klaus-Dieter Möller</emphasis>
+                                                            </para>
+                                                            <para>KmPlot is a mathematical function plotter for the KDE-Desktop. It has built in a
+                                                                      powerful parser. You can plot different functions simultaneously and combine
+                                                                      their function terms to build new functions. KmPlot supports functions with
+                                                                      parameters and functions in polar coordinates. Several grid modes are possible.
+                                                                      Plots may be printed with high precision in correct scale.</para>
+                                                            <para>Features:</para>
+                                                            <itemizedlist>
+                                                                      <listitem>
+                                                                           <para>powerful mathematical parser </para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>precise metric printing</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>different plot types (functions, parametric, polar)</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>highly configurable visual settings (plot line, axes,
+                                                                           grid)</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>export to bitmap format (BMP and PNG) and scalable vector
+                                                                           graphics (SVG)</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>save/load complete session in readable xml format</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>trace mode: cross hair following plot, coordinates shown in the
+                                                                           status bar</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>support zooming</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>ability to draw the 1st and 2nd derivative and the integral of a
+                                                                           plot function</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>support user defined constants and parameter values</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>various tools for plot functions: find minimum/maximum point,
+                                                                           get y-value and draw the area between the function and the
+                                                                           y-axis</para>
+                                                                      </listitem>
+                                                            </itemizedlist>
+                                                            <para>
+                                                                      <ulink url="http://edu.kde.org/kmplot/">KmPlot Web Site</ulink>
+                                                            </para>
+                                                  </section>
+                                                  <section>
+                                                            <title>KPercentage</title>
+                                                            <mediaobject>
+                                                                      <imageobject>
+                                                                                <imagedata fileref="../images/kpercentage.png"/>
+                                                                      </imageobject>
+                                                                      <caption>KPercentage</caption>
+                                                            </mediaobject>
+                                                            <para>
+                                                                      <emphasis role="bold">Version 1.2</emphasis>
+                                                            </para>
+                                                            <para>
+                                                                      <emphasis role="bold">© 2001-2005 Matthias Meßmer</emphasis>
+                                                            </para>
+                                                            <para>KPercentage is a small math application that will help pupils to improve their
+                                                                      skills in calculating percentages.</para>
+                                                            <para>
+                                                                      <ulink url="http://edu.kde.org/kpercentage/">KPercentage Web Site</ulink>
+                                                            </para>
+                                                  </section>
+                                                  <section>
+                                                            <title>KStars</title>                                                            
+                                                            <para>
+                                                                      <emphasis role="bold">Version 1.1-p1</emphasis>
+                                                            </para>
+                                                            <para>
+                                                                      <emphasis role="bold">© 2001-2005 the KStars Team</emphasis>
+                                                            </para>
+                                                            <para>KStars is a Desktop Planetarium for KDE. It provides an accurate graphical
+                                                                      simulation of the night sky, from any location on Earth, at any date and time.
+                                                                      The display includes 130,000 stars, 13,000 deep-sky objects,all 8 planets, the
+                                                                      Sun and Moon, and thousands of comets and asteroids.</para>
+                                                            <para>
+                                                                      <ulink url="http://edu.kde.org/kstars/">KStars Web Site</ulink>
+                                                            </para>
+                                                  </section>
+                                                  <section>
+                                                            <title>KTouch</title>
+                                                            <mediaobject>
+                                                                      <imageobject>
+                                                                                <imagedata fileref="../images/ktouch.png"/>
+                                                                      </imageobject>
+                                                                      <caption>KTouch</caption>
+                                                            </mediaobject>
+                                                            <para>
+                                                                      <emphasis role="bold">Version 1.5</emphasis>
+                                                            </para>
+                                                            <para>
+                                                                      <emphasis role="bold">© 2000-2005 Haavard Froeiland and Andreas
+                                                                      Nicolai</emphasis>
+                                                            </para>
+                                                            <para>KTouch is a program for learning touch typing. KTouch is a way to learn to type on a
+                                                                      keyboard quickly and correctly. Every finger has its place on the keyboard with
+                                                                      associated keys to press. KTouch helps you learn to touch typing by providing
+                                                                      you with something to write. KTouch can also help you to remember what fingers
+                                                                      to use.</para>
+                                                            <para>
+                                                                      <ulink url="http://edu.kde.org/ktouch/">KTouch Web Site</ulink>
+                                                            </para>
+                                                  </section>
+                                                  <section>
+                                                            <title>KTurtle</title>
+                                                            <mediaobject>
+                                                                      <imageobject>
+                                                                                <imagedata fileref="../images/kturtle.png"/>
+                                                                      </imageobject>
+                                                                      <caption>KTurtle</caption>
+                                                            </mediaobject>
+                                                            <para>
+                                                                      <emphasis role="bold">Version 0.1</emphasis>
+                                                            </para>
+                                                            <para>
+                                                                      <emphasis role="bold">© 2003-2005 Cies Breijs</emphasis>
+                                                            </para>
+                                                            <para>KTurtle is a Logo programming language interpreter for KDE. The Logo programming
+                                                                      language is very easy and thus it can be used by young children. A unique
+                                                                      quality of Logo is that the commands or instructions can be translated (please
+                                                                      see the <ulink url="http://edu.kde.org/kturtle/translation.php">translation how
+                                                                           to</ulink> if you want to help in your own language), so the
+                                                                      'programmer' can program in his or her native language. This makes Logo ideal
+                                                                      for teaching kids the basics of programming, mathematics and geometry. One of
+                                                                      the reasons many children like Logo is because of the turtle, a programmable
+                                                                      icon which can be moved around the screen with simple commands and can be
+                                                                      programmed to draw objects.</para>
+                                                            <para>
+                                                                      <ulink url="http://edu.kde.org/kturtle/">KTurtle Web Site</ulink>
+                                                            </para>
+                                                  </section>
+                                                  <section>
+                                                            <title>GCompris</title>
+                                                            <mediaobject>
+                                                                      <imageobject>
+                                                                                <imagedata fileref="../images/GCompris.jpg"/>
+                                                                      </imageobject>
+                                                                      <caption>GCompris</caption>
+                                                            </mediaobject>
+                                                            <para>
+                                                                      <emphasis role="bold">Version </emphasis>
+                                                            </para>
+                                                            <para>
+                                                                      <emphasis role="bold">© 2003-2005 </emphasis>
+                                                            </para>
+                                                            <para>GCompris is an educational software which proposes miscellaneous activities to kids
+                                                                      from 2 to 10.</para>
+                                                            <para>Some activities are game oriented, but always educational. You will find activities
+                                                                      in the following topics:</para>
+                                                            <itemizedlist>
+                                                                      <listitem>
+                                                                           <para>computer discovery: keyboard, mouse, different mouse
+                                                                           gesture, ...</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>algebra: table memory, enumeration, double entry table, mirror
+                                                                           image, ... </para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>science: the canal lock, the water cycle, the submarine, ...
+                                                                           </para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>geography: place the country on the map</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>games: chess, memory, ...</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>reading: reading practice </para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>other: learn to tell time, puzzle of famous paintings, vector
+                                                                           drawing, ...</para>
+                                                                      </listitem>
+                                                            </itemizedlist>
+                                                            <para>All in all, gcompris proposes more than 50 activities and it continues to evolve.
+                                                                      gcompris is a free software, you have the possibility to adapt it to your needs
+                                                                      or to improve it, and, why not, to share your work with the kids of all the
+                                                                      world.</para>
+                                                            <para>
+                                                                      <ulink url="http://gcompris.net/">GCompris Web Site</ulink>
+                                                            </para>
+                                                  </section>
+                                        </section>
+                              </section>
+                              <section id="sw_gutenberg">
+                                        <title>Project Gutenberg</title>
+                                        <para>
+                                                  <ulink url="http://www.gutenberg.org/"> Project Gutenberg</ulink> was started in 1971 by Michael
+                                                  Hart, with the goal to provide books electronically at no cost.</para>
+                                        <para>Their collection numbers more than 13,000 e-books, produced by hundreds of volunteers. Most of the
+                                                  Project Gutenberg e-books (but not all) are older literary works that are in the public domain in
+                                                  the United States. <footnote>
+                                                            <para>Incidentally, this emphasises the importance of a public domain. Current legislation
+                                                                      in the United States effectively allows work to be kept out of the public domain
+                                                                      indefinitely. This is bad news for future generations.</para>
+                                                  </footnote> All may be freely downloaded and read, and redistributed for non-commercial use (for
+                                                  complete details, see the <ulink url="http://www.gutenberg.org/license"> license page</ulink>).</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/downloadbooks.png"/>
+                                                  </imageobject>
+                                        </mediaobject>
+                                        <para>
+                                                  <ulink url="http://www.gutenberg.org/wiki/Main_Page">Project Gutenberg Web Site</ulink>
+                                        </para>
+                              </section>
+                              <section id="sw_connexions">
+                                        <title>Connexions</title>
+                                        <para>The <ulink url="http://cnx.rice.edu/"> Connexions</ulink> project of <ulink url="http://www.rice.edu">
+                                                            Rice University</ulink> is an endeavour to create open source course material. On their
+                                                  homepage, they state: "Knowledge should be free, open, and shared. Connexions is a rapidly growing
+                                                  collection of free scholarly materials and a powerful set of free software tools to help authors
+                                                  publish and collaborate, instructors rapidly build and share custom courses, and learners to explore
+                                                  the links among concepts, courses, and disciplines.</para>
+                                        <para>They provide small "knowledge chunks", called modules, that connect into courses. Thanks to an open
+                                                  license, anyone can take these materials, adapt them to meet their needs, and contribute them back
+                                                  to the Commons.</para>
+                                        <para>
+                                                  <ulink url="http://cnx.org/">Connexions Web Site</ulink>
+                                        </para>
+                              </section>
+                              <section id="sw_edu_resources">
+                                        <title>Resources</title>
+                                        <para>There are numerous sources of educational software on the web. Some starting places are:</para>
+                                        <itemizedlist>
+                                                  <listitem>
+                                                            <para>
+                                                                      <ulink url="http://www.schoolforge.net/"> SchoolForge</ulink>. SchoolForge's
+                                                                      mission is to unify independent organisations that advocate, use, and develop
+                                                                      open resources for primary and secondary education.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>
+                                                                      <ulink url="http://eduslug.sourceforge.net/index.php"> Edu-SLUG</ulink>, the
+                                                                      workspace of the Schools Linux User Group, for the creation of educational
+                                                                      software for South African schools.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>You may find an informal collection of links loosely related to the <ulink
+                                                                           url="http://del.icio.us/tag/tuxlab"> &productname; project at
+                                                                           del.icio.us</ulink>, where you may register and post your own
+                                                                      extensions to the list.</para>
+                                                  </listitem>
+                                        </itemizedlist>
+                              </section>
+                    </section>
+                    <section id="sw_installation">
+                              <title>Software Installation</title>
+                              <section id="sw_planning">
+                                        <title>Planning</title>
+                                        <para>Before you start a tuXlab software installation, you need to think about and consider how you will be
+                                                  using the lab.</para>
+                                        <para>Questions you can ask yourself:</para>
+                                        <itemizedlist>
+                                                  <listitem>
+                                                            <para>How many users will be using this system?</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>How much disk will the users need?</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Will this server also function as a web, file, or mail server?</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Will this server act as an Internet gateway?</para>
+                                                  </listitem>
+                                        </itemizedlist>
+                                        <para>These factors will determine how you partition your disk, how authentication will work, how many network
+                                                  cards you install on the server, etc. If it's your first time installing a server, and you're unsure
+                                                  of advanced setup details, choose the default settings, which will give you good, generic settings.</para>
+                                        <para>Document every part of your setup, including the specifications of the server, how you set up your disk
+                                                  space layout, and what the intended use for the server is. You should make it as easy as possible
+                                                  for another person to work on the server and know what the server is doing.</para>
+                              </section>
+                              <section id="sw_install_edubuntu">
+                                        <title>Installing Linux</title>
+                                        <para>After reviewing the initial server documentation, you can start the Linux installation of your server.
+                                                  Depending on which education aware distribution of Linux you have chosen (we profiled four in the
+                                                  Introduction Module) you may need to refer to their particular installation procedure documentation.
+                                                  What we present here is a basic installation sequence that can be used as an example or comparison
+                                                  with the installation of the Linux distribution of your choice.</para>
+                                        <para>To start the installation of you Linux distribution insert the disc into your CD-drive and restart the
+                                                  computer. You will be presented with a welcome screen. If you do require more help on starting up
+                                                  there is usually an on screen command that will bring you more options (e.g. pressing F2). We
+                                                  recommend that you simply press the <action>ENTER</action> key to begin the installation process.</para>                                      
+                                        <para>Next, choose your Language. (Remember that this is a sample installation and your particular
+                                                  distribution of Linux may look very different)</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/soft_edu_install_03.png"/>
+                                                  </imageobject>
+                                                  <caption>Language Chooser</caption>
+                                        </mediaobject>
+                                        <para>Select your location:</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/soft_edu_install_04.png"/>
+                                                  </imageobject>
+                                                  <caption>Country Chooser</caption>
+                                        </mediaobject>
+                                        <para>Select your keyboard layout. Note that your keyboard layout might be different that the language you
+                                                  speak. For instance, you might be using a US English Keyboard layout, while you speak UK or
+                                                  International English.</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/soft_edu_install_05.png"/>
+                                                  </imageobject>
+                                                  <caption>Keyboard Layout Chooser</caption>
+                                        </mediaobject>
+                                        <para>The Linux distribution installer will usually also detect the installation media and network hardware.</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/soft_edu_install_06.png"/>
+                                                  </imageobject>
+                                                  <caption>Setup is Detecting Hardware</caption>
+                                        </mediaobject>
+                                        <para>Now you need to enter a network address for your server. This is called an I.P. (Internet Protocol)
+                                                  Address. If you're unsure what to enter here, put in “192.168.0.254”, such as the example below.</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/soft_edu_install_07.png"/>
+                                                  </imageobject>
+                                                  <caption>IP Address Dialogue</caption>
+                                        </mediaobject>
+                                        <para>The next step is to configure the netmask. In most cases, this will be “255.255.255.0”.</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/soft_edu_install_08.png"/>
+                                                  </imageobject>
+                                                  <caption>Netmask Dialogue</caption>
+                                        </mediaobject>
+                                        <para>Enter the nameserver address. If you're unsure about the name server address, you may use the same value
+                                                  you have used for the I.P. address.</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/soft_edu_install_09.png"/>
+                                                  </imageobject>
+                                                  <caption>Name Server Dialogue</caption>
+                                        </mediaobject>
+                                        <para>The Installer will detect your disks and other storage devices.</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/soft_edu_install_10.png"/>
+                                                  </imageobject>
+                                                  <caption>Detecting Disk Controllers</caption>
+                                        </mediaobject>
+                                        <para>You will now be presented with a partitioning dialog. This allows you to split up your hard disk for the
+                                                  various types of data that will be stored on your system. It's recommended that you use the entire
+                                                  disk for the installation. If you have another operating system that you wish to keep, choose
+                                                  another option, such as resize current partition or a manual partition layout.</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/soft_edu_install_11.png"/>
+                                                  </imageobject>
+                                                  <caption>Partitioning Tool</caption>
+                                        </mediaobject>
+                                        <para>The partitioner will give you a suggestion on how to partition the disk. Choose &lt;Yes&gt; to
+                                                  commit to the changes to the disk.</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/soft_edu_install_12.png"/>
+                                                  </imageobject>
+                                                  <caption>Confirm Partitioning</caption>
+                                        </mediaobject>
+                                        <para>The disk will then be formatted.</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/soft_edu_install_13.png"/>
+                                                  </imageobject>
+                                                  <caption>Disk formatting status</caption>
+                                        </mediaobject>
+                                        <para>The installer will now install the Linux base system, the bare essentials that your system needs to
+                                                  start up and complete the installation.</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/soft_edu_install_14.png"/>
+                                                  </imageobject>
+                                                  <caption>Installing base system status</caption>
+                                        </mediaobject>
+                                        <para>The installer will attempt to guess the time zone, based on your country selection. If it's correct,
+                                                  choose &lt;yes&gt;. If you are located in another time zone, choose &lt;No&gt;</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/soft_edu_install_15.png"/>
+                                                  </imageobject>
+                                                  <caption>Confirm time zone</caption>
+                                        </mediaobject>
+                                        <para>The Install procedure will now copy the remaining program files to the hard drive.</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/soft_edu_install_16.png"/>
+                                                  </imageobject>
+                                                  <caption>Copying remaining packages status</caption>
+                                        </mediaobject>
+                                        <para>When the “Finish the installation” dialogue appears, choose continue to reboot.</para>
+                                        <mediaobject>
+                                                  <imageobject>
+                                                            <imagedata fileref="../images/soft_edu_install_17.png"/>
+                                                  </imageobject>
+                                                  <caption>“Finish the installation” dialogue</caption>
+                                        </mediaobject>
+                                        <para>Remove the media you have used to boot the Linux installer. When the system restarts, the setup will be
+                                                  completed, and you will be able to log in as the administrator user you have created during
+                                        setup.</para>
+                              </section>
+                    </section>          
+</chapter>

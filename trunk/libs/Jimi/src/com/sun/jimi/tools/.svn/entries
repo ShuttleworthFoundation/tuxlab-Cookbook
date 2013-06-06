@@ -1,0 +1,43 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/Jimi/src/com/sun/jimi/tools
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-01-17T10:19:28.770871Z
+116
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+imageviewer
+dir
+
+Debug.java
+file
+
+
+
+
+2007-06-04T08:55:30.000000Z
+a64b91e6479998e9be6270729d1df9fe
+2007-01-17T10:19:28.770871Z
+116
+techdocs
+

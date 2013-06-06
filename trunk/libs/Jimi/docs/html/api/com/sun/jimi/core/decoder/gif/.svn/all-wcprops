@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/decoder/gif
+END
+GIFColorTable.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/decoder/gif/GIFColorTable.html
+END
+GIFFileHeader.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/decoder/gif/GIFFileHeader.html
+END
+GIFDecoderFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/decoder/gif/GIFDecoderFactory.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/decoder/gif/package-frame.html
+END
+GIFGraphicExt.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/decoder/gif/GIFGraphicExt.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/decoder/gif/package-summary.html
+END
+GIFImageDescriptor.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/decoder/gif/GIFImageDescriptor.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/decoder/gif/package-tree.html
+END
+GIFDecoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/techdocs/tuxlab/!svn/ver/116/trunk/libs/Jimi/docs/html/api/com/sun/jimi/core/decoder/gif/GIFDecoder.html
+END

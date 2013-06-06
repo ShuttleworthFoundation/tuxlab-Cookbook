@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/website
+END
+olink.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/website/olink.xsl
+END
+toc-tabular.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/website/toc-tabular.xsl
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/website/ChangeLog
+END
+makefile-dep.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/website/makefile-dep.xsl
+END
+toc.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/website/toc.xsl
+END
+website-common.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/website/website-common.xsl
+END
+xbel.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/website/xbel.xsl
+END
+param.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/website/param.xml
+END
+tabular.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/website/tabular.xsl
+END
+chunk-common.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/website/chunk-common.xsl
+END
+param.xweb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/website/param.xweb
+END
+chunk-tabular.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/website/chunk-tabular.xsl
+END
+param.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/website/param.xsl
+END
+head.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/website/head.xsl
+END
+website.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/website/website.xsl
+END
+autolayout.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/website/autolayout.xsl
+END
+rss.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/website/rss.xsl
+END
+chunk-website.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/website/chunk-website.xsl
+END
+website-targets.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/website/website-targets.xsl
+END

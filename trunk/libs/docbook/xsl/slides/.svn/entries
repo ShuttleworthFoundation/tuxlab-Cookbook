@@ -1,0 +1,100 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/docbook/xsl/slides
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-01-17T08:51:17.692369Z
+106
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+svg
+dir
+
+param.xml
+file
+
+
+
+
+2007-06-04T08:50:25.000000Z
+6f46a4e7ba2effc5d35185796acbdb74
+2007-01-17T08:51:17.692369Z
+106
+techdocs
+
+graphics
+dir
+
+browser
+dir
+
+fo
+dir
+
+html
+dir
+
+param.xweb
+file
+
+
+
+
+2007-06-04T08:50:25.000000Z
+6677d6b3d1be88dd5f007000ad2a911f
+2007-01-17T08:51:17.692369Z
+106
+techdocs
+
+param.xsl
+file
+
+
+
+
+2007-06-04T08:50:25.000000Z
+54a1c9b1450075406f5d72dec9a0ec9b
+2007-01-17T08:51:17.692369Z
+106
+techdocs
+
+ChangeLog
+file
+
+
+
+
+2007-06-04T08:50:25.000000Z
+393ae79a8b518323839366a3ed35fd99
+2007-01-17T08:51:17.692369Z
+106
+techdocs
+
+xhtml
+dir
+
+htmlhelp
+dir
+
+keynote
+dir
+

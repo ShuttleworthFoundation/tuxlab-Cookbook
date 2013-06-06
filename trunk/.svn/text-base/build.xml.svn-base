@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<project name="Tuxlab" default="all" basedir=".">        
+          
+          <property name="docbook.dir" value="libs/" />
+          
+          <!-- This is the setting for calling saxon -->
+          <path id="project.class.path.saxon">
+                    <pathelement location="libs/docbook/xsl/extensions/saxon653.jar.ext"/>
+                    <pathelement location="libs/saxon/saxon.jar"/>
+                    <pathelement location="libs/saxon/saxon_jdom.jar"/>
+                    <pathelement location="libs/docbook/xsl/extensions/resolver.jar"/>
+                    <pathelement location="libs"/>
+          </path>
+          
+          <!-- This is the setting for calling fop -->
+          <path id="project.class.path.fop">
+                    <pathelement location="libs/fop/build/fop.jar"/>
+                    <pathelement location="libs/fop/lib/xml-apis.jar"/>
+                    <pathelement location="libs/fop/lib/xercesImpl-2.2.1.jar"/>
+                    <pathelement location="libs/fop/lib/xalan-2.4.1.jar"/>
+                    <pathelement location="libs/fop/lib/batik.jar"/>
+                    <pathelement location="libs/fop/lib/avalon-framework-cvs-20020806.jar"/>
+                    <pathelement location="libs/Jimi/JimiProClasses.jar"/>
+          </path>
+          
+          <!-- This is the setting for calling jai -->
+          <path id="project.class.path.jai">
+                    <pathelement location="libs/jai/lib/jai_core.jar"/>
+                    <pathelement location="libs/lib/jai_codec.jar"/>
+          </path>
+
+          <!-- Document Targets -->
+          <target name="tuxlab">
+                    <property name="base.file" value="tuxlabv2"/>
+                    <property name="input.file" value="${base.file}.xml"/>
+                    <property name="output.file" value="temp.xml"/>
+                    <property name="output.html" value="${base.file}.html"/>
+                    <property name="output.fo" value="temp.fo"/>
+                    <property name="output.pdf" value="${base.file}.pdf"/>
+                    <!-- <antcall target="html"/> -->
+                    <antcall target="pdf"/>
+                    <antcall target="clean"/>
+          </target>
+
+          <!-- Generic HTML and PDF Transforms -->
+          <!--Create html output-->
+          <target name="html" description="Creates manual.html">
+                    <echo>Creating manual.html</echo>
+                    <exec executable="xmllint" dir=".">
+                              <arg line="--xinclude"/>
+                              <arg line="--noent"/>
+                              <arg line="--nonet"/>
+                              <arg value="${input.file}"/>
+                              <arg line="--output"/>
+                              <arg value="${output.file}"/>
+                    </exec>
+                    
+                    <java classname="com.icl.saxon.StyleSheet" classpathref="project.class.path.saxon" output="saxon.log">
+                              <arg line="-o ${output.html}"/>
+                              <arg line="${output.file}"/>
+                              <arg line="${docbook.dir}/html-cust.xsl" />
+                    </java>
+          </target>
+          
+          <!--Create pdf output-->
+          <target name="pdf" description="Creates">
+                    <echo>Creating ${base.file}.pdf</echo>
+                    
+                    <exec executable="xmllint" dir=".">
+                              <arg line="--xinclude"/>
+                              <arg line="--noent"/>
+                              <arg line="--nonet"/>
+                              <arg value="${input.file}"/>
+                              <arg line="--output"/>
+                              <arg value="${output.file}"/>
+                    </exec>
+                    
+                    <java classname="com.icl.saxon.StyleSheet" classpathref="project.class.path.saxon"
+                              output="saxon.log">                              
+                              <arg line="-o ${output.fo}"/>
+                              <arg line="${output.file}"/>
+                              <arg line="${docbook.dir}/fo-cust.xsl" />
+                    </java>
+                    
+                    <java classname="org.apache.fop.apps.Fop" classpathref="project.class.path.fop" output="fop.log" fork="true">
+                              <jvmarg value="-Xmx256M"/>
+                              <arg line="-fo ${output.fo}"/>
+                              <arg line="-pdf ${output.pdf}"/>
+                    </java>
+                    
+          </target>
+          
+
+          <!-- Cleanup temp files -->
+          <target name="clean">
+                    <delete file="temp.xml"/>
+                    <delete file="temp.fo"/>
+          </target>
+          <!--Create the full cookbook document and the individual module documents-->
+          <target name="all" description="Creates all documents">
+                    <echo>Creating all documents</echo>
+                    <antcall target="tuxlab"/>
+          </target>
+
+</project>

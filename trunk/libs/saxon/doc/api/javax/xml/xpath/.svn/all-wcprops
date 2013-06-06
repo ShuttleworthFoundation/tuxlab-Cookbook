@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/xpath
+END
+XPathFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/xpath/XPathFactory.html
+END
+XPathFunctionResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/xpath/XPathFunctionResolver.html
+END
+XPathVariableResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/xpath/XPathVariableResolver.html
+END
+XPathConstants.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/xpath/XPathConstants.html
+END
+XPathException.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/xpath/XPathException.html
+END
+XPathExpressionException.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/xpath/XPathExpressionException.html
+END
+XPathFactoryConfigurationException.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/xpath/XPathFactoryConfigurationException.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/xpath/package-frame.html
+END
+XPath.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/xpath/XPath.html
+END
+XPathExpression.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/xpath/XPathExpression.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/xpath/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/xpath/package-tree.html
+END
+XPathFunctionException.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/xpath/XPathFunctionException.html
+END
+XPathFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/xpath/XPathFunction.html
+END

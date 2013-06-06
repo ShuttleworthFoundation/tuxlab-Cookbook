@@ -1,0 +1,54 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/Jimi/src/classes/com/sun/jimi/core/decoder/xpm
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-01-17T10:19:28.770871Z
+116
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+XPMDecoderFactory.class
+file
+
+
+
+
+2007-06-04T08:55:24.000000Z
+d517cde3c6015413ece4d9c461d45d6d
+2007-01-17T10:19:28.770871Z
+116
+techdocs
+has-props
+
+XPMDecoder.class
+file
+
+
+
+
+2007-06-04T08:55:24.000000Z
+629199b7e91da50968255e141f309a57
+2007-01-17T10:19:28.770871Z
+116
+techdocs
+has-props
+

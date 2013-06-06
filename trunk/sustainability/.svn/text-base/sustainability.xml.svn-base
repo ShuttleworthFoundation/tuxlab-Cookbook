@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+                      "http://www.docbook.org/xml/4.4/docbookx.dtd"
+[ 
+<!ENTITY % globalents SYSTEM "../common/global.ent">
+ %globalents; 
+ <!ENTITY % xinclude SYSTEM "../libs/xinclude.mod">
+%xinclude;
+ ]>
+<chapter>
+          
+                    <title>Sustainability Module</title>
+                    
+                    <abstract>&abstract-sustainability;</abstract>
+          
+          <section>
+                    <title>Sustainability</title>
+                    <section>
+                              <title>What Do We Mean by SUSTAINABILITY</title>
+                              <para>In January 2005, the United Nations declared a Decade of Education for Sustainable Development . This coincides
+                                        with the goals of the &productname; project and the goals of this cookbook. A good definition of
+                                        development sustainability is<quote>the continuation of benefits after major assistance from the donor has
+                                                  been completed</quote> (Australian Agency for International Development 2000). Ensuring that
+                                        development projects are sustainable can reduce the likelihood of their collapse after the initial pilot
+                                        projects. It also reduces the financial cost of development projects and the subsequent social problems, such
+                                        as dependence of the stakeholders on external donors and their resources. All development assistance, apart
+                                        from temporary emergency and humanitarian relief efforts, should be designed and implemented with the aim of
+                                        achieving sustainable benefits. There are ten key factors that influence development sustainability:</para>
+                              <itemizedlist>
+                                        <listitem>
+                                                  <para>Participation and ownership. Get the stakeholders (men, women and children) to genuinely
+                                                            participate in design and implementation. Build on their initiatives and demands. Get them
+                                                            to monitor the project and periodically evaluate it for results.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Capacity building and training. Training stakeholders to take over should begin from the start
+                                                            of any project and continue throughout. The right approach should both motivate and
+                                                            transfer skills to people.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Government policies. Development projects should be aligned with local government
+                                                  policies.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Financial. In some countries and sectors, financial sustainability is difficult in the medium
+                                                            term. Training in local fundraising is a possibility, as is identifying links with the
+                                                            private sector, charging for use, and encouraging policy reforms.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Management and organisation. Activities that integrate with or add to local structures may
+                                                            have better prospects for sustainability than those which establish new or parallel
+                                                            structures.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Social, gender and culture. The introduction of new ideas, technologies and skills requires an
+                                                            understanding of local decision-making systems, gender divisions and cultural
+                                                  preferences.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Technology. All outside equipment must be selected with careful consideration given to the
+                                                            local finance available for maintenance and replacement. Cultural acceptability and the
+                                                            local capacity to maintain equipment and buy spare parts are vital.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Environment. Poor rural communities that depend on natural resources should be involved in
+                                                            identifying and managing environmental risks. Urban communities should identify and manage
+                                                            waste disposal and pollution risks.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>External political and economic factors. In a weak economy, projects should not be too
+                                                            complicated, ambitious or expensive.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Realistic duration. A short project may be inadequate for solving entrenched problems in a
+                                                            sustainable way, particularly when behavioural and institutional changes are intended. A
+                                                            long project, may on the other hand, promote dependence.</para>
+                                        </listitem>
+                              </itemizedlist>
+                    </section>
+                    <section>
+                              <title>Specific Applications</title>
+                              <para>The key areas within the &productname; that need to be thought about and addressed in regard to sustainability
+                                        include:</para>
+                              <itemizedlist>
+                                        <listitem>
+                                                  <para>Budgeting scenarios</para>
+                                                  <itemizedlist>
+                                                            <listitem>
+                                                                      <para>School maintains lab, or</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>3rd Party maintains lab </para>
+                                                            </listitem>
+                                                  </itemizedlist>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Maintenance and support</para>
+                                                  <itemizedlist>
+                                                            <listitem>
+                                                                      <para>Hardware</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>Infrastructure</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>Software</para>
+                                                            </listitem>
+                                                  </itemizedlist>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Skills development</para>
+                                                  <itemizedlist>
+                                                            <listitem>
+                                                                      <para>Training</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>Capacity building</para>
+                                                            </listitem>
+                                                  </itemizedlist>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Management</para>
+                                                  <itemizedlist>
+                                                            <listitem>
+                                                                      <para>Champions</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>Principals</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>Planning</para>
+                                                            </listitem>
+                                                  </itemizedlist>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Stakeholders</para>
+                                                  <itemizedlist>
+                                                            <listitem>
+                                                                      <para>Department of Education</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>Community</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>School staff</para>
+                                                            </listitem>
+                                                  </itemizedlist>
+                                        </listitem>
+                              </itemizedlist>
+                              <section>
+                                        <title>Management</title>
+                                        <para>For further information on &quot;Partnerships&quot; please read the Management Module
+                                                  <!--<xref linkend="mng_partnerships"/>-->.</para>
+                              </section>
+                              <section>
+                                        <title>Training</title>
+                                        <para>For further information on &quot;Volunteer Training&quot; please read the Training Module
+                                                  <!--<xref linkend="trn_courses"/>-->.</para>
+                              </section>
+                              <section>
+                                        <title>Support</title>
+                                        <para>For further information on &quot;Schools Linux Users Group&quot; please read the Support Module
+                                                  <!--<xref linkend="sup_slug"/>-->.</para>
+                              </section>
+                    </section>
+          </section>
+          <section>
+                    <title>Articles, Reports and Case studies</title>
+                    <section>
+                              <title>Gauteng</title>
+                              <para>This information was first published in Tectonic, May 15 2006 by Jason Norwood-Young.</para>
+                              <para>St Martin's High School in Orlando West, Soweto, has a 30-PC &productname; computer lab. Running Edubuntu – an
+                                        education-specific port of Ubuntu – the lab sports brand new equipment from Acer. Unlike some other computer
+                                        laboratories, that face a loosing battle against support needs and unskilled teachers, St Martin's laboratory
+                                        will be run by Sowetan entrepreneur Clifford Nkosi.</para>
+                              <para>"What the pilot will try to address within schools is the constant problem of sustainability and promoting use of
+                                        labs, maintenance, and general issues around computer problems. Schools themselves don't have the time or
+                                        resources to take advantage of the fact that there's a community around them that also requires these
+                                        services, so they can't use the computers and internet access to generate funds. By using an entrepreneurial
+                                        partner, one can address issue of sustainability and funds, that can be used as funds for school, to maintain
+                                        the lab, and pay someone's salary," says Hilton Theunissen, open source project lead, The Shuttleworth
+                                        Foundation.</para>
+                              <para>To stimulate interest amongst students, Nkosi has started a &quot;geek club&quot; amongst learners. The
+                                        geek club will be exposed to open source in the workplace, with trips to open source companies, and will also
+                                        be able to get computer certifications like the OpenICDL and LPI certifications.</para>
+                              <para>As a marketing drive to the general community, Nkosi has offered 20 unemployed members of the community an
+                                        introductory course to computers for free. Lab training and services will also be available to the general
+                                        community from 2:00pm to 5:00pm for a fee.</para>
+                              <para>Nkosi says that his main concern at this point is cash flow, and he is currently looking for funding, particularly
+                                        to pay an assistant for both training and support. The ex-Acer employee says that he's always had a nack for
+                                        entrepreneurship, having started his first small business selling clothing in high school.</para>
+                              <para>"His main aim is to make money in a socially conscience way," says Theunissen. "He's pushing the boundaries on
+                                        this one."</para>
+                              <para>If the project is successful, Theunissen hopes that the model can be adopted both nationally and internationally.
+                                        Acer is particularly interested in the results, he says, and could consider this as a model for other
+                                        sustainable development projects.</para>
+                    </section>
+          </section>
+</chapter>

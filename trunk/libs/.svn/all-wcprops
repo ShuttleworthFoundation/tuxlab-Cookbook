@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/techdocs/tuxlab/!svn/ver/122/trunk/libs
+END
+PageNumberPrefixes.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/techdocs/tuxlab/!svn/ver/104/trunk/libs/PageNumberPrefixes.xsl
+END
+fo-cust.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/techdocs/tuxlab/!svn/ver/104/trunk/libs/fo-cust.xsl
+END
+html-cust.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/techdocs/tuxlab/!svn/ver/104/trunk/libs/html-cust.xsl
+END
+common-cust.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/techdocs/tuxlab/!svn/ver/104/trunk/libs/common-cust.xsl
+END
+fo.titlepages.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/techdocs/tuxlab/!svn/ver/121/trunk/libs/fo.titlepages.xsl
+END
+xinclude.mod
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/techdocs/tuxlab/!svn/ver/104/trunk/libs/xinclude.mod
+END
+corpstyle.css
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/techdocs/tuxlab/!svn/ver/104/trunk/libs/corpstyle.css
+END
+fo.titlepage.templates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/techdocs/tuxlab/!svn/ver/121/trunk/libs/fo.titlepage.templates.xml
+END
+html.titlepage.templates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/techdocs/tuxlab/!svn/ver/104/trunk/libs/html.titlepage.templates.xml
+END

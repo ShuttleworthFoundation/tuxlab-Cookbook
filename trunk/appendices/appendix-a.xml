@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE appendix PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+                      "http://www.docbook.org/xml/4.4/docbookx.dtd"
+[ 
+<!ENTITY % globalents SYSTEM "../common/global.ent">
+ %globalents; 
+ <!ENTITY % xinclude SYSTEM "../libs/xinclude.mod">
+%xinclude;
+ ]>
+<appendix id="apdx_sample_business_plan">
+	<title>Sample Business Plan</title>
+	<para>This appendix outlines an example of a business submitted by Maitland High School in January 2005.</para>
+	<section>
+		<title>Executive Summary</title>
+		<para>
+			<emphasis role="bold">Description</emphasis>
+		</para>
+		<para>Description of the school.</para>
+		<itemizedlist>
+			<listitem>
+				<para>Type of school: public, secondary etc.</para>
+			</listitem>
+			<listitem>
+				<para>Learner demographics: income group</para>
+			</listitem>
+			<listitem>
+				<para>Area: Western Cape</para>
+			</listitem>
+			<listitem>
+				<para>Size: No of learners</para>
+			</listitem>
+			<listitem>
+				<para>School structure</para>
+			</listitem>
+		</itemizedlist>
+		<para>
+			<emphasis role="bold">Mission</emphasis>
+		</para>
+		<para>The schools mission statement and vision</para>
+		<para>
+			<emphasis role="bold">Services</emphasis>
+		</para>
+		<para>The learning areas the school caters for:</para>
+		<itemizedlist>
+			<listitem>
+				<para>Additional educational areas they cater for: computer sciences, etc.</para>
+			</listitem>
+			<listitem>
+				<para>Any vocational skills training offered</para>
+			</listitem>
+			<listitem>
+				<para>Plans for entrepreneurial or computer skills training</para>
+			</listitem>
+			<listitem>
+				<para>The identified stakeholders for supplied services</para>
+			</listitem>
+		</itemizedlist>
+		<para>
+			<emphasis role="bold">Financial Forecast</emphasis>
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>Commitment from school governing body to the programme.</para>
+			</listitem>
+			<listitem>
+				<para>The preparations that the schools is making for the tuXlab programme</para>
+				<itemizedlist>
+					<listitem>
+						<para>staffing requirements</para>
+					</listitem>
+					<listitem>
+						<para>infrastructure requirements</para>
+					</listitem>
+					<listitem>
+						<para>any partnerships that might help</para>
+					</listitem>
+				</itemizedlist>
+			</listitem>
+		</itemizedlist>
+		<para>
+			<emphasis role="bold">Financial Requirements</emphasis>
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>Projected expenditure required by the school</para>
+			</listitem>
+			<listitem>
+				<para>Any projected budgets for connectivity</para>
+			</listitem>
+			<listitem>
+				<para>Any potential co-funders that have been identified</para>
+			</listitem>
+		</itemizedlist>
+		<para>
+			<emphasis role="bold">Business Structure</emphasis>
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>Nature of the school as an entity: section 21, etc.</para>
+			</listitem>
+			<listitem>
+				<para>Current subsidies</para>
+			</listitem>
+			<listitem>
+				<para>Supervision of the programme and accountability</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+	<section id="apdx_market_research">
+		<title>Market Research</title>
+		<para>
+			<emphasis role="bold">Economic and Social factors</emphasis>
+		</para>
+		<para>Factors influencing the functioning of the tuXlab as an entity</para>
+		<itemizedlist>
+			<listitem>
+				<para>Awareness of social responsibility</para>
+			</listitem>
+			<listitem>
+				<para>Industry growth in the IT sector</para>
+			</listitem>
+			<listitem>
+				<para>Focus on Outcomes Based Education</para>
+			</listitem>
+		</itemizedlist>
+		<para>
+			<emphasis role="bold">Target</emphasis>
+		</para>
+		<para>The target market for the tuXlab</para>
+		<itemizedlist>
+			<listitem>
+				<para>learners</para>
+			</listitem>
+			<listitem>
+				<para>educators</para>
+			</listitem>
+			<listitem>
+				<para>ex-pupils</para>
+			</listitem>
+			<listitem>
+				<para>parents</para>
+			</listitem>
+			<listitem>
+				<para>immediate community</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+	<section id="apdx_business_strategy">
+		<title>Business Strategy</title>
+		<para>
+			<emphasis role="bold">Volunteer Incentives</emphasis>
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>The value of a volunteer programme</para>
+			</listitem>
+			<listitem>
+				<para>structure of a volunteer programme</para>
+			</listitem>
+			<listitem>
+				<para>identified needs for a volunteer programme</para>
+			</listitem>
+			<listitem>
+				<para>communication plan</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+	<section id="apdx_operations">
+		<title>Operations</title>
+		<para>
+			<emphasis role="bold">Hours of Operation</emphasis>
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>Installation date (date of readiness)</para>
+			</listitem>
+			<listitem>
+				<para>activities for weekends</para>
+			</listitem>
+			<listitem>
+				<para>activities for after-school hours</para>
+			</listitem>
+			<listitem>
+				<para>in-school hours and integration into the timetable</para>
+			</listitem>
+			<listitem>
+				<para>workshops and other activities</para>
+			</listitem>
+		</itemizedlist>
+		<para>
+			<emphasis role="bold">Staffing</emphasis>
+		</para>
+		<para>Stakeholders included in implementing the operations and activities</para>
+		<para>
+			<emphasis role="bold">Funding Options</emphasis>
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>Costs for sustaining the tuXlab</para>
+			</listitem>
+			<listitem>
+				<para>Costs for improving the tuXlab</para>
+			</listitem>
+			<listitem>
+				<para>Connectivity costs</para>
+			</listitem>
+			<listitem>
+				<para>Possible income generation scenarios</para>
+			</listitem>
+		</itemizedlist>
+		<para>
+			<emphasis role="bold">Long-Term Goals</emphasis>
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>Break-even forecast</para>
+			</listitem>
+			<listitem>
+				<para>Projected financial growth</para>
+			</listitem>
+		</itemizedlist>
+		<para>
+			<emphasis role="bold">Steps for Achieving Goals</emphasis>
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>Establish volunteer programme</para>
+			</listitem>
+			<listitem>
+				<para>recruitment of staff</para>
+			</listitem>
+			<listitem>
+				<para>delivery and provision of education</para>
+			</listitem>
+			<listitem>
+				<para>creation of library/tools for operation</para>
+			</listitem>
+			<listitem>
+				<para>any offerings for income generation</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+</appendix>

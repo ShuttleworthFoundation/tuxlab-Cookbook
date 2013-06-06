@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/keynote/xsltsl
+END
+example.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/keynote/xsltsl/example.xsl
+END
+cmp.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/keynote/xsltsl/cmp.xsl
+END
+markup.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/keynote/xsltsl/markup.xsl
+END
+svg.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/keynote/xsltsl/svg.xsl
+END
+uri.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/keynote/xsltsl/uri.xsl
+END
+stdlib.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/keynote/xsltsl/stdlib.xsl
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/keynote/xsltsl/ChangeLog
+END
+node.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/keynote/xsltsl/node.xsl
+END
+string.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/keynote/xsltsl/string.xsl
+END
+date-time.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/keynote/xsltsl/date-time.xsl
+END
+math.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/slides/keynote/xsltsl/math.xsl
+END

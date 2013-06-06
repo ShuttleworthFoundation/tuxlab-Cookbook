@@ -1,0 +1,67 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/saxon/samples/trax/xml
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+foo.xml
+file
+
+
+
+
+2007-06-04T08:58:28.000000Z
+2581cbb55d08fed390b311326aa963f2
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+embedded.xml
+file
+
+
+
+
+2007-06-04T08:58:28.000000Z
+99598d6c2361a2779a242894b1ba7ca3
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+
+subdir1
+dir
+
+baz.xml
+file
+
+
+
+
+2007-06-04T08:58:28.000000Z
+6d1aa1aa376d5c8351cf68b3698c14e9
+2007-01-17T10:30:25.465611Z
+117
+techdocs
+

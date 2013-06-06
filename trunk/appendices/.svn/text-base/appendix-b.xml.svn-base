@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE appendix PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+                      "http://www.docbook.org/xml/4.4/docbookx.dtd"
+[ 
+<!ENTITY % globalents SYSTEM "../common/global.ent">
+ %globalents; 
+ <!ENTITY % xinclude SYSTEM "../libs/xinclude.mod">
+%xinclude;
+ ]>
+<appendix id="apdx_sample_quarterly_report">
+	<title>Sample Quarterly Report</title>
+	<para>This appendix outlines an example of a quarterly report supplied by Alicedale Primary School in December 2005.</para>
+	<section>
+		<title>tuXlab Report</title>
+		<para>
+			<emphasis role="bold">Meetings</emphasis>
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>Number of meetings attended: cluster meetings, monthly meetings</para>
+			</listitem>
+			<listitem>
+				<para>Any contingencies experienced in this quarter that prevented their attendance</para>
+			</listitem>
+			<listitem>
+				<para>Any meetings hosted</para>
+			</listitem>
+			<listitem>
+				<para>Details or executive summary of the meetings</para>
+			</listitem>
+		</itemizedlist>
+		<para>
+			<emphasis role="bold">Open Days</emphasis>
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>Dates of open days held at the school</para>
+			</listitem>
+			<listitem>
+				<para>Support of the event</para>
+			</listitem>
+			<listitem>
+				<para>Activities</para>
+			</listitem>
+		</itemizedlist>
+		<para>
+			<emphasis role="bold">Computer Literacy Classes</emphasis>
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>Received training events for educators</para>
+			</listitem>
+			<listitem>
+				<para>Feedback on the training</para>
+			</listitem>
+			<listitem>
+				<para>Identified needs for further training</para>
+			</listitem>
+			<listitem>
+				<para>Literacy classes aimed at learners by educators</para>
+			</listitem>
+			<listitem>
+				<para>Feedback on service providers or content providers</para>
+			</listitem>
+			<listitem>
+				<para>Training events organised by 3rd parties: Computers 4 Kids, ICDL, etc.</para>
+			</listitem>
+			<listitem>
+				<para>Adult literacy classes</para>
+			</listitem>
+		</itemizedlist>
+		<para>
+			<emphasis role="bold">Internet Cafe</emphasis>
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>Operating hours</para>
+			</listitem>
+			<listitem>
+				<para>details of events</para>
+			</listitem>
+			<listitem>
+				<para>support of the initiative</para>
+			</listitem>
+			<listitem>
+				<para>use of connectivity in-school</para>
+			</listitem>
+			<listitem>
+				<para>technical issues</para>
+			</listitem>
+			<listitem>
+				<para>additional training around internet usage</para>
+			</listitem>
+		</itemizedlist>
+		<para>
+			<emphasis role="bold">Help-Desk</emphasis>
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>Report back on usage of the tuXlabs support system</para>
+			</listitem>
+			<listitem>
+				<para>Technical issues</para>
+			</listitem>
+			<listitem>
+				<para>Identified needs</para>
+			</listitem>
+		</itemizedlist>
+		<para>
+			<emphasis role="bold">Incentives</emphasis>
+		</para>
+		<itemizedlist>
+			<listitem>
+				<para>Overview of incentive points</para>
+			</listitem>
+			<listitem>
+				<para>Plans for awards</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Additional Material</title>
+		<itemizedlist>
+			<listitem>
+				<para>Minutes of all meetings and all related communications are included in the report.</para>
+			</listitem>
+			<listitem>
+				<para>Agendas and programme outlines for open days</para>
+			</listitem>
+			<listitem>
+				<para>Attendance registers for events</para>
+			</listitem>
+			<listitem>
+				<para>All relevant information around the marketing and use of the internet cafe</para>
+			</listitem>
+			<listitem>
+				<para>Programmes and events around the use of the internet</para>
+			</listitem>
+			<listitem>
+				<para>Usage reports for the internet cafe</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+</appendix>

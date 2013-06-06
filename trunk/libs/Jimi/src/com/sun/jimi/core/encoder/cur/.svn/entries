@@ -1,0 +1,52 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/Jimi/src/com/sun/jimi/core/encoder/cur
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-01-17T10:19:28.770871Z
+116
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+CUREncoderFactory.java
+file
+
+
+
+
+2007-06-04T08:55:40.000000Z
+2751a1b620b7de8020785cdf474e63fa
+2007-01-17T10:19:28.770871Z
+116
+techdocs
+
+CUREncoder.java
+file
+
+
+
+
+2007-06-04T08:55:40.000000Z
+a9bb9cfdcf2c8f893f6b5a2cc2f290c8
+2007-01-17T10:19:28.770871Z
+116
+techdocs
+

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/datatype
+END
+DatatypeConfigurationException.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/datatype/DatatypeConfigurationException.html
+END
+DatatypeFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/datatype/DatatypeFactory.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/datatype/package-frame.html
+END
+Duration.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/datatype/Duration.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/datatype/package-summary.html
+END
+DatatypeConstants.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/datatype/DatatypeConstants.html
+END
+XMLGregorianCalendar.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/datatype/XMLGregorianCalendar.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/datatype/package-tree.html
+END
+DatatypeConstants.Field.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/doc/api/javax/xml/datatype/DatatypeConstants.Field.html
+END

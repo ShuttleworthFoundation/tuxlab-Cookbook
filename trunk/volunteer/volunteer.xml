@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+                      "http://www.docbook.org/xml/4.4/docbookx.dtd"
+[ 
+<!ENTITY % globalents SYSTEM "../common/global.ent">
+ %globalents; 
+ <!ENTITY % xinclude SYSTEM "../libs/xinclude.mod">
+%xinclude;
+ ]>
+<chapter>
+
+                    <title>Volunteer Module</title>
+                    
+                    <abstract>&abstract-volunteer;</abstract>
+          
+          <section id="vol_support_strategy">
+                    <title>Volunteer Support Strategy</title>
+                    <section id="vol_overview">
+                              <title>Overview</title>
+                              <para>Our strategy is to leverage and support the intense volunteer spirit that surrounds open source software (OSS) at
+                                        present. We aim to stimulate and nurture the creation of a well managed and well coordinated team of OSS
+                                        volunteers by providing minimalist but highly specific support, infrastructure, resources and encouragement.
+                                        Our funding will be minimal but targeted at energising the group, helping it to coordinate itself, meet
+                                        regularly, develop it’s skills, identify interventions, attract new members and spread to other areas.</para>
+                              <para>We will create a training program consisting of a series of modules like cabling, network installation, system
+                                        administration, computer literacy and business use of computers, as the primary means of attracting
+                                        volunteers.</para>
+                              <para>This document brings the skills development aspect of our mandate into focus and defines the role that we will
+                                        play in increasing open source skills and volunteerism. It also focuses on how we plan to apply the open
+                                        source software development model, that relies on volunteers, to our &productname; community
+                              project.</para>
+                    </section>
+                    <section id="vol_concept">
+                              <title>Concept</title>
+                              <para>The Shuttleworth Foundation (the Foundation) is committed to the improvement of education, with a specific focus
+                                        on mathematics, science and technology, as well as the promotion of open source software in South Africa. As a
+                                        propagator of `social innovation', the main objective of the Shuttleworth Foundation is to invest in projects
+                                        that provide innovative solutions to educational challenges in order to unlock the creative and intellectual
+                                        potential of the South African youth, allowing them to live the dream that 'anything is possible'.</para>
+                              <para>To further the uptake of technology in South Africa, the Shuttleworth Foundation supports the use of open source
+                                        software. The term `open source' refers to computer software that has been built by a global community of
+                                        volunteers who make the source code freely available, as opposed to the more widely known style of proprietary
+                                        development by a single company. This software is usually available on-line at no cost to the user. The
+                                        Shuttleworth Foundation strongly believes that open source software should be the preferred choice of software
+                                        for schooling in South Africa.</para>
+                              <para>Open source software provides users with freedoms not obtainable from proprietary software, this includes the
+                                        freedom to obtain, use, modify and distribute the software. The Shuttleworth Foundation believes that the use
+                                        of open source software will provide effective and economical access to information and communication
+                                        technology. The Foundation thus aims to initiate, facilitate, support and fund initiatives that will:</para>
+                              <itemizedlist>
+                                        <listitem>
+                                                  <para>Increase open source awareness</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Increase open source adoption and usage</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Increase open source skills</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para> Increase access to open source software</para>
+                                        </listitem>
+                              </itemizedlist>
+                              <para>One of the major challenges that the Foundation faces is creating awareness of the functionality, flexibility and
+                                        accessibility of open source. Up to now it would appear that an awareness of open source has been limited to
+                                        sophisticated technology users. The Foundation aims to bring open source to learners from all levels of
+                                        society – not only to make them aware of its existence, but also how this revolutionary, boundless technology
+                                        can be used in software development and training.</para>
+                    </section>
+                    <section id="vol_broad_strategy">
+                              <title>Broad Strategy</title>
+                              <para>The Shuttleworth Foundation has four core values which it applies to all the projects it funds and supports:</para>
+                              <itemizedlist>
+                                        <listitem>
+                                                  <para>Sustainability</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Innovation</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Empowerment</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Access to information</para>
+                                        </listitem>
+                              </itemizedlist>
+                              <para> With this in mind, the Shuttleworth &productname; program was initiated which aims to establish eighty (80)
+                                        open source based computer labs in schools in the Western Cape. The primary objective of the &productname;
+                                        project is to make the school community aware of open source software and at the same time create an
+                                        innovative replicable model for a cost-effective computing platform. Effort is also directed at making this
+                                        project sustainable and the primary means of achieving this is through skills transfer and development with
+                                        teachers, learners and volunteers. This process empowers staff members and thus builds capacity within the
+                                        schools so that maintenance or expansion is controlled by them.</para>
+                              <para> Given all of the above, the volunteer support strategy was developed and aims to provide a support structure to
+                                        volunteer resources. The volunteer program will run concurrently with the &productname; project, in a
+                                        complementary fashion. The main aim is to empower the volunteer group by developing open source skills amongst
+                                        them, so that they may run this project one day and play an active role in the local open source community.</para>
+                              <para>The volunteer support strategy aims to solve the following problems:</para>
+                              <section>
+                                        <title>Awareness</title>
+                                        <para>Many computer users are unaware of all the choices they have available to them when it comes to choosing
+                                                  software for their needs. By exposing people to open source software we expose them to the choice
+                                                  and generate awareness.</para>
+                              </section>
+                              <section>
+                                        <title>Usage</title>
+                                        <para>Users are generally advocates. If we break down the barrier of entry, we will increase the usage of the
+                                                  software and and also the amount of advocates for it. The barrier of entry is the presumption many
+                                                  people have about open source, often citing the argument that it is only suited for the more
+                                                  technically able users. That is not the case.</para>
+                              </section>
+                              <section>
+                                        <title>Skills Development</title>
+                                        <para>Skills development also goes a long way to break down barriers of entry. If volunteers get the
+                                                  opportunity to try the software at no risk to their own computers and data, they would be far more
+                                                  at ease and could concentrate on learning how to use the software. The &productname; project
+                                                  also plays a major role in skill development, volunteers will learn many skills when they
+                                                  participate in the implementation of a &productname;, such as network cabling and Linux
+                                                  installations.</para>
+                              </section>
+                              <section>
+                                        <title>Solving Other problems</title>
+                                        <para>The volunteer support strategy also solves some problems with existing models:</para>
+                                        <itemizedlist>
+                                                  <listitem>
+                                                            <para>
+                                                                      <emphasis role="bold">Cost of training</emphasis>
+                                                            </para>
+                                                            <para>The cost of IT training is a prohibitive factor for many people wanting to delve
+                                                                      into the world of computers. We provide a training incentive for volunteer
+                                                                      participation. If a person volunteers at &productname; installations then
+                                                                      she/he will be eligible to attend regular, free GNU/Linux courses offered by
+                                                            us.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Beginner unfriendly user groups – elitist culture</para>
+                                                            <para>Beginners in the open source world are often intimidated by the groups of people
+                                                                      that are there in support of them. Many new users feel that their questions are
+                                                                      dealt with in haste or disdain, often rendering them, in their own minds,
+                                                                      better-off not asking for anymore help. </para>
+                                                            <para>With this volunteer support strategy, new users who volunteer at &productname;
+                                                                      installations will build up their confidence and ask questions in a less
+                                                                      anonymous and less faceless environment.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para> Volunteer spirit – open source models for social development</para>
+                                                            <para>Volunteerism is one of the key factors that secured the success of the open source
+                                                                      movement. Open source communities are generally formed by open source
+                                                                      developers, administrators and users that freely provide their expertise and
+                                                                      time to open source projects which interest them. The success of any great open
+                                                                      source project can be directly attributed to the formation of a supportive
+                                                                      community around a particular project. While the contribution of each individual
+                                                                      member may be small, they have an extraordinary impact when combined, with an
+                                                                      entire community and more benefiting from that collaborative effort. </para>
+                                                            <para>Contributing to an open source project does not just take the form of submitting
+                                                                      source code, but rather any activity which benefits the community or open source
+                                                                      in general.</para>
+                                                  </listitem>
+                                        </itemizedlist>
+                              </section>
+                    </section>
+                    <section id="vol_objectives">
+                              <title>Objectives</title>
+                              <itemizedlist>
+                                        <title> Strategic objectives</title>
+                                        <listitem>
+                                                  <para>Foster the spirit of volunteerism in the Western Cape by incentivising involvement in the
+                                                            &productname; program.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Develop a sustainable volunteer support structure for &productname; schools.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Promote and raise awareness about open source software.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Grow the number of open source users in the Western Cape.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Empower individuals with open source software training, in order to make them more
+                                                            “marketable” for future employment (and to support &productname;s).</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Establish a Linux User Group (LUG) to use as volunteer hub, as well as an informal support
+                                                            forum for schools.</para>
+                                        </listitem>
+                              </itemizedlist>
+                              <itemizedlist>
+                                        <title>Strategic Goals</title>
+                                        <listitem>
+                                                  <para>Train 100 volunteers on the basics of GNU/Linux.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Ensure a 50% pass-rate for external GNU/Linux examinations.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>At least 1 &productname; open day every weekend.</para>
+                                        </listitem>
+                              </itemizedlist>
+                    </section>
+                    <section id="vol_approach">
+                              <title>Approach</title>
+                              <para>We want to educate people on GNU/Linux, pass on open source skills and provide a loose-nit support structure to
+                                        &productname; schools. By utilising volunteers to help facilitate the process of installing
+                                        &productname;s, we will provide an unequalled method of continuing education for skilled and unskilled
+                                        volunteers alike. The potential to reach communities and build one at the same time is the underlying idea
+                                        behind both the &productname; and volunteer support strategies.</para>
+
+                              <para>Establishing &productname;s is similar in many respects to an open source software project – rather than
+                                        develop software, the Foundation is installing labs, but still using the concept of open source volunteerism
+                                        to facilitate this process. The Foundation fulfils the role of 'Gatekeeper', acting as a facilitator and
+                                        guardian, but using volunteer resources to complete the task.</para>
+
+                              <section>
+                                        <title>How do we do this?</title>
+                                        <para>We do it by providing incentives. Volunteers provide labour and support to &productname;s and in
+                                                  return we give them free GNU/Linux training and support. </para>
+                                        <para>There are two types of volunteer. Those that do it for no reward and are there to pass on their skills.
+                                                  And those who are trying to acquire new skills. The former, prefer to call themselves community
+                                                  builders, and we consider them to be partners in our strategy and goals.</para>
+                              </section>
+                              <section>
+                                        <title>How do we incentivise volunteers?</title>
+                                        <para>Any relationship is a two-way process. Taking, without giving back, will severely limit the longevity of
+                                                  any relationship. With this in mind, we will create a training program consisting of a series of
+                                                  modules like cabling, network installation, system administration, computer literacy and business
+                                                  use of computers, as the primary incentive for volunteers. </para>
+                                        <section>
+                                                  <title>Training</title>
+                                                  <para>We will create a training program consisting of a series of modules like cabling, network
+                                                            installation, GNU/Linux system administration, computer literacy and business use of
+                                                            computers, as the primary means of attracting volunteers.</para>
+                                                  <para>Some of the informal training courses will happen at &productname;s installed by the
+                                                            volunteer group. We can use such labs one Saturday every month. When we have setup 80
+                                                            &productname;s we should have 15-20 training facilities active every weekend.
+                                                            Short-courses will be presented at training facilities according to a schedule published
+                                                            in advance. Trainers will be graduates of the program or IT practitioners who have proven
+                                                            their ability to teach the subject matter. This initiative is called &productname;
+                                                            Open Days.</para>
+                                                  <itemizedlist>
+                                                            <listitem>
+                                                                      <para>requirements for participation</para>
+                                                                      <para>Volunteers are required to attend at least three &productname;
+                                                                           implementations to receive training, two before the training course
+                                                                           and one after. Once one level of training and implementation is
+                                                                           completed, the volunteers move on to the next series of
+                                                                           &productname; installations and with it, the next level of
+                                                                           training.</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>training sessions</para>
+                                                                      <para>GNU/Linux training sessions will be run both full-time and part-time. The
+                                                                           duration of a full-time course lasts between 3 and 5 days. Part-time
+                                                                           courses have two streams, half day training and Saturday training.</para>
+                                                                      <para>General training on open source desktop tools, will happen on Saturdays at
+                                                                           &productname; Open Day venues. A &productname; Open Day refers
+                                                                           to an existing &productname; school that opens it’s doors for 1
+                                                                           Saturday every month, for the purpose of exposing the school
+                                                                           community, local business and volunteers to specific open source
+                                                                           desktop/productivity tools.</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>levels of training</para>
+                                                                      <para>There are various levels to the GNU/Linux training, which include the
+                                                                           practical components. Candidates will have to actively participate in
+                                                                           2 (two) &productname; installations, prior to the module course,
+                                                                           and 1 (one) installation thereafter. Once the module is complete then
+                                                                           the volunteer moves on to the next level of training, and with it a
+                                                                           more advanced GNU/Linux training component. At this stage there are 3
+                                                                           (three) modules, Fundamentals, System Administration and Network
+                                                                           Administration. We will add two new advanced modules as the need
+                                                                           arises, Shell Scripting and Linux Internals.</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>certification – LPI</para>
+                                                                      <para>An agreement with the Linux Professional Institute (LPI) put us in a
+                                                                           position to deliver popular, Internationally recognised GNU/Linux
+                                                                           certifications at a fraction of the normal price. The LPI mission:</para>
+                                                                      <para>“The Linux Professional Institute (LPI) serves the community of Linux and
+                                                                           open source software users vendors and developers, in the interest of
+                                                                           increasing and supporting professional use of such software throughout
+                                                                           world. LPI will seek to improve the skills and resources of Linux and
+                                                                           open source professionals, by providing services and setting standards
+                                                                           which are relevant, of high quality and widely accessible.” --
+                                                                           http://www.lpi.org</para>
+                                                                      <para>We will train our volunteers to meet the level required in order for them
+                                                                           to pass the LPI level 1 examinations, and then give them the
+                                                                           opportunity to write the examinations. These examinations will be open
+                                                                           to all, not just &productname; volunteers.</para>
+                                                            </listitem>
+                                                  </itemizedlist>
+                                        </section>
+                                        <section>
+                                                  <title>Peer-respect</title>
+                                                  <itemizedlist>
+                                                            <listitem>
+                                                                      <para>training and participation levels</para>
+                                                                      <para>Those that advance through the training and it's varying levels of
+                                                                           complexity, will gain the respect of their peers for their new found
+                                                                           skills.</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>presentation of training</para>
+                                                                      <para>Those that have completed the training, could receive trainer training. So
+                                                                           that they may deliver training courses to their peers.</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>presentations at &productname; schools</para>
+                                                                      <para>Those who are progressing through the program can be nominated to do the
+                                                                           presentations at school presenting the volunteer program. </para>
+                                                            </listitem>
+                                                  </itemizedlist>
+                                        </section>
+                                        <section>
+                                                  <title>Financial</title>
+                                                  <para>The main incentives are and will always be educational and skills based. These will be
+                                                            continually updated to be current and of consequence. However, some incentives may take a
+                                                            financial form, and will only be awarded to volunteers who have demonstrated continued
+                                                            enthusiasm and commitment:</para>
+                                                  <itemizedlist>
+                                                            <listitem>
+                                                                      <para>reimbursement for successful LPI exams</para>
+                                                                      <para>At the end of the qualification, we will provide access to the LPI
+                                                                           certification - as an incentive, we will offer to refund those who
+                                                                           pass, limited to the &productname; volunteers.</para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>gift vouchers</para>
+                                                                      <para>Gift vouchers can be purchased and given to those who do very well and
+                                                                           deserve additional rewards and incentives.</para>
+                                                            </listitem>
+                                                  </itemizedlist>
+                                        </section>
+                                        <section>
+                                                  <title>Digital identity establishment</title>
+                                                  <para>Granting access to special on-line services and clubs to volunteers who complete all the
+                                                            training and still continue to volunteer. Examples include:</para>
+                                                  <itemizedlist>
+                                                            <listitem>
+                                                                      <para>on-line volunteer portfolio/profile</para>
+                                                                      <para>A facility for the volunteer to maintain an online profile, indicating
+                                                                           his/her current status in the programme as well as interests,
+                                                                           experience, qualifications, etc. </para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>personal web space</para>
+                                                                      <para>Those who complete the program get to host their own websites (under an
+                                                                           acceptable use policy). </para>
+                                                            </listitem>
+                                                            <listitem>
+                                                                      <para>&productname; e-mail club</para>
+                                                                      <para>&lt;name&gt;@tuxlabs.org email addresses for those who
+                                                                           finish the training program and continue to volunteer.</para>
+                                                            </listitem>
+                                                  </itemizedlist>
+                                        </section>
+                                        <section>
+                                                  <title> Digital freedom</title>
+                                                  <para>This is about providing access to dedicated open source and Internet facilities. We will scout
+                                                            for venues, equip them and then provide access to volunteers who have made headway in the
+                                                            training program. Access will be controlled by an electronic tag system which will only be
+                                                            issued to the respective volunteers.</para>
+                                        </section>
+                              </section>
+                              <section>
+                                        <title>How do we ensure sustainability of the program?</title>
+                                        <para>We plan to run this like an open source development project. So how do open source development projects
+                                                  become sustainable? </para>
+                                        <section>
+                                                  <title>Gatekeepers</title>
+                                                  <para>A person or group of people that oversee the project and make decisions on it’s daily
+                                                            operations, it’s future and it’s goals. These people oversee all the processes in the
+                                                            project. So in the volunteer support strategy, for the training, they would arrange
+                                                            training venues, lecturers and the registration of participants.</para>
+                                        </section>
+                                        <section>
+                                                  <title>Sponsorship</title>
+                                                  <para>Companies or individuals that derive benefit from the open source project, are known to
+                                                            sponsor development of certain pieces that would meet their needs and in some cases even
+                                                            give blanket-sponsorship. This volunteer support strategy hasn't required much financial
+                                                            input from the gatekeepers or third parties.</para>
+                                        </section>
+                                        <section>
+                                                  <title>Retained enthusiasm</title>
+                                                  <para>Enthusiasm comes from seeing what your efforts produce. Setting up a &productname; every
+                                                            weekend or reaching a certain level in the training is bound to keep volunteers
+                                                            enthusiastic.</para>
+                                        </section>
+                                        <section>
+                                                  <title>volunteer rollover</title>
+                                                  <para>New volunteers bring with them new ideas and high levels of energy and enthusiasm, which will
+                                                            rejuvenate the program.</para>
+                                        </section>
+                              </section>
+                              <section>
+                                        <title>What support do we provide?</title>
+                                        <para>The support we provide is to the volunteers. In turn the volunteers provide support for the schools. Our
+                                                  support takes the following form:</para>
+                                        <itemizedlist>
+                                                  <listitem>
+                                                            <para>Social fora</para>
+                                                            <itemizedlist>
+                                                                      <listitem>
+                                                                           <para>mailing lists</para>
+                                                                           <para>We host numerous mailing lists, covering all the broad topics to
+                                                                           do with &productname;s, open source and volunteers.
+                                                                           These lists are open to everyone.</para>
+                                                                      </listitem>
+                                                                      <listitem>
+                                                                           <para>social meetings</para>
+                                                                           <para>Occaisionally we host a get together for all the volunteers, at
+                                                                           a &productname; school, and provide lunch.</para>
+                                                                      </listitem>
+                                                            </itemizedlist>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>transport</para>
+                                                            <para>Transport to &productname; installations, for most of our volunteers, is a
+                                                                      problem. We are looking into ways of addressing this.</para>
+                                                  </listitem>
+                                        </itemizedlist>
+                              </section>
+                    </section>
+                    <section id="vol_stakeholders">
+                              <title>Stakeholders</title>
+                              <orderedlist>
+                                        <listitem>
+                                                  <para>The Shuttleworth Foundation</para>
+                                                  <para>The Shuttleworth Foundation initiated this strategy, and will continue to support it in
+                                                            whatever capacity. At present that means managing and facilitating the whole program.
+                                                            Eventually, however, we ultimately see this strategy in the hands of the volunteers and
+                                                            open source community, who will be responsible for it’s evolution.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Schools &amp; other institutions</para>
+                                                  <para>The &productname; installations at schools are providing more than just a computer lab. We
+                                                            place emphasis on the fact that the &productname; is a tool to promote open source
+                                                            awareness in the local community. All the schools participating in the &productname;
+                                                            project, buy-in to this idea and are providing community access to their labs once a month
+                                                            under the Open Day program. This is integral to both the &productname; and volunteer
+                                                            strategies.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Volunteers</para>
+                                                  <para>The volunteers and community builders are essentially the owners of this initiative, if they
+                                                            make use of the opportunities presented, then they will derive the most benefit from the
+                                                            relationship with the Shuttleworth Foundation. </para>
+                                                  <para>Graduates of the volunteer program will be the ones who will eventually own, modify and
+                                                            execute this strategy. We will support them, should they wish to manage or “own” any piece
+                                                            of the volunteer process.</para>
+                                        </listitem>
+                                        <listitem>
+                                                  <para>Partners</para>
+                                                  <para>Partners will be sought to help execute this strategy and take it to other areas. This is the
+                                                            only way to get this program beyond the borders of the Western Cape. Current partners
+                                                            include SmartSource corporate training, the MTNSciencentre and the LEAP maths and science
+                                                            school.</para>
+                                        </listitem>
+                              </orderedlist>
+                    </section>
+                    <section>
+                              <title>Final Word on Strategy</title>
+                              <para>By not generating and feeding skilled volunteers through the &productname; program, the project would start to
+                                        rely heavily on the our continued hands-on involvement. This would mean that the program would be limited to
+                                        Cape Town schools and potentially not go beyond the borders of the Western Cape. We can not make a success of
+                                        the &productname; program, or reach the goal of 80 schools in 2004/5, without the involvement of
+                                        volunteers.</para>
+                              <para>The &productname; program will be the springboard for this volunteer support strategy. A program like this has
+                                        the potential to outlive the Foundation’s strategies and focus, therefore it is crucial that we build capacity
+                                        amonst the volunteers, pass on the torch and have it managed so that it can give the volunteer group longevity
+                                        and purpose beyond the Shuttleworth &productname; project.</para>
+                    </section>
+          </section>
+          <section id="vol_process_control">
+                    <title>Volunteer Process Control</title>
+                    <section id="vol_capacity">
+                              <title>Capacity</title>
+                              <para>As a minimum, 8 volunteers working in two teams of 4, can install 2 &productname;s in one day. If there are
+                                        more than 10 participants at one &productname;, generally you will find that most stand around without
+                                        anything to do. In an effort to address this, we appoint a project leader for the installation and 2 generals
+                                        under him/her. They are tasked with ensuring that everyone participates.</para>
+                              <section>
+                                        <title>Volunteers</title>
+                                        <para>It takes 5 (five) volunteers one day, from 09:00 to 16:00, to install a &productname; from the
+                                                  ground up - cabling, thin-client preparation, server installation and troubleshooting. Although
+                                                  there are usually more than 5 volunteers at a &productname; installation, 5 is all it will take
+                                                  to install one lab.</para>
+                                        <para>However, the installation model is continuously evolving, teams of 4 volunteers go out to a school on a
+                                                  Thursday, to do the cabling. This makes the Saturday event less work orientated, and streamlines the
+                                                  installations. Schools that have had cabling done on a Thursday, generally have their
+                                                  &productname; installed before lunch on Saturday. Focus is now directed at educating the staff
+                                                  about open source software and giving them ideas on how to integrate their classroom activities into
+                                                  the &productname;.</para>
+                                        <section>
+                                                  <title>Volunteer life span</title>
+                                                  <para>Volunteers will not be expected to move on from the project, unless they contravene the code
+                                                            of conduct (Appendix 2 – Code of Conduct) or unless the project is shut down. Most of our
+                                                            current volunteers consider the &productname; project to be a hobby, and thus really
+                                                            enjoy participating in the weekly activities. A distinction must also be made between
+                                                            regular volunteers and community builders. We are fortunate to have both in our group.
+                                                            Community builders are there for the eventual goal of bettering education through open
+                                                            source software, and don't expect incentives. We consider these people to be partners in
+                                                            our strategies and goals.</para>
+                                        </section>
+                              </section>
+                              <section>
+                                        <title>Trainers</title>
+                                        <section>
+                                                  <title>Train the trainer</title>
+                                                  <para>During the training, certain volunteers who show potential, will be earmarked as future
+                                                            trainers and will be given all the attention needed to get them to the point of training a
+                                                            class. </para>
+                                        </section>
+                                        <section>
+                                                  <title>Trainer life span</title>
+                                                  <para>Once they are in abundance, trainers will assign themselves to a course on the schedule.
+                                                            However, during the start-up period of the training program, volunteer trainers will be
+                                                            scarce and will have to be managed efficiently. The first quarter of 2004 will be the
+                                                            ramp-up period for the training strategy, so fewer courses will be run. If demand requires
+                                                            then the tempo will be upped for the second quarter. Trainers, like volunteers, will not
+                                                            be required to leave the program after a set period. They will be able to participate for
+                                                            as long as they like. Assessment criteria will be developed once the training program is
+                                                            off the ground. Trainers will be assessed on their performance.</para>
+                                        </section>
+                              </section>
+                    </section>
+                    <section id="vol_support_structure">
+                              <title>Support structure</title>
+                              <section>
+                                        <title>Informal call-centre</title>
+                                        <para>The LCB is equipped to handle basic support calls. It will also be used as a dispatch office for
+                                                  “Volunteers on patrol”. If the problem can’t be handled over the phone then the person on duty at
+                                                  the LCB will refer the call to a nearby “Reservist” (See: 15.1.3 Module 3 - “Reservists”) who will
+                                                  then , hopefully, visit the school and fix the problem.</para>
+                              </section>
+                              <section>
+                                        <title>Volunteers on patrol</title>
+                                        <para>Once a volunteer has gone through all the training on offer and still participates, will be in a
+                                                  position to support a &productname; from the ground up. If the volunteer still wishes to
+                                                  participate in the program, then they will be given a list of &productname; schools in their
+                                                  area that could do with some support. He/she will then be expected to offer expertise to keep that
+                                                  school’s &productname; running smoothly. These “Volunteers on patrol” would be a source of help
+                                                  for the school’s computer facilitator. If the schools in the area do not have facilitators, then
+                                                  these individuals could be regarded as independent, mobile facilitators.</para>
+                              </section>
+                              <section>
+                                        <title> Facilitators</title>
+                                        <para>Facilitators, if the schools can afford them, will be the first line of support for the
+                                                  &productname;. A facilitator makes sure that the lab remains operational and that any problems
+                                                  with hardware or software is resolved as soon as possible. Currently a facilitator is placed at each
+                                                  &productname; school. The volunteer group provides a source for future facilitators.</para>
+                                        <para>An ideal situation would be for one facilitator to control a cluster of &productname;s schools.
+                                                  Existing clusters are going to adopt this approach after the first year of operation.</para>
+                              </section>
+                    </section>
+                    <section id="vol_partners_and_co-sponsers">
+                              <title>Partners &amp; Co-sponsorship</title>
+                              <para>Within the workings of the &productname; there are partnerships regarding training course venues and school
+                                        installations. In this section we introduce you to a few of them.</para>
+                              <section>
+                                        <title>Course Venues</title>
+                                        <itemizedlist>
+                                                  <listitem>
+                                                            <para>Smart-Source</para>
+                                                            <para>Smart-Source corporate training has made one of it’s 15 seat labs available to the
+                                                                      Foundation for the purpose of training volunteers. If capacity demands, more
+                                                                      facilities will be sought.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>MTN Sciencentre</para>
+                                                            <para>The MTN Sciencentre has made it’s auditorium facility available for 1 day workshops.
+                                                                      They have also made their “Mecer Zone” computer lab available for volunteer
+                                                                      training. The only problem with this venue is the fact that their machines are
+                                                                      low-powered and not ideal for running Linux.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Shuttleworth Advanced Labs</para>
+                                                            <para>We will be installing new equipment in two labs in the 2004/5 cycle, these labs will
+                                                                      be shared with the school and will be used as training centres for volunteer
+                                                                      training.</para>
+                                                  </listitem>
+                                        </itemizedlist>
+                              </section>
+                              <section>
+                                        <title>SLUG</title>
+                                        <para>The School Linux Users Group (SLUG) was established as an additional vehicle for volunteer
+                                                  participation. It provides a forum for volunteers to share knowledge and plan activities while
+                                                  collectively forging a unique identity for themselves as they go. The Shuttleworth Foundation is
+                                                  steering the group in it's early stages, until members take the initiative and run with it.</para>
+                                        <para>The Foundation is also providing web hosting services for the organisation. Mailing lists have been
+                                                  set-up for members to communicate, ask questions and announce events. The next step for SLUG is to
+                                                  formalise itself by electing a committee, forming a constitution and deciding it's future.</para>
+                                        <para> Slug provides a natural mechanism for sourcing training participants as well as managing the practical
+                                                  component of the training. SLUG has been the primary vehicle for attracting volunteers with the
+                                                  training component as an added benefit of participating in SLUG. The training program requires
+                                                  practical experience in the &productname; programme, of which SLUG is a major partner.</para>
+                              </section>
+                              <section>
+                                        <title>Courseware</title>
+                                        <para>Course notes will be available for download from the Foundation site once the training materials project
+                                                  has finished. Companies wishing to get involved in this project could be asked to make copies of
+                                                  these notes for volunteer training.</para>
+                              </section>
+                    </section>
+                    <section id="vol_legal">
+                              <title>Legal Considerations</title>
+                              <para>Due to current employment regulations in South Africa, the two legal documents (Appendix C and D) serve to protect
+                                        both the volunteer and the Shuttleworth Foundation, from any confusion regarding the legal status of volunteer
+                                        versus employee.</para>
+                              <para>The Linux Computer Bank (LCB) is a facility that provides a central support hub for a &productname; cluster.
+                                        &productname; volunteers would assist the Foundation in the refurbishment of old computers at the LCB
+                                        facility. As the &productname; project moves on and SLUG continues to be the driving force behind the
+                                        supply of volunteers, so the distinction between the LCB volunteers and the SLUG volunteers blurs – in fact,
+                                        one cannot draw a comparison, they are one in the same.</para>
+                              <para>The documents attached in appendix C and D, were drafted for the LCB volunteers who have since become members of
+                                        SLUG. The LCB facility is still used as the central support hub that it was intended to be - except it is now
+                                        referred to as SLUG Head quarters. SLUG, being an independent organisation, will draft their own versions of
+                                        the samples below.</para>
+                    </section>
+          </section>
+</chapter>

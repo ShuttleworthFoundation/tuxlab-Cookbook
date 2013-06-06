@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon
+END
+source.zip
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/source.zip
+END
+saxon.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/saxon.jar
+END
+saxon-jdom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/saxon-jdom.jar
+END
+saxon-xml-apis.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/saxon-xml-apis.jar
+END

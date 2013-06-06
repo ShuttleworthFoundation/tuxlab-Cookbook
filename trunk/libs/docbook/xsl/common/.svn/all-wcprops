@@ -1,0 +1,473 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common
+END
+ro.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/ro.xml
+END
+ca.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/ca.xml
+END
+subtitles.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/subtitles.xsl
+END
+ru.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/ru.xml
+END
+ga.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/ga.xml
+END
+table.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/table.xsl
+END
+common.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/common.xsl
+END
+zh_cn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/zh_cn.xml
+END
+cs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/cs.xml
+END
+kn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/kn.xml
+END
+labels.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/labels.xsl
+END
+stripns.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/stripns.xsl
+END
+ko.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/ko.xml
+END
+insertfile.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/insertfile.xsl
+END
+gu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/gu.xml
+END
+cy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/cy.xml
+END
+sk.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/sk.xml
+END
+sl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/sl.xml
+END
+targets.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/targets.xsl
+END
+or.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/or.xml
+END
+l10n.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/l10n.xsl
+END
+sq.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/sq.xml
+END
+sr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/sr.xml
+END
+da.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/da.xml
+END
+l10n.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/l10n.dtd
+END
+autoidx-ng.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/autoidx-ng.xsl
+END
+targetdatabase.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/targetdatabase.dtd
+END
+de.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/de.xml
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/ChangeLog
+END
+sv.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/sv.xml
+END
+la.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/la.xml
+END
+he.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/he.xml
+END
+hi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/hi.xml
+END
+pa.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/pa.xml
+END
+ta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/ta.xml
+END
+hr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/hr.xml
+END
+th.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/th.xml
+END
+pl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/pl.xml
+END
+hu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/hu.xml
+END
+xh.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/xh.xml
+END
+tl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/tl.xml
+END
+lt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/lt.xml
+END
+olink.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/olink.xsl
+END
+pt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/pt.xml
+END
+gentext.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/gentext.xsl
+END
+tr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/tr.xml
+END
+af.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/af.xml
+END
+zh_tw.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/zh_tw.xml
+END
+make-catalog.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/make-catalog.xsl
+END
+id.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/id.xml
+END
+am.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/am.xml
+END
+el.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/el.xml
+END
+en.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/en.xml
+END
+ar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/ar.xml
+END
+refentry.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/refentry.xsl
+END
+es.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/es.xml
+END
+et.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/et.xml
+END
+eu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/eu.xml
+END
+titles.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/titles.xsl
+END
+az.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/az.xml
+END
+l10n.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/l10n.xml
+END
+mn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/mn.xml
+END
+it.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/it.xml
+END
+uk.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/uk.xml
+END
+fa.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/fa.xml
+END
+bg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/bg.xml
+END
+ja.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/ja.xml
+END
+fi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/fi.xml
+END
+bn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/bn.xml
+END
+sr_Latn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/sr_Latn.xml
+END
+bs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/bs.xml
+END
+pt_br.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/pt_br.xml
+END
+fr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/fr.xml
+END
+nl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/nl.xml
+END
+nn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/nn.xml
+END
+no.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/no.xml
+END
+pi.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/pi.xsl
+END
+vi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/techdocs/tuxlab/!svn/ver/106/trunk/libs/docbook/xsl/common/vi.xml
+END

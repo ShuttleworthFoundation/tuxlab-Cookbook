@@ -1,0 +1,52 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/docbook/xsl/tools/make
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-01-17T08:51:17.692369Z
+106
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+Makefile.combine
+file
+
+
+
+
+2007-06-04T08:50:55.000000Z
+1bf55621bd50cfdb70b45582168ea2c9
+2007-01-17T08:51:17.692369Z
+106
+techdocs
+
+Makefile.DocBook
+file
+
+
+
+
+2007-06-04T08:50:55.000000Z
+1c4e8dc9ca4384ec304d4cbd8534e28a
+2007-01-17T08:51:17.692369Z
+106
+techdocs
+

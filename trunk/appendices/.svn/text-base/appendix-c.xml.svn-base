@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE appendix PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+                      "http://www.docbook.org/xml/4.4/docbookx.dtd"
+[ 
+<!ENTITY % globalents SYSTEM "../common/global.ent">
+ %globalents; 
+ <!ENTITY % xinclude SYSTEM "../libs/xinclude.mod">
+%xinclude;
+ ]>
+<appendix id="apdx_social_contract">
+	<title>Social Contract</title>
+	<para>
+		<emphasis role="bold">Shuttleworth TuXlab Social Contract</emphasis>
+	</para>
+	<simplelist>
+		<member>Adopted by Shuttleworth TuXlab volunteers at the Linux Computer Bank (LCB).</member>
+		<member>Nooitgedacht Primary School</member>
+		<member>Bishop Lavis</member>
+		<member>Cape Town</member>
+		<member>South Africa </member>
+	</simplelist>
+	<section>
+		<title>Introduction</title>
+		<para>The Linux Computer Bank is a social investment project with a dual focus. The primary focus is the refurbishment, configuration and
+			provision of Shuttleworth tuXlabs (tuXlab) to schools in the Western Cape. The secondary focus of the LCB is skills transfer and development
+			via the volunteer program.</para>
+	</section>
+	<section>
+		<title>Recordal</title>
+		<para>It is specifically recorded that the volunteers of the Shuttleworth Linux Computer Bank (LCB) – trainers, students, unemployed individuals
+			and others who choose to serve the LCB are volunteers and not employees(hereafter referred to as “volunteers”) and they endorse and pledge to
+			implement the following social contract amongst themselves:</para>
+	</section>
+	<section>
+		<title>To be involved in any classes or workshops given at the LCB:</title>
+		<para>In order to fully participate in and benefit from the LCB project, the volunteers must attend the relevant training sessions freely hosted
+			by Jason Hudson and other volunteer trainers.</para>
+	</section>
+	<section>
+		<title>To volunteer our time to LCB Open Source Learning Centre activities:</title>
+		<para>Volunteers agree and undertake to pledge their collective skills and time, circumstances permitting, to the LCB project to ensure that the
+			experience and skills afforded to them by the LCB project can be transferred to other individuals</para>
+	</section>
+	<section>
+		<title>To agree to the LCB code of conduct:</title>
+		<para>All volunteers must act and behave in accordance with the LCB code of conduct. Failure to adhere to this code of conduct can result in
+			exclusion from the LCB project.</para>
+		<para>In signing this document, the volunteer agrees and undertakes to abide by the provisions contained herein.</para>
+		<para>Signed:____________________ Date:_____________________</para>
+		<para> </para>
+		<para>Name: ____________________</para>
+	</section>
+</appendix>

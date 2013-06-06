@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+                      "http://www.docbook.org/xml/4.4/docbookx.dtd"
+[ 
+<!ENTITY % globalents SYSTEM "common/global.ent">
+ %globalents; 
+ <!ENTITY % xinclude SYSTEM "libs/xinclude.mod">
+%xinclude;
+]>
+<book>
+	<bookinfo>
+		<title>&productname; Cookbook</title>
+		<authorgroup>
+			<author>
+				<firstname>Sean</firstname>
+				<surname>Wheller</surname>
+				<email>sean@inwords.co.za</email>
+			</author>
+			<author>
+				<firstname>Graham</firstname>
+				<surname>Goode</surname>
+			</author>
+		</authorgroup>
+		<corpauthor><inlinegraphic fileref="images/tsfandtux.png" format="PNG" width="80mm"/></corpauthor>
+		<edition>Second</edition>
+		&licensenotice;
+		&pubdate;
+	</bookinfo>
+	
+	<preface>
+                    <title>Preface</title>
+                    <sect1>
+                              <title>Audience</title>
+                              <para>The subject of a &productname; brings together computers and education. As such the audience for which the
+                                        &productname; cookbook is intended includes a diverse spectrum of people with either computing or
+                                        educational backgrounds, or both. Hopefully, everyone reading this book shares a common interest in applying
+                                        computers in educational environments in order that they may improve learning techniques and provide a place
+                                        where computing and information technologies may be taught.</para>
+                    </sect1>
+                    <sect1>
+                              <title>Scope</title>
+                              <para>A &productname; is a challenge - experience has shown that it takes varying degrees of input from people with
+                                        different skills in order to make a &productname; successful. Typically, each of the people participating
+                                        in a project do what they are good at. Each plays a role, assuming responsibility for one or more functional
+                                        perspectives of the project.</para>
+                              <para>The scope of the &productname; cookbook extends to cover all such perspectives so that the collective
+                                        experience of many may be distilled and captured in order that such knowledge may be preserved in a manner
+                                        that it can be referenced and transferred into the future.</para>
+                    </sect1>
+                    <sect1>
+                              <title>Organisation</title>
+                              <para>The &productname; cookbook is a set of books. Each covers a specific perspective of a &productname; that
+                                        requires consideration and attention in the planning and management thereof. While the books are presented and
+                                        bound as a single volume of work they are intended to be used as independent pieces. For this reason the
+                                        &productname; cookbook is bound in a large lever-arch style file that enables books to be conveniently
+                                        stored at the &productname; and, individual books, temporarily removed so that they can be read or
+                                        duplicated independently.</para>
+                              <para>Nobody is expected to know or be an expert in everything, it is however useful for everyone involved to have some
+                                        degree of overview about what others are doing or what their role involves. Given that people in a project
+                                        will bring different skills and have different interests, it is recommended that people read this book and
+                                        then those books related to their role or responsibility the project.</para>
+                              <para>Organisation of the books is as follows:</para>
+                              <variablelist>
+                                        <varlistentry>
+                                                  <term>
+                                                            <emphasis role="bold">Introduction</emphasis>
+                                                  </term>
+                                                  <listitem>
+                                                            <para>The document that you are reading.</para>
+                                                  </listitem>
+                                        </varlistentry>
+                                        <varlistentry>
+                                                  <term>
+                                                            <emphasis role="bold">Software Module</emphasis>
+                                                  </term>
+                                                  <listitem> &abstract-software; </listitem>
+                                        </varlistentry>
+                                        <varlistentry>
+                                                  <term>
+                                                            <emphasis role="bold">Hardware Module</emphasis>
+                                                  </term>
+                                                  <listitem> &abstract-hardware; </listitem>
+                                        </varlistentry>
+                                        <varlistentry>
+                                                  <term>
+                                                            <emphasis role="bold">Infrastructure Module</emphasis>
+                                                  </term>
+                                                  <listitem> &abstract-infrastructure; </listitem>
+                                        </varlistentry>
+                                        <varlistentry>
+                                                  <term>
+                                                            <emphasis role="bold">Training Module</emphasis>
+                                                  </term>
+                                                  <listitem> &abstract-training; </listitem>
+                                        </varlistentry>
+                                        <varlistentry>
+                                                  <term>
+                                                            <emphasis role="bold">Management Module</emphasis>
+                                                  </term>
+                                                  <listitem> &abstract-management; </listitem>
+                                        </varlistentry>
+                                        <varlistentry>
+                                                  <term>
+                                                            <emphasis role="bold">Support Module</emphasis>
+                                                  </term>
+                                                  <listitem> &abstract-support; </listitem>
+                                        </varlistentry>
+                                        <varlistentry>
+                                                  <term>
+                                                            <emphasis role="bold">Volunteer Module</emphasis>
+                                                  </term>
+                                                  <listitem> &abstract-volunteer; </listitem>
+                                        </varlistentry>
+                                        <varlistentry>
+                                                  <term>
+                                                            <emphasis role="bold">Sustainability Module</emphasis>
+                                                  </term>
+                                                  <listitem> &abstract-sustainability; </listitem>
+                                        </varlistentry>
+                              </variablelist>
+                    </sect1>
+                    <sect1>
+                              <title>Acknowledgements</title>
+                              <para>A special word of thanks is extended to the organisations and people whose generous contributions and support have
+                                        helped make the &productname; Cookbook into the valuable resource it is today.</para>
+                              <para>The information contained in this book comes from many different people. We have used the content of the first
+                                        &productname; Cookbook written by Jean Jordaan as a base for many of the modules and have added more
+                                        recent information and new content. The illustrations were created by Leonora van Staden. Information was also
+                                        provided by Jason Norwood-Young and Hilton Theunissen.</para>
+                    </sect1> &conventions; 
+	</preface>
+	<xi:include href="introduction/introduction.xml">
+		<xi:fallback>
+			<para>FIX ME</para>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="infrastructure/infrastructure.xml">
+		<xi:fallback>
+			<para>FIX ME</para>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="hardware/hardware.xml">
+		<xi:fallback>
+			<para>FIX ME</para>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="management/management.xml">
+		<xi:fallback>
+			<para>FIX ME</para>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="software/software.xml">
+		<xi:fallback>
+			<para>FIX ME</para>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="support/support.xml">
+		<xi:fallback>
+			<para>FIX ME</para>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="sustainability/sustainability.xml">
+		<xi:fallback>
+			<para>FIX ME</para>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="training/training.xml">
+		<xi:fallback>
+			<para>FIX ME</para>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="volunteer/volunteer.xml">
+		<xi:fallback>
+			<para>FIX ME</para>
+		</xi:fallback>
+	</xi:include>
+	<!--<xi:include href="biblio/bibliography.xml">
+		<xi:fallback>
+			<para>FIX ME</para>
+		</xi:fallback>
+	</xi:include>-->
+	<xi:include href="appendices/appendix-a.xml">
+		<xi:fallback>
+			<para>FIX ME</para>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="appendices/appendix-b.xml">
+		<xi:fallback>
+			<para>FIX ME</para>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="appendices/appendix-c.xml">
+		<xi:fallback>
+			<para>FIX ME</para>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="appendices/appendix-d.xml">
+		<xi:fallback>
+			<para>FIX ME</para>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="appendices/appendix-e.xml">
+		<xi:fallback>
+			<para>FIX ME</para>
+		</xi:fallback>
+	</xi:include>
+	<xi:include href="appendices/appendix-f.xml">
+		<xi:fallback>
+			<para>FIX ME</para>
+		</xi:fallback>
+	</xi:include>
+</book>

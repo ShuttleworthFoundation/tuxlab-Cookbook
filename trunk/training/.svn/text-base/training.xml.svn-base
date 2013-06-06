@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+                      "http://www.docbook.org/xml/4.4/docbookx.dtd"
+[ 
+<!ENTITY % globalents SYSTEM "../common/global.ent">
+ %globalents; 
+ <!ENTITY % xinclude SYSTEM "../libs/xinclude.mod">
+%xinclude;
+ ]>
+<chapter>
+
+                    <title>Training Module</title>
+                    
+                    <abstract>&abstract-training;</abstract>
+
+          <section id="trn_volunteer">
+                    <title>Volunteer Training</title>
+                    <section id="trn_courses">
+                              <title>Course structure</title>
+                              <para>The training of &productname; volunteers consists of levels or modules that take a beginning novice and,
+                                        through learning and experience, create a &productname; expert. Each module, from 'Boot camp' to
+                                        'Reservists', has a specific training course attached. These course give a comprehensive overview of the
+                                        features and functionality of Linux, preparing the volunteer for certification of these skills. In-depth
+                                        detail is provided for key concepts. Many Linux concepts and utilities are identical regardless of the
+                                        specific distribution of Linux that is being used. The nature of Linux and Open source software is such that
+                                        changes to source code and changes to functionality of any given component are happening continually. However,
+                                        the underlying concepts of Linux capabilities and functionality remain consistent throughout distribution,
+                                        kernel and software changes.</para>
+                              <section>
+                                        <title>Introduction to Linux – Fundamentals</title>
+                                        <para>This course provides a 3 day introduction and in-depth explanation of the concepts and principles that
+                                                  are necessary to install a Linux system and navigate the command-line and GUI environments. It is
+                                                  specifically aimed at Linux novices and people making the transition to Linux. Focus is also given
+                                                  to the history of Linux and open source software.</para>
+                              </section>
+                              <section>
+                                        <title>Linux System Administration</title>
+                                        <para>This 4 day course will provide participants with a foundation in the concepts and principles that are
+                                                  necessary to administer a Linux system. The scope of an administrator's tasks may be very broad.
+                                                  Structure and function of the Linux kernel, key administrative topics of managing software packages,
+                                                  processes, disk space, backups and users as well as scheduling tasks and system logs are covered in
+                                                  this course.</para>
+                              </section>
+                              <section>
+                                        <title>Advanced Workshops</title>
+                                        <para>This will be the dynamic course in the offering. If a volunteer finishes both the beginners and
+                                                  intermediate courses, they are free to attend as many of these courses as they like, provided they
+                                                  meet the requirements set out in the training incentive scheme (see <xref
+                                                            linkend="trn_incentive_process"/>. This course will take the form of a 1 day workshop,
+                                                  covering advanced Linux services and Open Source topics. This workshop will be run monthly by
+                                                  volunteer trainers, once enough volunteers have completed the first two courses.</para>
+                              </section>
+                              <section>
+                                        <title>Facilitator workshops</title>
+                                        <para>A hands-on workshop covering all the technical principles and configuration aspects regarding the
+                                                  running and maintenance of a &productname; lab. Example lesson plans for introducing learners to
+                                                  the &productname; will also be provided and expanded on. This course will be run on a per
+                                                  cluster basis and will be exclusive to the computer committee from each cluster school, as well as
+                                                  the lab facilitator or volunteers offering free support to the cluster. Eventually, this training
+                                                  will be handled by the veteran volunteers.</para>
+                              </section>
+                    </section>
+          </section>
+          <section id="trn_incentive_process">
+                    <title>The Incentives Process</title>
+                    <para>The main incentive offered by the Foundation, to it's volunteers, is GNU/Linux training. In order to be trained on GNU/Linux
+                              and it's varying levels of complexity, the volunteer must pass through the following modules, satisfying all the
+                              associated requirements. Please refer to the following diagram for a better understanding of the process.</para>
+                    <figure>
+                              <title>Training Modules Process</title>
+                              <mediaobject>
+                                        <imageobject>
+                                                  <imagedata fileref="../images/Volunteer_Training_Process.png"/>
+                                        </imageobject>
+                              </mediaobject>
+                    </figure>
+                    <procedure>
+                              <step>
+                                        <para>Joe would start out by helping install a&productname;. He would learn how to network a computer room
+                                                  and know the basics behind cabling.</para>
+                              </step>
+                              <step>
+                                        <para>At the next &productname; installation, Joe will learn how to prepare the workstation computer and
+                                                  discover how the network card, in the computer, accesses the server.</para>
+                              </step>
+                              <step>
+                                        <para>After those two practical sessions, Joe will register for the module’s course. If he’s a beginner, the
+                                                  first course will be Linux Fundamentals. Joe will have the choice of doing this 3 day course either
+                                                  full-time or part-time.</para>
+                              </step>
+                              <step>
+                                        <para>Once Joe has finished the module’s course, he will be expected to help install one more
+                                                  &productname; in order to move on to the next module and receive more advanced training.</para>
+                              </step>
+                    </procedure>
+          </section>
+          <section>
+                    <title>Training Modules</title>
+                    <section>
+                              <title>Module 1 - “Boot camp”</title>
+                              <para>Candidates will have to actively participate in 2 (two) &productname; installations, prior to the
+                                        "Introduction to Linux - Fundamentals" course, and 1 (one) installation thereafter. These activities will be
+                                        run in succession.</para>
+                              <section>
+                                        <title>Level 1 - “Scrubs”</title>
+                                        <para>The volunteer will be assigned to do the cabling in a &productname;. Instructions will be provided
+                                                  by the lab representative (see assessment) or module 2 volunteer, for the layout of the cabling, as
+                                                  well as the physical detail of the cable, connectors and crimping tool. Worksheets will be provided
+                                                  with all the theory required for advancement. At any given stage the participants will be asked to
+                                                  demonstrate the process to new volunteers or to the lab representative (see assessment).</para>
+                                        <para>Only once the volunteer has fully participated in this activity, and can demonstrate his/her new skill,
+                                                  will they be able to move to the next level in the next &productname; installation. </para>
+                                        <itemizedlist>
+                                                  <title>Level 1 - Skills objectives:</title>
+                                                  <listitem>
+                                                            <para>Know the make-up of cat5 cabling.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Know the differences between popular network topologies. (Star, bus, etc.)</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Know how to crimp network points.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Learn how to diagnose and troubleshoot connectivity issues.</para>
+                                                  </listitem>
+                                        </itemizedlist>
+                              </section>
+                              <section>
+                                        <title>Level 2 - “Newts”</title>
+                                        <para>At this level, the volunteer will be responsible for the set-up and operation of the thin-client
+                                                  terminals. Instructions will be provided on a worksheet, with additional verbal instruction from the
+                                                  lab representative (see assessment). Participants will learn about the requirements for thin-client
+                                                  computing as well as the theory of operation. Once again, volunteers will be asked to demonstrate
+                                                  their activity to new volunteers or to the lab representative (see assessment).</para>
+                                        <para>When the lab has been completed and the accepted level of skill has been displayed, he/she be able to
+                                                  advance to level 3 in the next &productname;.</para>
+                                        <itemizedlist>
+                                                  <title>Level 2 – Skills objectives:</title>
+                                                  <listitem>
+                                                            <para>Know how to insert a network card into a computer.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Understand how the boot-prom works and how it is enabled.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Troubleshoot and diagnose network card and boot-prom problems.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Learn how to use the computer's BIOS options.</para>
+                                                  </listitem>
+                                        </itemizedlist>
+                              </section>
+                              <section>
+                                        <title>Level 3 - “Newbies”</title>
+                                        <para>Level 3 will be the “Introduction to Linux – Fundamentals” course – the first incentive. A maximum of 30
+                                                  people can be accommodated at a time. Volunteers who were left behind in previous module1 activities
+                                                  and have finished the required pre-training requirements may also enrol for this training course. If
+                                                  demand requires, the course will be run when needed to avoid any bottlenecks in the process. Refer
+                                                  to the appropriate section in the “Course structure” for the overview.</para>
+                                        <itemizedlist>
+                                                  <title>Level3 – Skills objectives:</title>
+                                                  <listitem>
+                                                            <para>History of Linux and open source software.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Linux system installation.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Navigating the command line.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Using the “vi” text editor.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>File system and directory structures.</para>
+                                                  </listitem>
+                                        </itemizedlist>
+                              </section>
+                              <section>
+                                        <title>Level 4 - “Gnats”</title>
+                                        <para>After receiving the training in level 3, volunteers will be required to set-up a &productname;
+                                                  server. They will be exposed to the “real-world” challenge of deciding on hard disk partitioning
+                                                  schemes, integrating the &productname; with existing network structures and services as well as
+                                                  troubleshooting core &productname; configuration. Instruction will be provided by the lab
+                                                  representative (see assessment) and participants will receive documentation on the technical aspects
+                                                  of the &productname; theory of operation. </para>
+                                        <itemizedlist>
+                                                  <title>Level 4 - Skills objectives:</title>
+                                                  <listitem>
+                                                            <para>Installation and configuration of a Linux server.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Configuration of thin-client settings.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Network and DHCP configuration.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>User and group administration as well as any environmental configuration (network
+                                                                      integration etc.).</para>
+                                                  </listitem>
+                                        </itemizedlist>
+                              </section>
+                    </section>
+                    <section>
+                              <title>Module 2 - “In-service training”</title>
+                              <para>The module 2 volunteers will be responsible for co-ordinating the practical activities (&productname;
+                                        activities) of the next batch of module 1 volunteers. Their “Basic Training” skills will be tested by teaching
+                                        the new module 1 volunteers how to complete each practical level of the 1st module. This group will, for
+                                        example, teach the new volunteers how to cable a lab and crimp network points, etcetera.</para>
+                              <section>
+                                        <title>Level 1 - “Squire”</title>
+                                        <para>The volunteer will have up to four module1 “Scrubs” assigned to him/her. General instructions will be
+                                                  provided by the lab representative. It is up to the module 2 volunteers to make sure that his/her
+                                                  “Scrubs” can complete all the tasks and meet the module 1 – level 1 skills objectives. Once the lab
+                                                  representative is happy that the “Squire's” have passed on their knowledge to the “Scrubs”, and the
+                                                  “Scrubs” can demonstrate their new skills to the lab representative, will the “Squires” be allowed
+                                                  to advance.</para>
+                                        <itemizedlist>
+                                                  <title>Level 1 – Skills Objectives:</title>
+                                                  <listitem>
+                                                            <para>Communication skills.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Basic team leadership.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Knowledge retention and recall.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Skills evaluation.</para>
+                                                  </listitem>
+                                        </itemizedlist>
+                              </section>
+                              <section>
+                                        <title>Level 2 - “Delagator”</title>
+                                        <para>Again, the volunteer will have one to four module1 “Newts” assigned to him/her. General instructions
+                                                  will be provided by the lab representative. It is up to the module 2 volunteers to make sure that
+                                                  his/her “Newts” can complete all the tasks and meet the module 1 – level 2 skills objectives. Only
+                                                  once the lab representative is happy that the “Delagators” have passed on their knowledge to the
+                                                  “Newts”, and the “Newts” can demonstrate their new skills to the lab representative, will the
+                                                  “Delagators” be allowed to advance.</para>
+                                        <itemizedlist>
+                                                  <title>Level 2 – Skills objectives:</title>
+                                                  <listitem>
+                                                            <para>Team leadership or one on one interaction.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Technical communication.</para>
+                                                  </listitem>
+                                        </itemizedlist>
+                              </section>
+                              <section>
+                                        <title>Level 3 - “Initiates”</title>
+                                        <para>Level 3 will be the “Linux System Administration” course. A maximum of 30 people can be accommodated at
+                                                  a time. Volunteers who were left behind in previous module2 activities and have finished the
+                                                  required pre-training requirements may also enrol for this training course. If demand requires, the
+                                                  course will be run when needed to avoid any bottlenecks in the process. Refer to the appropriate
+                                                  section in the “Course structure” for the overview.</para>
+                                        <itemizedlist>
+                                                  <title>Level 3 – Skills objectives:</title>
+                                                  <listitem>
+                                                            <para>Understanding the Linux Kernel.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>System backups.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>File system Hierarchy Standard.</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>Package management and</para>
+                                                  </listitem>
+                                                  <listitem>
+                                                            <para>System log files.</para>
+                                                  </listitem>
+                                        </itemizedlist>
+                              </section>
+                              <section>
+                                        <title>Level 4 - “Top Dogs”</title>
+                                        <para>Only two volunteers will be selected to fulfill the role of training module1 “Gnats” to set up a
+                                                  &productname; server. This is a specialized activity that requires a good understanding of how a
+                                                  &productname; works. Unfortunately, an excessive number of volunteers participating in this
+                                                  activity will not benefit anyone. The two “Top Dogs” will be selected from the level 3 system
+                                                  administration course and selection will be based on individual performance during the the training.
+                                                  Instruction will be provided by the lab representative and participants will receive documentation
+                                                  on the technical aspects of the &productname; theory of operation. </para>
+                                        <para>The rest of the module 2 volunteers can proceed on to the next module once they have received the
+                                                  &productname; theory of operation document.</para>
+                              </section>
+                    </section>
+                    <section id="reservists">
+                              <title>Module 3 - “Reservists”</title>
+                              <para>The process of setting up a &productname; doesn't change much. The cabling, thin-clients and server still need
+                                        to be set-up and configured. In this stage the volunteer may be expected to supervise any of the Module1 and 2
+                                        activities - even then only a finite number of new experiences can be gained at each &productname;.
+                                        Module3 volunteers will be required to participate in the set-up of at least 1(one) &productname; in order
+                                        to proceed to the next training class, “Advanced Workshops”. That way, once everything is known about setting
+                                        up a &productname;, volunteers will not get bored with the activities but instead see them as a means to
+                                        “pay” for GNU/Linux training. The Shuttleworth &productname; program will therefore be successful if
+                                        volunteers have something tangible to attain – certifiable skills (see “Training”). Also, as the process of
+                                        setting up &productname;s becomes more easy for the majority of volunteers, the Foundation can step back
+                                        and merely facilitate the process.</para>
+                              <para>During this phase, additional incentives may be provided at the Foundation's discretion. Examples include, but are
+                                        not limited to: t-shirts, Linux copies and food at events.</para>
+                    </section>
+                    <section>
+                              <title>Public recognition</title>
+                              <para>Setting up an &productname; is great. Receiving public acknowledgement is even better! Once a volunteer has
+                                        completed all the GNU/Linux courses and reached module 3, he/she will have the facility to manage an on-line
+                                        “portfolio”.</para>
+                              <para>The Foundation will showcase it's successful volunteers by giving them a web page containing details of their
+                                        activity within the Shuttleworth &productname; project. The page will display a picture of the volunteer
+                                        and have all their relevant statistics, how many labs they participated in, peer statements, what training
+                                        they received etc. This could be used as an employment tool for the unemployed volunteer or as a bragging
+                                        piece for the employed section.</para>
+                    </section>
+          </section>
+</chapter>

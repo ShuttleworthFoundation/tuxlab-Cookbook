@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE appendix PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+                      "http://www.docbook.org/xml/4.4/docbookx.dtd"
+[ 
+<!ENTITY % globalents SYSTEM "../common/global.ent">
+ %globalents; 
+ <!ENTITY % xinclude SYSTEM "../libs/xinclude.mod">
+%xinclude;
+ ]>
+<appendix id="apdx-mou">
+	<title>Memorandum of Understanding (MoU)</title>
+	<section>
+		<title>PARTIES</title>
+		<para>This agreement is made between:</para>
+		<orderedlist>
+			<listitem>
+				<para>The Shuttleworth Foundation of 12 Plein Street, Durbanville, 7551 ("Donor"); and</para>
+			</listitem>
+			<listitem>
+				<para>School Name (the"Donee").</para>
+			</listitem>
+		</orderedlist>
+		<para/>
+	</section>
+	<section>
+		<title>PURPOSE OF DONATION</title>
+		<orderedlist>
+			<listitem>
+				<para id="app_donation_purpose">The Donee hereby undertakes to utilise the donation for the exclusive purpose agreed to by the Donor. The
+					specific purpose and project for which the donation has been requested and is made, is:</para>
+				<orderedlist>
+					<listitem>
+						<para>The establishment of an open source based computing facility on the Donee's premises. This computer lab will be used for the
+							purpose of providing computer instruction and computer-based learning to educators, learners and volunteers participating in
+							Shuttleworth tuXlab Program.</para>
+					</listitem>
+					<listitem>
+						<para>The establishment of and involvement in a support cluster among neighbouring schools participating in the Shuttleworth tuXlab
+							Program.</para>
+					</listitem>
+					<listitem>
+						<para>The growth of open source skills through the encouragement and use of volunteers in the installation and operation of the
+						lab.</para>
+					</listitem>
+				</orderedlist>
+			</listitem>
+			<listitem>
+				<para id="app_conditions">In order to best achieve the purpose stated in <xref linkend="app_donation_purpose"/>, the following conditions
+					hold:</para>
+				<orderedlist>
+					<listitem>
+						<para>It is the responsibility of the Donee to provide a suitably prepared and secure environment for the operation of the tuXlab
+							facility. A full list of requirements has been provided to the Donee by the Donor. See attachment 1.</para>
+					</listitem>
+					<listitem>
+						<para>The Linux operating system and associated open source software will always be used for all facility workstations as well as
+							the facility server. The use of open source software will always have preference over using proprietary software; the
+							installation of proprietary software shall only be allowed should no suitable open source equivalent exist.</para>
+					</listitem>
+					<listitem>
+						<para>The Donee will be obliged to identify and research open source educational software for computer-based curriculum
+						delivery.</para>
+					</listitem>
+					<listitem>
+						<para>The Donee shall establish a computer committee consisting of no less than three school employees. This committee will be
+							responsible for coordinating the daily operation and ensuring optimum usage of the facility.</para>
+					</listitem>
+					<listitem>
+						<para>The Donee's staff will be responsible for providing computer training and lab support.</para>
+					</listitem>
+					<listitem>
+						<para>The Donee shall ensure that a representative number of its educators are involved in the setting-up of the facility,
+							performing tasks such as the installation of network cabling and configuration of the workstations. The majority of educators
+							will also be required to participate in all training sessions offered by the Donor or computer facilitator.</para>
+					</listitem>
+					<listitem>
+						<para>Together with neighbouring schools participating in the Shuttleworth tuXlab program, the school will be responsible for the
+							establishment of a local cluster committee, consisting minimally of the computer lab committee members from each individual
+							school.</para>
+					</listitem>
+					<listitem>
+						<para>The school's lab committee is required to actively participate in the cluster committee. Each member will be required to relay
+							information regarding their lab, such as experiences, problems, suggestions, as well as provide support to the other cluster
+							participants.</para>
+					</listitem>
+					<listitem>
+						<para>The school's lab committee is required to assist with installation of two labs at future selected schools, within a two month
+							period from school's lab installation.</para>
+					</listitem>
+					<listitem>
+						<para>The Donee shall prepare a plan outlining the intended use of the facility and present this to the Donor. The Donee shall
+							ensure that this plan indicates how the lab will be incorporated into classroom activities so that all learners and teachers can
+							benefit from the lab.</para>
+					</listitem>
+					<listitem>
+						<para>If a school has existing hardware, it may be replaced by the Donor with refurbished equipment if the existing equipment is not
+							suitable. The existing equipment will be used to form part of an incentive scheme to participants from the school community. The
+							Donor and Donee will set the criteria for selection of incentive recipient. </para>
+					</listitem>
+					<listitem>
+						<para>The Donee will make the facility available at least once a month for the purpose of open day workshops. Dates must be mutually
+							agreeable by both parties. The Donee will ensure that a staff member will be present during these sessions.</para>
+					</listitem>
+					<listitem>
+						<para>Any course material or content developed by the Donee in the tuXlab will be made freely available to the Donor for use in the
+							tuXlab programme and in other programmes initiated and sponsored by the Donor.</para>
+					</listitem>
+				</orderedlist>
+			</listitem>
+			<listitem>
+				<para>In the event that:</para>
+				<orderedlist>
+					<listitem>
+						<para>it is apparent to any duly authorised representative of the Donor that any donation which has already been made available to
+							the Donee (or any representative of the Donee) are in fact being used for any purpose not reasonably contemplated in <xref
+								linkend="app_donation_purpose"/>, above; or</para>
+					</listitem>
+					<listitem>
+						<para>the Donor has cause to reasonably suspect that the donation provided by the Donor is being or is about to be used for a
+							purpose other than that contemplated in <xref linkend="app_donation_purpose"/>, </para>
+					</listitem>
+				</orderedlist>
+				<para>hen the Donor shall, in its sole discretion be entitled to cancel this agreement and to the extent that the donation has been used
+					for an unauthorised purpose, to claim the return of any amount donated to the Donee in terms thereof together with any equipment or
+					other asset acquired with such funds and the Donee shall not be entitled to hold the Donor liable for any damages flowing from such
+					cancellation or claim for repayment of the donation.</para>
+			</listitem>
+		</orderedlist>
+	</section>
+	<section>
+		<title>PROVISION OF DONATION</title>
+		<orderedlist>
+			<listitem>
+				<para id="app_funding">The Donor shall internally allocate funding to the amount of R 00,000.00(AMOUNT IN WORDS SEE BELOW TABLE Rand)
+					which will be used for the purpose of obtaining hardware, services and funding miscellaneous costs in order to establish the computer
+					lab.</para>
+			</listitem>
+			<listitem>
+				<para>Should any funding be made available to the Donee, it is specifically recorded that the funding made available by the Donor shall be
+					used for the purpose set out in <xref linkend="app_donation_purpose"/> and in the event that the Donee shall require that any part of
+					the funding shall be used for a purpose not contemplated in <xref linkend="app_donation_purpose"/>, the Donee shall, prior to incurring
+					any such non-authorised expenditure, obtain the prior written approval of the Donor.</para>
+			</listitem>
+			<listitem>
+				<para>The donation shall, subject to <xref linkend="app_conditions"/> be made available as follows:</para>
+				<orderedlist>
+					<listitem>
+						<para>Funds will be released on an ad-hoc basis, at the Donor's sole discretion, based on the progress of the project. It is
+							specifically recorded that funds allocated, subject to <xref linkend="app_funding"/>, to the procurement of equipment for the
+							project are part of the Donor’s 2005/2006 budget. </para>
+					</listitem>
+					<listitem>
+						<para>The purchasing of all equipment, contracting of services and miscellaneous requirements will be coordinated by the Donor. All
+							payments for project expenses will be made directly by the Donor. </para>
+					</listitem>
+					<listitem>
+						<para>he following equipment shall be purchased by the Donor on behalf of the Donee (indicated costs are approximates):</para>
+						<table>
+							<title>Costs</title>
+							<tgroup cols="4" align="left">
+								<colspec colnum="1" colname="col1" colwidth="1*"/>
+								<colspec colnum="2" colname="col2" colwidth="3*"/>
+								<colspec colnum="3" colname="col3" colwidth="1*"/>
+								<colspec colnum="4" colname="col4" colwidth="1*"/>
+								<tbody>
+									<row>
+										<entry>1</entry>
+										<entry>Xeon Server unit</entry>
+										<entry>R</entry>
+										<entry>00.00</entry>
+									</row>
+									<row>
+										<entry>1</entry>
+										<entry>24 port switch </entry>
+										<entry>R</entry>
+										<entry>00.00</entry>
+									</row>
+									<row>
+										<entry>20</entry>
+										<entry>Power cables</entry>
+										<entry>R</entry>
+										<entry>00.00</entry>
+									</row>
+									<row>
+										<entry>20</entry>
+										<entry>Network cards and boot proms</entry>
+										<entry>R</entry>
+										<entry>00.00</entry>
+									</row>
+									<row>
+										<entry>20</entry>
+										<entry>Network cabling, RJ45's and boots</entry>
+										<entry>R</entry>
+										<entry>00.00</entry>
+									</row>
+									<row>
+										<entry>1</entry>
+										<entry>tuXlab kit </entry>
+										<entry>R</entry>
+										<entry>00.00</entry>
+									</row>
+									<row>
+										<entry/>
+										<entry align="right">
+											<emphasis role="bold">Total</emphasis>
+										</entry>
+										<entry>R</entry>
+										<entry>00.00</entry>
+									</row>
+								</tbody>
+							</tgroup>
+						</table>
+					</listitem>
+					<listitem>
+						<para>The Donor does not provide any warranties on equipment; the suppliers of the equipment shall enforce warranties in the
+							instances where warranties exist. Additionally, the Donor shall not be held responsible for the reparation or replacement of any
+							equipment that is damaged or stolen while that equipment is in the possession of the Donee.</para>
+					</listitem>
+					<listitem>
+						<para>An additional discretionary amount will be made available to the Donee to contribute towards expenses such as provision of
+							resource manuals, lab launch, volunteer travel expenses, etc.</para>
+					</listitem>
+				</orderedlist>
+			</listitem>
+			<listitem>
+				<para>The Donor shall have the right, in its sole discretion, not to make any further donation available should the progress of the
+					project not be satisfactory or alternatively the Donor may delay any proposed donation until it is satisfied entirely within its own
+					discretion that the progress of the project is satisfactory or the Donee has given such other assurances to the Donor as it may find
+					acceptable to ensure the progress of the project.</para>
+			</listitem>
+			<listitem>
+				<para>In the event that the Donor:</para>
+				<orderedlist>
+					<listitem>
+						<para>is or becomes aware that the donation is being utilised for an unauthorised purpose; or</para>
+					</listitem>
+					<listitem>
+						<para>if there is a reasonable suspicion thereof; or</para>
+					</listitem>
+					<listitem>
+						<para>if the Donee fails to submit any report required pursuant to 6.2 and 6.5;</para>
+					</listitem>
+					<listitem>
+						<para>if the Donee fails to keep the necessary records as required by clause 6;</para>
+					</listitem>
+					<listitem>
+						<para>If the tuXlab is not used for a period of 6 months or more;</para>
+					</listitem>
+				</orderedlist>
+				<para>the Donor shall be entitled to refuse to make available any future proposed donation unless the Donor receives satisfactory
+					assurances from the Donee that such donation will not be utilised for an unauthorised purpose.</para>
+			</listitem>
+			<listitem>
+				<para>If the Donee utilises or there is a reasonable suspicion by the Donor that the donation will be utilised for an unauthorised purpose
+					(as contemplated in 3.5 above):</para>
+				<orderedlist>
+					<listitem>
+						<para>the Donor shall be under no obligation whatsoever to make any further donation available to the Donee; and</para>
+					</listitem>
+					<listitem>
+						<para>the Donor shall be entitled to reclaim payment of any donation paid to the Donee, but as yet unspent; and</para>
+					</listitem>
+					<listitem>
+						<para>take possession of all assets (whether tangible or intangible) acquired with the proceeds of the donation.</para>
+					</listitem>
+				</orderedlist>
+			</listitem>
+		</orderedlist>
+	</section>
+	<section>
+		<title>NAMING RIGHTS</title>
+		<para>The Donor reserves the right to select an official name for the facility for which the donation is being provided., the purpose of which
+			is outlined in <xref linkend="app_donation_purpose"/>. Should the Donor not elect to choose an official name, the Donee may select an
+			official name that the Donor must then approve.</para>
+	</section>
+	<section>
+		<title>FORCE MAJEURE</title>
+		<para>The Donor shall not be liable for the performance of any of its obligations in terms of this agreement where performance of same is
+			rendered impossible or impractical by virtue of the occurrence of any event beyond its reasonable control which renders such performance
+			impossible or impractical including, but not limited to, theft of equipment or funds or any increase in costs not contemplated at the time of
+			entering into the agreement, the occurrence of which event shall entitle the Donor to immediately cancel the agreement and the Donee shall
+			not be entitled to hold the Donor liable for any damages flowing from such cancellation.</para>
+	</section>
+	<section>
+		<title>REPORTING</title>
+		<orderedlist>
+			<listitem>
+				<para>The Donee shall, if required by the Donor, present the Donor with a proposal document setting out the nature of the project, event
+					or series of events for which donation is sought, the amount of donation sought and such other information as the Donor may reasonably
+					require so as to enable it to obtain a clear understanding of the event or activity for which the donation is required.</para>
+			</listitem>
+			<listitem>
+				<para>The Donor requires that the Donee submit a comprehensive written report (or a further written report as the case may be) setting out
+					details of the progress of the events or activities for which the donation has been obtained. This report should be submitted quarterly
+					for the first three years of operation of the facility.</para>
+			</listitem>
+			<listitem>
+				<para>Such interim report as contemplated in 6.2 above, shall contain such information as the Donor shall reasonably require so as to
+					enable it to make an assessment of the progress and continued viability of the project or activity for which the donation is sought, as
+					described in <xref linkend="app_donation_purpose"/> above.</para>
+			</listitem>
+			<listitem>
+				<para>The Donee shall ensure that a representative will attend scheduled monthly Shuttleworth tuXlab workshops.</para>
+			</listitem>
+			<listitem>
+				<para>The Donee shall ensure that from the date that the donation is made available to the Donee to the date of completion of the agreed
+					project or activities (or if terminated earlier pursuant to this agreement, the termination date) that accurate records are kept of all
+					expenses incurred by the Donee together with all supporting vouchers and invoices.</para>
+			</listitem>
+			<listitem>
+				<para>Any donation which remains un-utilised by the Donee at the conclusion of the project shall be repaid to the Donor immediately on
+					completion of the project.</para>
+			</listitem>
+		</orderedlist>
+	</section>
+	<section>
+		<title>PROMOTION AND ADVERTISING</title>
+		<orderedlist>
+			<listitem>
+				<para>Both parties shall be entitled, without restriction, to promote and advertise its association with each other. </para>
+			</listitem>
+			<listitem>
+				<para>Both parties shall use their best endeavours to promote the tuXlab by providing editorial copy relating to and facilitating media
+					coverage of the donation and activities relating thereto.</para>
+			</listitem>
+			<listitem>
+				<para>Both parties shall be entitled, without restriction and where deemed appropriate, to make and publish performance and evaluation
+					reports on the proejct and on each other. Both parties shall be entitled to use any media, including (but not limited to) Internet
+					websites, radio, television and print media such that any member of the public may be aware of and have access to such performance
+					reports and evaluations.</para>
+			</listitem>
+		</orderedlist>
+	</section>
+	<section>
+		<title>DOMICILIUM AND NOTICES</title>
+		<orderedlist>
+			<listitem>
+				<para>The Parties choose their domicilium citandi et executandi ("Domicilium") for the purposes of the giving of any notice, the payment
+					of any sum, the serving of any process and for any other purpose arising from this Agreement at their respective addresses stipulated
+					in clause 1 above.</para>
+			</listitem>
+			<listitem>
+				<para>Each of the Parties shall be entitled, from time to time, by written notice to the other, to vary its Domicilium to any other
+					address within the Republic of South Africa which is not a post office box or poste restante.</para>
+			</listitem>
+			<listitem>
+				<para>Any notice required or permitted to be given in terms of this Agreement shall be valid and effective only if in writing.</para>
+			</listitem>
+			<listitem>
+				<para>Any notice given and any payment made by one party to another (the "Addressee") which:-</para>
+				<orderedlist>
+					<listitem>
+						<para>is delivered by hand during the normal business hours of the Addressee at the Addressee's Domicilium for the time being shall
+							be presumed, until the contrary is proved, to have been received by the Addressee at the time of delivery; or</para>
+					</listitem>
+					<listitem>
+						<para>is given by telex or by facsimile shall be deemed (in the absence of proof to the contrary) to have been received within 24
+							(twenty four) hours of transmission where it is transmitted during normal business hours of the receiving instrument and within
+							48 (forty eight) hours of transmission where it is transmitted outside those business hours.</para>
+					</listitem>
+				</orderedlist>
+			</listitem>
+		</orderedlist>
+		<para>Should the terms and conditions be accepted by you, kindly indicate your acceptance thereof by signing this agreement in the space
+			provided below and initialling all annexures hereto and return a copy thereof to our offices at your earliest convenience.</para>
+		<para/>
+		<informaltable frame="none">
+			<tgroup cols="3">
+				<colspec colnum="1" colname="col1" colwidth="6*"/>
+				<colspec colnum="2" colname="col2" colwidth="1*"/>
+				<colspec colnum="3" colname="col3" colwidth="6*"/>
+				<tbody>
+					<row>
+						<entry colsep="0">
+							<para/>
+						</entry>
+						<entry rowsep="0" colsep="0">
+							<para/>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row>
+						<entry colsep="0" rowsep="0">
+							<para>FOR THE SHUTTLEWORTH FOUNDATION</para>
+						</entry>
+						<entry rowsep="0" colsep="0">
+							<para/>
+						</entry>
+						<entry rowsep="0">
+							<para>FOR DONEE</para>
+						</entry>
+					</row>
+					<row>
+						<entry rowsep="0" colsep="0">
+							<para/>
+						</entry>
+						<entry rowsep="0" colsep="0">
+							<para/>
+						</entry>
+						<entry rowsep="0" colsep="0">
+							<para/>
+						</entry>
+					</row>
+					<row>
+						<entry colsep="0">
+							<para/>
+						</entry>
+						<entry rowsep="0" colsep="0">
+							<para/>
+						</entry>
+						<entry>
+							<para/>
+						</entry>
+					</row>
+					<row>
+						<entry colsep="0" rowsep="0">
+							<para>DATE</para>
+						</entry>
+						<entry rowsep="0" colsep="0">
+							<para/>
+						</entry>
+						<entry rowsep="0">
+							<para>DATE</para>
+						</entry>
+					</row>
+					<row>
+						<entry colsep="0" rowsep="0">
+							<para/>
+						</entry>
+						<entry rowsep="0" colsep="0">
+							<para/>
+						</entry>
+						<entry rowsep="0">
+							<para/>
+						</entry>
+					</row>
+					<row>
+						<entry colsep="0" rowsep="0">
+							<para/>
+						</entry>
+						<entry rowsep="0" colsep="0">
+							<para/>
+						</entry>
+						<entry rowsep="0">
+							<para/>
+						</entry>
+					</row>
+					<row>
+						<entry colsep="0" rowsep="0">
+							<para>AS WITNESSES</para>
+						</entry>
+						<entry rowsep="0" colsep="0">
+							<para/>
+						</entry>
+						<entry rowsep="0">
+							<para>AS WITNESSES</para>
+						</entry>
+					</row>
+					<row>
+						<entry colsep="0">
+							<para>1.</para>
+						</entry>
+						<entry rowsep="0" colsep="0">
+							<para/>
+						</entry>
+						<entry>
+							<para>1.</para>
+						</entry>
+					</row>
+					<row>
+						<entry colsep="0">
+							<para>2.</para>
+						</entry>
+						<entry rowsep="0" colsep="0">
+							<para/>
+						</entry>
+						<entry colsep="0">
+							<para>2.</para>
+						</entry>
+					</row>
+					<row>
+						<entry rowsep="1" colsep="0">
+							<para/>
+						</entry>
+						<entry rowsep="0" colsep="0">
+							<para/>
+						</entry>
+						<entry rowsep="1" colsep="0">
+							<para/>
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</informaltable>
+	</section>
+</appendix>

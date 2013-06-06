@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<para>This module deals with the hardware requirements, setup and installation, network creation, and server configuration for the TuXlab lab. The
+          first section deals with the concepts of &quot;thin-client&quot; computing and use of the Linux Terminal Server Project (LTSP). The
+          second section deals with the requirements of the thin client and server computers, including information regarding the refurbishment of
+          older computers to use as thin-clients. The third section presents a discussion of networking, from the question of &quot;Why
+          network&quot; to descriptions of the equipment needed and how to use them. The fourth section deals with the various configuration
+          processes that need to be followed when setting up a TuXlab. The fifth and final section then deals with an evaluation of the hardware usage
+          of the TuXlab, mentioning benefits and drawbacks.</para>
+          <para>Once you have read through this module you will have been introduced to the physical machines that form the core of a TuXlab.</para>

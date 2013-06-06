@@ -1,0 +1,52 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/docbook/xsl/slides/htmlhelp
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-01-17T08:51:17.692369Z
+106
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+htmlhelp.xsl
+file
+
+
+
+
+2007-06-04T08:50:23.000000Z
+6ddfee21f6efaf0c9629f61d7c019c41
+2007-01-17T08:51:17.692369Z
+106
+techdocs
+
+ChangeLog
+file
+
+
+
+
+2007-06-04T08:50:23.000000Z
+1e6b74e39687fa8372c0b8626020cd09
+2007-01-17T08:51:17.692369Z
+106
+techdocs
+

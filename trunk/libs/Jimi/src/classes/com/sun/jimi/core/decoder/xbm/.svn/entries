@@ -1,0 +1,54 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/Jimi/src/classes/com/sun/jimi/core/decoder/xbm
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-01-17T10:19:28.770871Z
+116
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+XBMDecoder.class
+file
+
+
+
+
+2007-06-04T08:55:25.000000Z
+c5f1615d6618e7fd601c260a31e201e1
+2007-01-17T10:19:28.770871Z
+116
+techdocs
+has-props
+
+XBMDecoderFactory.class
+file
+
+
+
+
+2007-06-04T08:55:25.000000Z
+91d44c7c307c151bf63908b3ad4f039f
+2007-01-17T10:19:28.770871Z
+116
+techdocs
+has-props
+

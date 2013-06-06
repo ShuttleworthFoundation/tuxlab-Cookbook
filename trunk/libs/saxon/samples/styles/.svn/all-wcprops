@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/samples/styles
+END
+books-sql.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/samples/styles/books-sql.xsl
+END
+tour10.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/samples/styles/tour10.xsl
+END
+tour11.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/samples/styles/tour11.xsl
+END
+bible.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/samples/styles/bible.xsl
+END
+books.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/samples/styles/books.xsl
+END
+books-tle.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/samples/styles/books-tle.xsl
+END
+books-attsets.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/samples/styles/books-attsets.xsl
+END
+total.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/samples/styles/total.xsl
+END
+play.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/samples/styles/play.xsl
+END
+books-csv.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/techdocs/tuxlab/!svn/ver/117/trunk/libs/saxon/samples/styles/books-csv.xsl
+END

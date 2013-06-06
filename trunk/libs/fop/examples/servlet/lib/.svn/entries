@@ -1,0 +1,53 @@
+8
+
+dir
+122
+https://svn1.cvsdude.com/techdocs/tuxlab/trunk/libs/fop/examples/servlet/lib
+https://svn1.cvsdude.com/techdocs/tuxlab
+
+
+
+2007-01-17T09:55:37.371937Z
+114
+techdocs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c4ca543-dd12-0410-a26a-3b76ba88126a
+
+servlet.LICENSE.txt
+file
+
+
+
+
+2007-06-04T08:55:03.000000Z
+263f2077838541aa85a8daf35d10cb4b
+2007-01-17T09:55:37.371937Z
+114
+techdocs
+
+servlet-2.2.jar
+file
+
+
+
+
+2007-06-04T08:55:03.000000Z
+df43add35b2debb690326036b566bc8f
+2007-01-17T09:55:37.371937Z
+114
+techdocs
+has-props
+
