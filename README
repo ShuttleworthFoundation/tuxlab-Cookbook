@@ -10,5 +10,3 @@ With pwd root of trunk, do
 	$ant
 
 This will build the PDF in pwd.
-
-Support: Sean Wheller <sean@inwords.co.za>
